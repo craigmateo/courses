@@ -1,0 +1,109 @@
+\documentclass[13.5pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\usepackage{amssymb}
+\usepackage[usenames, dvipsnames]{color}
+\usepackage[T1]{fontenc}
+\usepackage{biblatex}
+
+\lhead{KEITH DEVLIN: Introduction to Mathematical Thinking}
+\chead{}
+\rhead{ASSIGNMENT 1 (for Lecture 1)}
+
+\begin{document}
+
+\begin{enumerate}
+\item{Simplify the following symbolic statements as much as you can, leaving your answer in the standard symbolic form. (In case you are not familiar with the notation, I'll answer the first one for you.)
+}\\
+
+\begin{enumerate} 
+  \item{\((\pi>0)\wedge(\pi<10)\)   [Answer: \(0 < \pi<10\).]}
+  \item{\((p\geq7)\wedge(p<12)\)}   \textcolor{blue}{[\(7\leq p <12\).]} 
+  \item{\((x>5)\wedge(x<7)\)}   \textcolor{blue}{[\(5<x<7\).]} 
+  \item{\((x<4)\wedge(x<6)\)}   \textcolor{blue}{[\(x<6\).]} 
+  \item{\((y<4)\wedge(y^2<9)\)}   \textcolor{blue}{[\(y<3\).]} 
+  \item{\((x\geq0)\wedge(x\leq0)\)}   \textcolor{blue}{[\(x=0\).]} 
+\end{enumerate}
+
+\item{Express each of your simplified statements from question 1 in natural English.}
+
+\begin{enumerate}
+\item \textcolor{blue}{Pi is less than ten and greater than zero.}
+\item \textcolor{blue}{\(p\) is greater than or equal to seven but less than twelve.}
+\item \textcolor{blue}{\(x\) is between five and seven non-inclusive.}
+\item \textcolor{blue}{\(x\) is less than six.}
+\item \textcolor{blue}{\(y\) is less than three.}
+\item \textcolor{blue}{\(x\) is zero.}
+
+\end{enumerate}
+
+\item{What strategy would you adopt to show that the conjunction \(\phi_1\wedge\phi_2\wedge...\wedge \phi_n\) is true? }\\
+\textcolor{blue}{Show that each one of \(\phi_1\,\phi_2,...,\phi_n\) is true.}
+
+\item{What strategy would you adopt to show that the conjunction \(\phi_1\wedge\phi_2\wedge...\wedge \phi_n\) is false? }\\
+\textcolor{blue}{Show that any one of \(\phi_1\,\phi_2,...,\phi_n\) is false.}
+
+\item{Simplify the following symbolic statements as much as you can, leaving your answer in a standard symbolic form (assuming you are familiar with the notation):}
+
+\begin{enumerate} 
+  \item{\((\pi>3)\vee(\pi>10)\)}    \textcolor{blue}{[\(\pi>3\).]}
+  \item{\((x<0)\vee(x>0)\)}   \textcolor{blue}{[\(x\neq0\).]}
+  \item{\((x=0)\vee(x>0)\)}   \textcolor{blue}{[\(x\geq0\).]} 
+  \item{\((x>0)\vee(x\leq0)\)}   \textcolor{blue}{[\(x\in \mathbb{Z}\).]} 
+  \item{\((x>3)\vee(x^2>9)\)}   \textcolor{blue}{[\(|x|>3\).]} 
+\end{enumerate}
+
+\item{Express each of your simplified statements from question 5 in natural English.}
+
+\begin{enumerate}
+\item \textcolor{blue}{Pi is greater than three.}
+\item \textcolor{blue}{\(x\) is not equal to zero.}
+\item \textcolor{blue}{\(x\) is greater than or equal to zero.}
+\item \textcolor{blue}{\(x\) is an integer.}
+\item \textcolor{blue}{The absolute value of \(x\) is greater than three.}
+\end{enumerate}
+
+\item{What strategy would you adopt to show that the disjunction \(\phi_1\vee\phi_2\vee...\vee \phi_n\) is true? }\\
+\textcolor{blue}{Show that any one of \(\phi_1\,\phi_2,...,\phi_n\) is true.}
+
+\item{What strategy would you adopt to show that the disjunction \(\phi_1\vee\phi_2\vee...\vee \phi_n\) is false? }\\
+\textcolor{blue}{Show each one of \(\phi_1\,\phi_2,...,\phi_n\) is false.}
+
+\item{ Simplify the following symbolic statements as much as you can, leaving your answer in a standard symbolic form (assuming you are familiar with the notation):}
+
+\begin{enumerate} 
+  \item{\(\neg(\pi>3.2)\)}    \textcolor{blue}{[\(\pi\leq3.2\).]}
+  \item{\(\neg(x<0)\)}   \textcolor{blue}{[\(x\geq0\).]}
+  \item{\(\neg(x^2>0)\)}   \textcolor{blue}{[\(x=0\).]} 
+  \item{\(\neg(x=1)\)}   \textcolor{blue}{[\(x\neq1\).]} 
+  \item{\(\neg \neg \psi\)}   \textcolor{blue}{[\(\psi\).]} 
+\end{enumerate}
+
+\item{Express each of your simplified statements from question 9 in natural English.}
+
+\begin{enumerate}
+\item \textcolor{blue}{Pi is less than or equal to 3.2.}
+\item \textcolor{blue}{\(x\) is greater than or equal to zero.}
+\item \textcolor{blue}{\(x\) equals zero.}
+\item \textcolor{blue}{\(x\) does not equal one.}
+\item \textcolor{blue}{Psi.}
+\end{enumerate}
+
+\item{Let \(D\) be the statement "The dollar is strong", \(Y\) the statement "The Yuan is strong" and \(T\) the statement "New US-China trade agreement signed". Express the main content of each of the following (fictitious) newspaper headlines in logical notation. (Note that logical notation captures truth, but not the many nuances and inferences of natural language.) How would you justify and defend your answers?}
+
+\begin{enumerate}
+\item {Dollar and Yuan both strong.} \textcolor{blue}{\(D \wedge Y\).}\\
+\textcolor{blue}{It is true that the dollar is strong and the Yuan is strong.}
+\item {Yuan weak despite new trade agreement, but Dollar remains strong.} \textcolor{blue}{\( \neg Y \wedge T \wedge D\).}\\
+\textcolor{blue}{It is true that there is a new trade agreement and the dollar is strong. It is false that the Yuan is strong.}
+\item {Dollar and Yuan can't both be strong at same time.} \textcolor{blue}{\( \neg (Y \wedge D)\).}\\
+\textcolor{blue}{This is the negation of (a).}
+\item {New trade agreement does not prevent fall in Dollar and Yuan.} \textcolor{blue}{\( \neg Y \wedge T \wedge \neg D\).}\\
+\textcolor{blue}{It is true that there is a new trade agreement. Both the dollar and Yuan are not strong}
+\item {US-China trade agreement fails but both currencies remain strong} \textcolor{blue}{\( \neg T \wedge Y \wedge D\).}\\
+\textcolor{blue}{It is false that there is a new trade agreement. Both the dollar and Yuan are strong}
+\end{enumerate}
+
+\end{enumerate}
+\end{document}
