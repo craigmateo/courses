@@ -1,0 +1,74 @@
+\documentclass[13.5pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\usepackage{amssymb}
+\usepackage[usenames, dvipsnames]{color}
+\usepackage[T1]{fontenc}
+\usepackage{biblatex}
+\usepackage{amsmath}% http://ctan.org/pkg/amsmath
+\newcommand{\notimplies}{%
+  \mathrel{{\ooalign{\hidewidth$\not\phantom{=}$\hidewidth\cr$\implies$}}}}
+
+\lhead{KEITH DEVLIN: Introduction to Mathematical Thinking}
+\chead{}
+\rhead{ASSIGNMENT 3}
+
+\begin{document}
+
+\begin{enumerate}
+\item{Let \(D\) be the statement "The dollar is strong", \(Y\) the statement "The Yuan is strong" and \(T\) the statement "New US-China trade agreement signed". Express the main content of each of the following (fictitious) newspaper headlines in logical notation. (Remember, logical notation captures truth, but not the many nuances and inferences of natural language.) As before, make sure you could justify and defend your answers.}
+
+\begin{enumerate}
+\item {New trade agreement will lead to strong currencies in both countries.} \textcolor{blue}{\(T \Rightarrow (D\wedge Y\)).}\\
+\textcolor{blue}{If there is a trade agreement, then the dollar and Yuan will be strong.}
+\item {Strong Dollar means a weak Yuan.}  \textcolor{blue}{\(D \Rightarrow \neg Y\).}\\
+\textcolor{blue}{If the dollar is strong, then the Yuan is not strong.}
+\item {Trade agreement fails on news of weak Dollar.} \textcolor{blue}{\( \neg D\Rightarrow \neg T\).}\\
+\textcolor{blue}{The trade agreement fails as a consequence of a weak dollar.}
+\item {If new trade agreement is signed, Dollar and Yuan can't both remain strong.} \textcolor{blue}{\( T \Rightarrow \neg(D \wedge T)\).}\\ 
+\textcolor{blue}{If it is the case that there is a new trade agreement, then both the dollar and Yuan are not strong}
+\item {Dollar weak but Yuan strong, following new trade agreement.} \textcolor{blue}{\(T \Rightarrow (Y \wedge \neg D)\).}\\
+\textcolor{blue}{The fact that the dollar is weak and Yuan is strong follows from the trade agreement.}
+\item {If the trade agreement is signed, a rise in the Yuan will result in a fall in the Dollar.} \\ \textcolor{blue}{\(T\Rightarrow(Y \Rightarrow \neg D)\).} \textcolor{blue}{If there is a trade agreement then a weak dollar will follow from a strong Yuan.}
+\item {New trade agreement means Dollar and Yuan will rise and fall together.} \textcolor{blue}{\(T\Rightarrow(Y \Leftrightarrow D)\).}\\ 
+\textcolor{blue}{If there is a trade agreement then a strong dollar will follow from a strong Yuan and vice versa.}
+\item {New trade agreement will be good for one side, but no one knows which.} \textcolor{blue}{\(T\Rightarrow(Y \vee D)\wedge \neg(D\wedge Y)\).}\\ 
+\textcolor{blue}{If there is a trade agreement then one of them will be strong and it is not the case that both will be strong.}
+\end{enumerate}
+
+\item{Complete the following truth table.}
+
+\begin{center}
+\begin{tabular}{ c c c c c}
+ \(\phi\) & \(\neg \phi\) & \(\psi\) & \(\phi \Rightarrow \psi\) & \(\neg \phi \vee \psi\)\\ 
+\hline
+ T & \textcolor{blue}{F} & T & \textcolor{blue}{T} & \textcolor{blue}{T}\\ 
+ T & \textcolor{blue}{F} & F & \textcolor{blue}{F} & \textcolor{blue}{F}\\  
+ F & \textcolor{blue}{T} & T & \textcolor{blue}{T} & \textcolor{blue}{T}\\   
+ F & \textcolor{blue}{T} & F & \textcolor{blue}{T} & \textcolor{blue}{T}
+\end{tabular}
+\end{center}
+
+\item{What conclusions can you draw from the above table?}\\
+\textcolor{blue}{\(\phi \Rightarrow \psi\) is equivalent to \(\neg \phi \vee \psi\).}
+
+\item{Complete the following truth table.}
+
+\begin{center}
+\begin{tabular}{ c c c c c c}
+ \(\phi\) & \(\psi\) & \(\neg \psi\) & \(\phi \Rightarrow \psi\) & \(\phi \notimplies \psi\) & \(\phi \wedge \neg \psi\)\\ 
+\hline
+ T & T & \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{F}\\\ 
+ T & F & \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{T}\\  
+ F & T & \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{F}\\   
+ F & F & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{F}
+\end{tabular}
+\end{center}
+
+\item{What conclusions can you draw from the above table?}\\
+\textcolor{blue}{\(\phi \notimplies \psi\) is equivalent to \(\phi \wedge \neg \psi\)\\ .}
+
+
+\end{enumerate}
+\end{document}
