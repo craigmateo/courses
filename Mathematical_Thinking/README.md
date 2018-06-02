@@ -1,6 +1,6 @@
 # An Introduction to Mathematical Thinking
 
-My solutions to assignments for the Coursera course "An Introduction to Mathematical Thinking" from Standford University. 
+My solutions to assignments for the Coursera course "An Introduction to Mathematical Thinking" from Stanford University. 
 Course Description: https://www.coursera.org/learn/mathematical-thinking
 
 These are my original solutions and not necessarily the same as the solutions provided in the tutorials. If you are taking this course, please feel free to contact me to discuss content.
