@@ -163,9 +163,115 @@ Thus, negation has the affect that it changes \(\vee\) into \(\wedge\) and chang
 \end{tabular}
 \end{center}
 
-\item{Show that \(\phi \Leftrightarrow \psi\). is equivalent to \((\neg \phi) \Leftrightarrow (\neg \psi)\)  }
+\item{ Construct truth tables to illustrate the following:}
 
+\begin{enumerate}
+\setlength{\itemindent}{.1in}
+\item{\(\psi \Leftrightarrow \phi\)}
+\item{\(\phi \Rightarrow (\psi \vee \theta)\)}
+\end{enumerate}
+\begin{center}
+\begin{tabular}{c c c c c c c c}
+ \(\phi\) & \(\psi\) & \(\theta\) & \(\phi \Rightarrow \psi\) & \(\psi \Rightarrow \phi\) & \(\psi \Leftrightarrow \phi\) & \(\psi \vee \theta\) & \(\phi \Rightarrow (\psi \vee \theta)\)\\ 
+\hline
+ \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} \\ 
+ \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{T} \\ 
+ \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{T} \\ 
+ \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{T} \\ 
+\end{tabular}
+\end{center}
 
+\item{Use truth tables to prove that the following are equivalent:  \(\phi \Rightarrow (\psi \wedge \theta)\) and \((\phi \Rightarrow \psi) \wedge (\phi \Rightarrow \theta)\)}\
+
+\begin{center}
+\begin{tabular}{c c c c c c c c}
+ \(\phi\) & \(\psi\) & \(\theta\) & \(\psi \wedge \theta\) & \(\phi \Rightarrow (\psi \wedge \theta)\) & \(\phi \Rightarrow \psi\) & \(\phi \Rightarrow \theta\) & \((\phi \Rightarrow \psi) \wedge (\phi \Rightarrow \theta)\) \\
+\hline
+
+ \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T}\\ 
+ 
+ \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{F}\\ 
+ 
+ \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{F}\\
+ 
+ \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{F}\\ 
+ 
+  \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T}\\
+  
+ \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T}\\ 
+ 
+ \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T}\\ 
+ 
+ \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T}\\ 
+ 
+ 
+\end{tabular}
+\end{center}
+
+\item{Verify the equivalence in the previous question by means of a logical argument.}
+
+\begin{enumerate}
+\setlength{\itemindent}{.1in} 
+\item[1.]  \textcolor{blue} {\(\phi \Rightarrow (\psi \wedge \theta)\) means that if \(\phi\) is true then \(\psi \wedge \theta\) is also true.}
+\item[2.]  \textcolor{blue} {This means that if \(\phi\) is true then \(\psi\) is true and \(\theta\) is true.}
+\item[3.]  \textcolor{blue} {It follows that \(\phi\ \Rightarrow \psi\) is the case and \(\phi\ \Rightarrow \theta\) is the case.}
+\item[3.]  \textcolor{blue} {By the definition of conjunction, this is the same as \((\phi \Rightarrow \psi) \wedge (\phi\ \Rightarrow \theta)\).}
+\end{enumerate}
+
+\item{Use truth tables to prove the equivalence of \(\phi \Rightarrow \psi\) and  \((\neg\psi) \Rightarrow (\neg\phi)\). }
+\begin{center}
+\begin{tabular}{c c c c c c}
+ \(\phi\) & \(\psi\) & \(\phi \Rightarrow \psi\) & \(\neg\phi\) &\(\neg\psi\) & \((\neg\psi) \Rightarrow (\neg\phi)\) \\
+\hline
+ \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{T} \\ 
+ \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{F}\\ 
+ \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{T}\\ 
+ \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T}\\ 
+\end{tabular}
+\end{center}
+
+\item{Write down the contrapositives of the following statements:}
+
+\begin{enumerate}
+\setlength{\itemindent}{.1in}
+\item{If two rectangles are congruent, they have the same area}\
+\textcolor{blue} {If two rectangles do not have the same area, they are not congruent}
+\item{If a triangle with sides \(a\), \(b\), \(c\) (\(c\) largest) is right-angled then \(a^2 + b^2 = c^2. \)}\
+\textcolor{blue} {If a triangle has sides \(a\), \(b\), \(c\) (\(c\) largest) and it is not the case that \(a^2 + b^2 = c^2\), then the triangle is not right-angled.}
+\item{If \(2^n-1\) is prime, then \(n\) is prime. }\
+\textcolor{blue} {If \(n\) is not prime, then \(2^n-1\) is not prime.}
+\item{If the Yuan rises, the Dollar will fall.}\
+\textcolor{blue} {If the Dollar does not fall, then the Yuan will not rise.}
+
+\end{enumerate}
+
+\item{It is important not to confuse the contrapositive of a conditional  \(\phi \Rightarrow \psi\) with its \textit{converse} \(\psi \Rightarrow \phi\). Use truth tables to show that the contrapositive and the converse of \(\phi \Rightarrow \psi\) are not equivalent. }
+
+\begin{center}
+\begin{tabular}{c c c c c c c}
+ \(\phi\) & \(\psi\) & \(\phi \Rightarrow \psi\) & \(\neg\phi\) &\(\neg\psi\) & \((\neg\psi) \Rightarrow (\neg\phi)\) & \(\psi \Rightarrow \phi\) \\
+\hline
+ \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{T} \\ 
+ \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{T}\\ 
+ \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{F}\\ 
+ \textcolor{blue}{F} & \textcolor{blue}{F} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T} & \textcolor{blue}{T}\\ 
+\end{tabular}
+\end{center}
+
+\item{ Write down the converses of the four statements in question 12.}
+
+\begin{enumerate}
+\setlength{\itemindent}{.1in}
+\item{If two rectangles are congruent, they have the same area}\
+\textcolor{blue} {If two rectangles have the same area, they are congruent.}
+\item{If a triangle with sides \(a\), \(b\), \(c\) (\(c\) largest) is right-angled then \(a^2 + b^2 = c^2. \)}\
+\textcolor{blue} {If a triangle has sides \(a\), \(b\), \(c\) (\(c\) largest) and\(a^2 + b^2 = c^2\), then the triangle is right-angled.}
+\item{If \(2^n-1\) is prime, then \(n\) is prime. }\
+\textcolor{blue} {If \(n\) is prime, then \(2^n-1\) is prime.}
+\item{If the Yuan rises, the Dollar will fall.}\
+\textcolor{blue} {If the Dollar falls, then the Yuan will rise.}
+
+\end{enumerate}
 
 \end{enumerate}
 \end{document}
