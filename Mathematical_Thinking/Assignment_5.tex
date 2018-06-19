@@ -1,0 +1,66 @@
+\documentclass[13.5pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\usepackage{amssymb}
+\usepackage[usenames, dvipsnames]{color}
+\usepackage[T1]{fontenc}
+\usepackage{biblatex}
+\usepackage{amssymb}
+\usepackage{amsmath}% http://ctan.org/pkg/amsmath
+\newcommand{\notimplies}{%
+  \mathrel{{\ooalign{\hidewidth$\not\phantom{=}$\hidewidth\cr$\implies$}}}}
+
+\lhead{KEITH DEVLIN: Introduction to Mathematical Thinking}
+\chead{}
+\rhead{ASSIGNMENT 5}
+
+\begin{document}
+\begin{enumerate}
+
+\item{Express the following as existence assertions.}
+
+\begin{enumerate}
+\setlength{\itemindent}{.1in}
+\item{The equation \(x^3=27\) has a natural number solution.}\
+\textcolor{blue} { \( \exists x \in \mathbb{N}: x^3=27\). }
+\item{\(1,000,000\) is not the largest natural number.}\
+\textcolor{blue} { \( \exists x \in \mathbb{N}: x>1,000,000\). }
+\item{The natural number \( n>1\) is not prime}.\
+\textcolor{blue} { \( \exists n,a,b \in \mathbb{N};  n>1; a,b<n: n=ab\). }
+
+\end{enumerate}
+
+
+\item{ Express the following as 'for all' assertions (using symbols and words):}
+
+\begin{enumerate}
+\setlength{\itemindent}{.1in}
+\item{The equation \(x^3=28\) does not have a natural number solution.}\
+\textcolor{blue} { \(\forall x \in \mathbb{N}, x^3\neq28\). }
+\item{\(0\) is less than every natural number.}\
+\textcolor{blue} { \(\forall x \in \mathbb{N}, 0<x\). }
+\item{The natural number \( n>1\) is a prime}.\
+\textcolor{blue} { \(\forall x \in \mathbb{N}, \exists n>x: n\) is prime. }
+\end{enumerate}
+
+\item{Express the following in symbolic form, using quantifiers for people:}
+\begin{enumerate}
+\setlength{\itemindent}{.1in}
+\item{Everybody loves somebody.}\
+\textcolor{blue} {(\(\forall x\))(\(\exists y\))(\(L(x,y)\), where \(L(x,y)\) denotes \(x\) loves \(y\). }
+\item{Everyone is tall or short.}\
+\textcolor{blue} { (\(\forall x\))[\(Tall(x) \vee Short(x)\)]. }
+\item{Everyone is tall or everyone is short.}\
+\textcolor{blue} {(\(\forall x\))\(Tall(x) \vee (\forall x)Short(x)\). }
+\item{Nobody is at home.}\
+\textcolor{blue} {(\(\forall x\))\(\neg\) At-home\((x)\). }
+\item{If John comes, all the women will leave.}\
+\textcolor{blue} {(\(Comes(John)\))\(\Rightarrow\) (\(\forall x\))[\(Woman(x) \Rightarrow Leaves(x)\)]. }
+\item{If a man comes, all the women will leave.}\
+\textcolor{blue} {(\( \exists x\))[\(Man(x) \Rightarrow Comes(x)\)]\(\Rightarrow\) (\(\forall x\))[\(Woman(x) \Rightarrow Leaves(x)\)]. }
+\end{enumerate}
+
+
+\end{enumerate}
+\end{document}
