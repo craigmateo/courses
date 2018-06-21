@@ -82,10 +82,15 @@
 \begin{enumerate}
 \setlength{\itemindent}{.1in}
 \item{All domestic cars are badly made.}\
-\item{All foreign cars are badly made.}\
+\textcolor{blue} { \((\forall x\in C)[D(x) \Rightarrow M(x)]\). }
+\item{All foreign cars are badly made.}
+\textcolor{blue} { \((\forall x\in C)[\neg D(x) \Rightarrow M(x)]\). }
 \item{All badly made cars are domestic.}\
+\textcolor{blue} { \((\forall x\in C)[M(x) \Rightarrow D(x)]\). }
 \item{There is a domestic car that is not badly made.}\
-\item{There is a foreign car that is not badly made.}\
+\textcolor{blue} { \((\exists x\in C)[\neg M(x) \wedge D(x)]\). }
+\item{There is a foreign car that is badly made.}\
+\textcolor{blue} { \((\exists x\in C)[M(x) \wedge \neg D(x)]\). }
 \end{enumerate}
 
 \item{Express the following sentence symbolically, using only quantifiers for real numbers, logical connectives, the order relation \(<\), and the symbol \(Q(x)\) meaning '\(x\) is rational': }
@@ -93,11 +98,26 @@
 \textit{You can find a rational number between any two unequal real numbers.}
 \end{center}
 
+\begin{center}
+\textcolor{blue} { \(\forall p\in \forall q[(p<q)\Rightarrow\exists (Q(x)\wedge(q<x<p))]\)}
+\end{center}
+
 \item{Express the following famous statement (popularly, but falsely, believed to be due to Abraham Lincoln) using quantifiers for people and times: "You may fool all the people some of the time, you can even fool some of the people all of the time, but you cannot fool all of the people all the time." }
+
+\textcolor{blue} {Let \(F(x,t)\) mean "You can fool person \(p\) at time \(t\). }\
+
+\textcolor{blue} {\(\exists t \forall p F(p,t) \wedge \exists p \forall t F(p,t)\wedge \neg \forall p \forall t F(p,t)\)}
 
 \item{ A US newspaper headline read, "A driver is involved in an accident every six seconds." Let \(x\) be a variable to denote a driver, \(t\) a variable for a six second interval, and let \(A(x,t)\) be the property that \(x\) is in an accident during interval \(t\). Express the headline (as written) in logical notation. }
 
+\textcolor{blue} {\(\exists x \forall t A(x,t)\)}
+
 \item{Rewrite the headline so that its literal meaning is what the headline writer was trying to convey, and express your revised version in logical notation.}
+
+\textcolor{blue} {Every six seconds a driver gets into an accident. }\
+
+\textcolor{blue} {\(\forall t \exists x A(x,t)\)}
+
 
 \end{enumerate}
 \end{document}
