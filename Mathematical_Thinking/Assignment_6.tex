@@ -1,0 +1,181 @@
+\documentclass[13.5pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\usepackage{amssymb}
+\usepackage[usenames, dvipsnames]{color}
+\usepackage[T1]{fontenc}
+\usepackage{biblatex}
+\usepackage{amssymb}
+\usepackage{amsmath}% http://ctan.org/pkg/amsmath
+\newcommand{\notimplies}{%
+  \mathrel{{\ooalign{\hidewidth$\not\phantom{=}$\hidewidth\cr$\implies$}}}}
+
+\lhead{KEITH DEVLIN: Introduction to Mathematical Thinking}
+\chead{}
+\rhead{ASSIGNMENT 6}
+
+\begin{document}
+\begin{enumerate}
+
+\item{Show that \(\neg[\exists x A(x)]\) is equivalent to \(\forall x [\neg A(x)]\).}
+
+
+\textcolor{blue} {\(\neg[\exists x A(x)]\) means there does not exist an \(x\) such that \(A(x)\) is true. This implies that for all \(x\), \(A(x)]\) is not the case. In symbolic notation, this statement is equivalent to \(\forall x [\neg A(x)]\).}
+
+
+\item{ Prove that the following statement is false:}
+
+\begin{center}
+\textit{There is an even prime bigger than \(2\) .}
+\end{center}
+
+\textcolor{blue} {Assume the statement is true, that is \(\exists x[(x\) prime\()(x>2)(x=2n)\) for some \(n\in\mathbb{N}\). \(x=2/n\), which means that \(n>1\) (since \(x>2\)). However, if \(n>1\) then \(x\) cannot be prime since a prime number is divisible by \(1\) and itself and \(x\) is divisible by \(2\).}
+
+\item{Translate the following sentences into symbolic form using quantifiers. In each case the assumed domain is given in parentheses.}
+\begin{enumerate}
+\setlength{\itemindent}{.1in}
+
+\item{All students like pizza. (All people)}\
+\textcolor{blue} {(\(\forall x)(S(x)\Rightarrow P(x))\).}\
+\item{One of my friends does not have a car. (All people)}\ 
+\textcolor{blue} {\(\exists x(F(x)\wedge \neg C(x))\).}\
+\item{Some elephants do not like muffins. (All animals)}\
+\textcolor{blue} {\(\exists a(E(a)\wedge \neg M(a))\).}\
+\item{Every triangle is isosceles. (All geometric figures)}\
+\textcolor{blue} {(\(\forall g)(T(g)\Rightarrow I(g))\).}\
+\item{Some of the students in the class are not here today. (All people)}\
+\textcolor{blue} {\(\exists x(S(x)\wedge \neg P(x))\).}\
+\item{Everyone loves somebody. (All people)}\
+\textcolor{blue} {\(\forall x\)(\(\exists y\))\(L(x,y)\), where \(L(x,y)\) denotes \(x\) loves \(y\). }
+\item{Nobody loves everybody. (All people)}\
+\textcolor{blue} {\( \neg [\exists x(\forall y)L(x,y)\)], where \(L(x,y)\) denotes \(x\) loves \(y\). }
+\item{If a man comes, all the women will leave. (All people)}\
+\textcolor{blue} {\( \exists x[M(x) \Rightarrow C(x)]\Rightarrow \forall x)[W(x) \Rightarrow L(x)\)].}
+\item{All people are tall or short. (All people)}\
+\textcolor{blue} {\( \forall x((T(x)\vee (S(x))]\).}\
+\item{All people are tall or all people are short. (All people)}\
+\textcolor{blue} {\( \forall x[(T(x)\wedge \neg S(x))\vee (S(x) \wedge \neg T(x))]\).}\
+\item{Not all precious stones are beautiful. (All stones)}\
+\textcolor{blue} {\(\exists x(P(x)\wedge \neg B(x))\).}\
+\item{Nobody loves me. (All people)}\
+\textcolor{blue} {\(\forall x(\neg \exists x)(L(x,m))\), where \(L(x,m)\) denotes \(x\) loves \(me\). }
+\item{At least one American snake is poisonous. (All snakes)}\
+\textcolor{blue} {\(\exists x(A(x) \wedge P(x))\).}\
+\item{At least one American snake is poisonous. (All animals)}\
+\textcolor{blue} {\(\exists x(S(x)\wedge A(x) \wedge P(x))\).}\
+
+\end{enumerate}
+
+
+\item{Negate each of the symbolic statements you wrote in the last question, putting your answers in positive form. Then express each negation in natural, idiomatic English.}
+\begin{enumerate}
+\setlength{\itemindent}{.1in}
+
+\item{All students like pizza. (All people)}\
+\textcolor{blue} {(\(\exists x)(S(x)\wedge \neg P(x))\).}\
+\textcolor{blue} {There's a student who doesn't like pizza.}\
+
+\item{One of my friends does not have a car. (All people)}\ 
+\textcolor{blue} {\(\exists x(F(x)\wedge \neg C(x))\).}\
+\item{Some elephants do not like muffins. (All animals)}\
+\textcolor{blue} {\(\exists a(E(a)\wedge \neg M(a))\).}\
+\item{Every triangle is isosceles. (All geometric figures)}\
+\textcolor{blue} {(\(\forall g)(T(g)\Rightarrow I(g))\).}\
+\item{Some of the students in the class are not here today. (All people)}\
+\textcolor{blue} {\(\exists x(S(x)\wedge \neg P(x))\).}\
+\item{Everyone loves somebody. (All people)}\
+\textcolor{blue} {\(\forall x\)(\(\exists y\))\(L(x,y)\), where \(L(x,y)\) denotes \(x\) loves \(y\). }
+\item{Nobody loves everybody. (All people)}\
+\textcolor{blue} {\( \neg [\exists x(\forall y)L(x,y)\)], where \(L(x,y)\) denotes \(x\) loves \(y\). }
+\item{If a man comes, all the women will leave. (All people)}\
+\textcolor{blue} {\( \exists x[M(x) \Rightarrow C(x)]\Rightarrow \forall x)[W(x) \Rightarrow L(x)\)].}
+\item{All people are tall or short. (All people)}\
+\textcolor{blue} {\( \forall x((T(x)\vee (S(x))]\).}\
+\item{All people are tall or all people are short. (All people)}\
+\textcolor{blue} {\( \forall x[(T(x)\wedge \neg S(x))\vee (S(x) \wedge \neg T(x))]\).}\
+\item{Not all precious stones are beautiful. (All stones)}\
+\textcolor{blue} {\(\exists x(P(x)\wedge \neg B(x))\).}\
+\item{Nobody loves me. (All people)}\
+\textcolor{blue} {\(\forall x(\neg \exists x)(L(x,m))\), where \(L(x,m)\) denotes \(x\) loves \(me\). }
+\item{At least one American snake is poisonous. (All snakes)}\
+\textcolor{blue} {\(\exists x(A(x) \wedge P(x))\).}\
+\item{At least one American snake is poisonous. (All animals)}\
+\textcolor{blue} {\(\exists x(S(x)\wedge A(x) \wedge P(x))\).}\
+
+\end{enumerate}
+
+\item{Which of the following are true? The domain for each is given in parentheses.}
+
+\begin{enumerate}
+\setlength{\itemindent}{.1in}
+\item{\(\exists x(2x+3=5x+1)\) (Natural numbers)}\
+\textcolor{blue} {False: not natural}
+\item{\(\exists x(x^2=2)\) (Rational numbers)}\
+\textcolor{blue} {False: irrational}
+\item{\(\forall x \exists y(y=x^2)\) (Real numbers)}\
+\textcolor{blue} {True}
+\item{\(\forall x \exists y(y=x^2)\) (Natural numbers)}\
+\textcolor{blue} {True}
+\item{\(\forall x \exists y \forall z (xy=xz)\) (Real numbers)}\
+\textcolor{blue} {True}
+\item{\(\forall x \exists y \forall z (xy=xz)\) (Prime numbers)}\
+\textcolor{blue} {True}
+\item{\(\forall x[x<0 \Rightarrow \exists y(y^2=x)])\) (Real numbers)}\
+\textcolor{blue} {False: \(x=-1 \Rightarrow y=\sqrt{-1}\)}
+\item{\(\forall x[x<0 \Rightarrow \exists y(y^2=x)])\) (Positive real numbers)}\
+\textcolor{blue} {True}
+\end{enumerate}
+
+\item{Negate each of the statements in the last question, putting your answers in positive form.}
+
+\begin{enumerate}
+\setlength{\itemindent}{.1in}
+\item \textcolor{blue} {\(\forall x(2x+3\neq5x+1)\) (Natural numbers)}\
+\item \textcolor{blue} {\(\exists x(x^2\neq2)\) (Rational numbers)}\
+\item \textcolor{blue} {\(\forall x \forall y(y\neq x^2)\) (Real numbers)}\
+\item \textcolor{blue} {\(\forall x \forall y(y\neq x^2)\) (Natural numbers)}\
+\item \textcolor{blue} {\(\exists x \forall y \exists z (xy\neq xz)\) (Real numbers)}\
+\item \textcolor{blue} {\(\exists x \forall y \exists z (xy\neq xz)\) (Prime numbers)}\
+\item \textcolor{blue} {\(\exists x[x<0 \wedge \neg (y^2=x)])\) (Real numbers)}\
+\item \textcolor{blue} {\(\exists x[x<0 \wedge \neg (y^2=x)])\) (Positive real numbers)}\
+\end{enumerate}
+
+\item{Negate the following statements and put each answer into positive form:}
+
+\begin{enumerate}
+\setlength{\itemindent}{.1in}
+\item{\((\forall x \in \mathbb{N})(\exists y \in \mathbb{N})(x+y=1)\)}\
+\textcolor{blue} {\((\exists x \in \mathbb{N})(\forall y \in \mathbb{N})(x+y \neq 1)\)}\
+\item{\((\forall x>0)(\exists y<0)(x+y=0)\ (x, y \) are real variables)}\
+\textcolor{blue} {\((\forall x>0)(\exists y<0)(x+y \neq 0)\)}\
+\item{\(\exists x(\forall \epsilon >0)(-\epsilon<x<\epsilon)\ (x, \epsilon \) are real variables)}\
+\textcolor{blue} {\(\forall x(\exists \epsilon >0)(x\leq -\epsilon \vee x\geq \epsilon)\)}\
+\item{\((\forall x \in \mathbb{N})(\forall y \in \mathbb{N})(\exists z \in \mathbb{N}(x+y=z^2)\)}\
+\textcolor{blue} {\((\exists x \in \mathbb{N})(\exists y \in \mathbb{N})(\forall z \in \mathbb{N})(x+y \neq z^2)\)}\
+\end{enumerate}
+
+\item{Give a negation (in positive form) of the famous "Abraham Lincoln sentence" which we met in the previous assignment: "You may fool all the people some of the time, you can even fool some of the people all of the time, but you cannot fool all of the people all the time."}\
+
+\textcolor{blue} {Let \(F(x,t) \) mean "You can fool person \(p\) at time \(t\)." Lincoln's statement is: }\
+
+\textcolor{blue} {\( \exists t \forall p F(x,t) \wedge \exists p \forall t F(p,t) \wedge \neg \forall p \forall t F(p,t) \)}\
+
+\textcolor{blue} {NEGATION:}\
+
+\textcolor{blue} {\( \forall t \exists p F(x,t) \vee \forall p \exists t \neg F(p,t) \vee \forall p \forall t F(p,t)\)}
+
+\item{The standard definition of a real function \(f\) \textit{being continuous at a point}  \(x=a\) is}\
+
+\begin{center}
+\textit{\((\forall \epsilon > 0)(\exists \delta > 0)(\forall x)[|x-a|<\delta \Rightarrow |f(x)-f(a)| < \epsilon] \)}
+\end{center}
+
+{Write down a formal definition for \(f\) \textit{being discontinuous at} \(a\). Your definition should be in positive form.}\
+
+\begin{center}
+\textcolor{blue} {\((\exists \epsilon > 0)(\forall \delta > 0)(\exists x)[|x-a|<\delta \wedge |f(x)-f(a)| \geq \epsilon] \)}
+\end{center}
+
+\end{enumerate}
+\end{document}
