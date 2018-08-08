@@ -1,0 +1,146 @@
+\documentclass[13.5pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{fancyhdr}
+\usepackage{ulem}
+\pagestyle{fancy}
+\usepackage{amssymb}
+\usepackage[usenames, dvipsnames]{color}
+\usepackage[T1]{fontenc}
+\usepackage{biblatex}
+\usepackage{amssymb}
+\usepackage{amsmath}% http://ctan.org/pkg/amsmath
+\newcommand{\notimplies}{%
+  \mathrel{{\ooalign{\hidewidth$\not\phantom{=}$\hidewidth\cr$\implies$}}}}
+
+\lhead{KEITH DEVLIN: Introduction to Mathematical Thinking}
+\chead{}
+\rhead{ASSIGNMENT 7}
+
+\begin{document}
+\begin{enumerate}
+
+\item{Prove or disprove the statement "All birds can fly."}
+
+\textcolor{blue} {FALSE. Counterexample: Penguin}
+
+\item{Prove or disprove the claim \((\forall x,y \in\mathbb{R})[(x-y)^2 > 0]\)}
+
+\textcolor{blue} {FALSE. Counterexample: \(x=y=1 \Rightarrow (x-y)^2 = 0\)}
+
+\item{Prove that between any two unequal rationals there is a third rational.}
+
+\textcolor{blue} {Let \(x, y \in\mathbb{Q}, x<y. \)}\\
+\textcolor{blue} {Then \(x=\frac{p}{q}, y=\frac{r}{s}\) , where \(p,q,r,s \in\mathbb{Z}.\)}\\
+\textcolor{blue} {Then \( \frac{x+y}{2} = \frac{\frac{p}{q}+\frac{r}{s}}{2} = \frac{\frac{ps+qr}{qs}}{2} = \frac{ps+qr}{2qs} \in\mathbb{Q}.\) But \( x< \frac{x+y}{2} <y \). }
+
+\item{Explain why proving \(\phi \Rightarrow \psi \) and \(\psi \Rightarrow \phi \) establishes the truth of \(\phi \Leftrightarrow \psi \). }
+
+\textcolor{blue} {\( \phi \Rightarrow \psi \) is true in all cases except when \(\phi\) is false and \(\psi \) is true. }\\
+\textcolor{blue} {\( \psi \Rightarrow \phi \) is true in all cases except when \(\psi\) is false and \(\phi \) is true. }\\
+\textcolor{blue} {This is the same as saying: if both conditionals are true, then it is not the case that \(\phi\) is false and \(\psi \) is true and it is not the case that \(\psi\) is false and \(\phi \) is true. }\\
+\textcolor{blue} {So \(\phi\) and \(\psi \) must either be both false or both true, since any other scenario would contradict the truth of both conditionals. }\\
+\textcolor{blue} {But if \(\phi\) and \(\psi \) are both false or both true, then \(\phi \Leftrightarrow \psi \) is always true. }
+
+\item{Explain why proving \(\phi \Rightarrow \psi \) and \( (\neg \phi) \Rightarrow (\neg \psi) \) establishes the truth of \(\phi \Leftrightarrow \psi \). }
+
+\textcolor{blue} {\( \phi \Rightarrow \psi \) is true in all cases except when \(\phi\) is false and \(\psi \) is true. }\\
+\textcolor{blue} {\( (\neg \psi) \Rightarrow (\neg \phi) \) is true in all cases except when \( (\neg \phi)\) is false and \((\neg \psi) \) is true or, equivalently, when \((\phi)\) is true and \((\psi) \) is false.}\\
+\textcolor{blue} {This is the same as saying: if both conditionals are true, then it is not the case that \(\phi\) is false and \(\psi \) is true and it is not the case that \(\psi\) is false and \(\phi \) is true. }\\
+\textcolor{blue} {So \(\phi\) and \(\psi \) must either be both false or both true, since any other scenario would contradict the truth of both conditionals. }\\
+\textcolor{blue} {But if \(\phi\) and \(\psi \) are both false or both true, then \(\phi \Leftrightarrow \psi \) is always true. }
+
+\item{Prove that if five investors split a payout of \$\(2\)M, at least one investor receives at least \$400,000. }\\
+\textcolor{blue} {Suppose no investor receives \$400,000.}\ 
+\textcolor{blue} {Then the maximum any one investor could receive is \$399,999.99. But then the maximum all five could receive would be \$1,999,999.95.}\
+\textcolor{blue} {This contradicts the original premise that they split \$2M.} 
+
+\item{Prove that \(\sqrt{3} \) is irrational. }\\
+\textcolor{blue} {Suppose \(\sqrt{3} \) is rational.}\
+\textcolor{blue} {Then \(\sqrt{3}=\frac{p}{q}\) where \(p,q \in\mathbb{Z}\) with no common factors.}\\
+\textcolor{blue} {\( 3=(\frac{p}{q})^2 = \frac{p^2}{q^2} \) }\\
+\textcolor{blue} {\( q^2 = 3p^2 \) }\\
+\textcolor{blue} {If \(p\) is even then \(q\) is also even and \(p, q\) have common factors. If \(p\) is odd then \(q\) is also odd.}\\
+\textcolor{blue} {So, let \(p=2n+1\) and \(q=2m+1\) for \(n,m \in\mathbb{Z}\)}\\
+\textcolor{blue} {\( (2n+1)^2 = 3(2m+1)^2 \) }\\
+\textcolor{blue} {\( 4n^2+4n+1 = 12m^2+12m+3 \) }\\
+\textcolor{blue} {\( 2n^2+2n=6m^2+6m+1\) }\\
+\textcolor{blue} {\( 2(n^2+n)=2(3m^2+3m)+1\) }\\
+\textcolor{blue} {But the left side of the equation is even, implying \(p\) is even}\\
+\textcolor{blue} {This is a contradiction, establishing the truth of the statement \(\sqrt{3} \) is irrational.}
+
+\item{Write down the converse of the following conditional statements:}
+
+\begin{enumerate}
+\setlength{\itemindent}{.1in}
+\item{If the Dollar falls the Yuan will rise.}\
+\textcolor{blue} {If the Yuan rises the Dollar will fall.}\
+\item{If \(x<y\) then \(-y<-x\). (For \( x, y \) real numbers.)}\
+\textcolor{blue} {If\(-y<-x\) then \(x<y\). (For \( x, y \) real numbers.)}\
+\item{If two triangles are congruent they have the same area.}\
+\textcolor{blue} {If two triangles have the same area they are congruent}\
+\item{The quadratic equation \(ax^2+bx+c=0\) has a solution whenever \(b^2 \geq 4ac\). (Where \(a,b,c,x\) denote real numbers and \(x \neq 0\).)}\
+\textcolor{blue} {If \(ax^2+bx+c=0\) has a solution then \(b^2 \geq 4ac\)}\
+\item{Let \(ABCD\) be a quadrilateral. If the opposite sides of \(ABCD\) are pairwise equal, then the opposite angles are pairwise equal)}\
+\textcolor{blue} {Let \(ABCD\) be a quadrilateral. If the opposite angles of \(ABCD\) are pairwise equal, then the opposite sides are pairwise equal.)}\
+\item{Let \(ABCD\) be a quadrilateral. If all four sides of \(ABCD\) are equal, then all four angles are equal.)}\
+\textcolor{blue} {Let \(ABCD\) be a quadrilateral. If all four angles of \(ABCD\) are equal, then all four sides are equal.)}\
+\item{If \(n\) is not divisible by \(3\) then \(n^2+5\) is divisible by \(3\). (For \(n\) a natural number)}\
+\textcolor{blue} {If \(n^2+5\) is divisible by \(3\) then \(n\) is not divisible by \(3\).}\
+\end{enumerate}
+
+\item{Discounting the first example, which of the statements in the previous question are true, for which is the converse true, and which are equivalent? Prove your answers.}
+
+\begin{enumerate}
+\setlength{\itemindent}{.1in}
+\item \sout{If the Dollar falls the Yuan will rise.}\
+\textcolor{blue} {\sout{If the Yuan rises the Dollar will fall.}}\
+\item{If \(x<y\) then \(-y<-x\). (For \( x, y \) real numbers.)}\
+\textcolor{blue} {If\(-y<-x\) then \(x<y\). (For \( x, y \) real numbers.)}\
+\textcolor{blue} {The conditional is true:}\\
+\textcolor{blue} {Suppose \(x<y\) and \(-y \geq -x\).}\
+\textcolor{blue} {Then \( \frac{-y}{-1} \geq \frac{-x}{-1}\) and \(y \leq x\).}\\
+\textcolor{blue} {This is a contradiction.}\\
+\textcolor{blue} {The converse is also true:}\\\
+\textcolor{blue} {Suppose \(-y<-x\) and \(x \geq y\).}\
+\textcolor{blue} {Then \(\frac{-y}{-1} > \frac{-x}{-1}\) and \(y > x\).}\\
+\textcolor{blue} {This is a contradiction.}
+
+\item{If two triangles are congruent they have the same area.}\
+\textcolor{blue} {If two triangles have the same area they are congruent}\
+
+\textcolor{blue} {The conditional is true:}\\
+\textcolor{blue} {Let \(X\) and \(Y\) be two congruent triangles with heights \(h\) and \(h'\) and bases of length \(b\) and \(b'\) respectively. The area of \(X\) is \(\frac{1}{2}bh\) and the area of \(Y\) is \(\frac{1}{2}b'h'\). The triangles are congruent so \(h=h'\) and \(b=b'\). It follows that Area(\(X\))\(=\)Area(\(Y\)).}\
+\textcolor{blue} {The converse is false:}\\
+\textcolor{blue} {Consider the right triangle \(A\) with base of length \(2\) and height \(1\) and triangle \(B\) with base of length \(4\) and height \(\frac{1}{2}\). Both \(A\) and \(B\) have the same area (\(\frac{1}{2}(2)(1) = \frac{1}{2}(4)(\frac{1}{2})=1\)), but they are not congruent.}\
+
+\item{The quadratic equation \(ax^2+bx+c=0\) has a solution whenever \(b^2 \geq 4ac\). (Where \(a,b,c,x\) denote real numbers and \(x \neq 0\).)}\
+\textcolor{blue} {If \(ax^2+bx+c=0\) has a solution then \(b^2 \geq 4ac\)}\
+
+\textcolor{blue} {The conditional is true:}\\
+\textcolor{blue} {Suppose \(b^2 \geq 4ac\) and \(ax^2+bx+c=0\) has no solution.}\\
+\textcolor{blue} {The quadratic formula stipulates that the solution of a quadratic equation \(ax^2+bx+c=0\) is given by \( x= -b \pm \frac{\sqrt{b^2 \geq 4ac}}{2a}\). If \(b^2 \geq 4ac\) then the quadratic formula has a real solution, which is a contradiction.}
+\textcolor{blue} {In the same way, we can show the converse is true.}
+
+\item{Let \(ABCD\) be a quadrilateral. If the opposite sides of \(ABCD\) are pairwise equal, then the opposite angles are pairwise equal}\
+\textcolor{blue} {Let \(ABCD\) be a quadrilateral. If the opposite angles of \(ABCD\) are pairwise equal, then the opposite sides are pairwise equal.)}
+
+\textcolor{blue} {The conditional is true:}\\
+\textcolor{blue} {Suppose the opposite sides of \(ABCD\) are pairwise equal and the opposite angles are not pairwise equal.} 
+\textcolor{blue} {Let \(\alpha\) and \(\beta\) be unequal angles such that \(\beta <\alpha\). }
+\textcolor{blue} {Let \(C'\) be the line segment extending \(\beta\) degrees from side \(B\) to meet the opposite side \(D\).  be unequal angles such that \(\beta <\alpha\). }
+
+
+
+
+
+
+\item{Let \(ABCD\) be a quadrilateral. If all four sides of \(ABCD\) are equal, then all four angles are equal.)}\
+\textcolor{blue} {Let \(ABCD\) be a quadrilateral. If all four angles of \(ABCD\) are equal, then all four sides are equal.)}\
+\item{If \(n\) is not divisible by \(3\) then \(n^2+5\) is divisible by \(3\). (For \(n\) a natural number)}\
+\textcolor{blue} {If \(n^2+5\) is divisible by \(3\) then \(n\) is not divisible by \(3\).}\
+
+
+\end{enumerate}
+
+\end{enumerate}
+\end{document}
