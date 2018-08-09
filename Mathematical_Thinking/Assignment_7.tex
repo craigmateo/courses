@@ -121,26 +121,84 @@
 \textcolor{blue} {The quadratic formula stipulates that the solution of a quadratic equation \(ax^2+bx+c=0\) is given by \( x= -b \pm \frac{\sqrt{b^2 \geq 4ac}}{2a}\). If \(b^2 \geq 4ac\) then the quadratic formula has a real solution, which is a contradiction.}
 \textcolor{blue} {In the same way, we can show the converse is true.}
 
-\item{Let \(ABCD\) be a quadrilateral. If the opposite sides of \(ABCD\) are pairwise equal, then the opposite angles are pairwise equal}\
-\textcolor{blue} {Let \(ABCD\) be a quadrilateral. If the opposite angles of \(ABCD\) are pairwise equal, then the opposite sides are pairwise equal.)}
+\item{Let \(ABCD\) be a quadrilateral. If the opposite sides of \(ABCD\) are pairwise equal, then the opposite angles are pairwise equal.}\
+\textcolor{blue} {Let \(ABCD\) be a quadrilateral. If the opposite angles of \(ABCD\) are pairwise equal, then the opposite sides are pairwise equal.}
 
 \textcolor{blue} {The conditional is true:}\\
 \textcolor{blue} {Suppose the opposite sides of \(ABCD\) are pairwise equal and the opposite angles are not pairwise equal.} 
 \textcolor{blue} {Let \(\alpha\) and \(\beta\) be unequal angles such that \(\beta <\alpha\). }
-\textcolor{blue} {Let \(C'\) be the line segment extending \(\beta\) degrees from side \(B\) to meet the opposite side \(D\).  be unequal angles such that \(\beta <\alpha\). }
-
-
-
-
-
-
+\textcolor{blue} {Let \(C'\) be the line segment extending \(\beta\) degrees from side \(B\) to meet the opposite side \(D\) to form a side \(D'\). But \(D'< D\) so \(D'\) is less than the opposite side \(B\). This contradicts the equality of opposite sides.}\
+\textcolor{blue} {The converse is true:}\\
+\textcolor{blue} {Suppose the opposite angles of \(ABCD\) are pairwise equal and the opposite sides are not pairwise equal.} 
+\textcolor{blue} {Let \(C'\) be a line segment that is unequal to its opposite side \(A\) such that \(C'<A\). The side \(B\) joining \(A\) and \(C'\) extends \(\beta\) degrees from side \(A\). But \(\beta\) is less than the opposite angle. This contradicts the equality of opposite angles.}
 \item{Let \(ABCD\) be a quadrilateral. If all four sides of \(ABCD\) are equal, then all four angles are equal.)}\
-\textcolor{blue} {Let \(ABCD\) be a quadrilateral. If all four angles of \(ABCD\) are equal, then all four sides are equal.)}\
-\item{If \(n\) is not divisible by \(3\) then \(n^2+5\) is divisible by \(3\). (For \(n\) a natural number)}\
+\textcolor{blue} {Let \(ABCD\) be a quadrilateral. If all four angles of \(ABCD\) are equal, then all four sides are equal.}\
+\textcolor{blue} {Both the conditional and converse are true. This follows from the previous result.}
+
+\item{If \(n\) is not divisible by \(3\) then \(n^2+5\) is divisible by \(3\). (For \(n\) a natural number)}
 \textcolor{blue} {If \(n^2+5\) is divisible by \(3\) then \(n\) is not divisible by \(3\).}\
+\textcolor{blue} {The conditional is true:}\\
+\textcolor{blue} {Suppose \(n\) is not divisible by \(3\) and \(n^2+5\) is not divisible by \(3\). This means there is no \(x\) such that \(n=3x\) and there is no \(y\) such that \(n^2+5=3y\). The contrapositive of this statement is that if \(n^2+5=3y\) then \(n=3x\) for integers \(x\) and \(y\).} 
+\textcolor{blue} {\(n^2=3y-5\) and \(n^2=9x^2\), so \(3y-5=9x^2\).}\\ 
+\textcolor{blue} {\(5=3y-9x^2=3(y-3x^2)\)}\\ 
+\textcolor{blue} {\(y-3x^2=\frac{5}{3}\)}\\
+\textcolor{blue} {But this means \(x\) and \(y\) are not both integers, since integer values for \(y-3x^2\) would equal an integer. The contrapositive is false, which is logically equivalent to saying the original statement is false. The statement "\(n\) is not divisible by \(3\) and \(n^2+5\) is not divisible by \(3\)" is, therefore, false by contradiction.}
+\textcolor{blue} {The converse can be proven in a similar manner.}
+\end{enumerate}
+\item{Prove or disprove the statement "An integer \(n\) is divisible by \(12\) if and only if \(n^3\) is divisible by \(12\)."}
+\textcolor{blue} {Consider \(n^3=24\). \(n^3\) is divisible by \(12\) but \(n=\sqrt[3]{24}\) is not divisible by \(12\).}
+
+\item{Let \(r\), \(s\) be irrationals. For each of the following, say whether the given number is necessarily irrational, and prove your answer.}
+\begin{enumerate}
+\setlength{\itemindent}{.1in}
+\item {\(r+3\)}\\
+\textcolor{blue} {Yes. Suppose \(r+3\) is rational. \(r+3=\frac{p}{q}\) for integers \(p\) and \(q\). Then \(r=\frac{p}{q}-3=\frac{p-3q}{q} \in\mathbb{Q}\). Contradiction.} 
+\item {\(5r\)}\\
+\textcolor{blue} {Yes. Suppose \(5r\) is rational. \(5r=\frac{p}{q}\) for integers \(p\) and \(q\). Then \(r=\frac{p}{5q} \in\mathbb{Q}\). Contradiction.} 
+
+\item {\(r+s\)}\\
+\textcolor{blue} {No. Consider \(a=2+\sqrt{2}\) and \(b=2-\sqrt{2}\) both \(a\) and \(b\) are irrational but \(a+b=4\) is rational.} 
+
+\item {\(rs\)}\\
+\textcolor{blue} {No. Consider \(a=\sqrt{3}\) and \(b=\sqrt{12}\) both \(a\) and \(b\) are irrational but \(ab=6\) is rational.} 
+
+\item {\(\sqrt{r}\)}\\
+\textcolor{blue} {Yes. Suppose \(\sqrt{r}\) is rational. \(\sqrt{r}=\frac{p}{q}\) for integers \(p\) and \(q\). Then \(r=\frac{p^2}{q^2} \in\mathbb{Q}\). Contradiction.} 
+
+\item {\(r^s\)}\\
+\textcolor{blue} {No. Consider \(a=\sqrt{2}^\sqrt{2}\). If \(a\) is irrational, then \(a^\sqrt{2}\) \(=\) \( \sqrt{2}^\sqrt{2}^\sqrt{2} \) \(=\) \(2\), which is rational.} 
+
+\end{enumerate}
+
+
+\item{Let \(m\) and \(n\) be integers. Prove that:}
+\begin{enumerate}
+\setlength{\itemindent}{.1in}
+\item {If \(m\) and \(n\) are even, then \(m+n\) is even.}\\
+\textcolor{blue} {If \(m\) and \(n\) are even then \(m=2p\) and \(n=2q\) for integers \(p\) and \(q\).}\\
+\textcolor{blue} {\(m+n=2p+2q=2(p+q)\) which is even.} 
+
+\item {If \(m\) and \(n\) are even, then \(mn\) is divisible by \(4\).}\\
+\textcolor{blue} {If \(m\) and \(n\) are even, then \(m=2p\) and \(n=2q\) for integers \(p\) and \(q\).}\\
+\textcolor{blue} {\(mn=2p(2q)=4pq\) which is divisible by \(4\).}
+
+\item {If \(m\) and \(n\) are odd, then \(m+n\) is even.}\\
+\textcolor{blue} {If \(m\) and \(n\) are even then \(m=2p+1\) and \(n=2q+1\) for integers \(p\) and \(q\).}\\
+\textcolor{blue} {\(m+n=2p+1+2q+1=2(p+q+1)\) which is even.} 
+
+\item {If one of \(m\) and \(n\) is even and the other is odd, then \(m+n\) is odd.}\\
+\textcolor{blue} {\(m=2p\) and \(n=2q+1\) for integers \(p\) and \(q\).}\\
+\textcolor{blue} {\(m+n=2p+2q+1=2(p+q)+1)\) which is odd.} 
+
+\item {If one of \(m\) and \(n\) is even and the other is odd, then \(mn\) is even.}\\
+\textcolor{blue} {\(m=2p\) and \(n=2q+1\) for integers \(p\) and \(q\).}\\
+\textcolor{blue} {\(mn=2p(2q+1)=4pq+2p=2(2pq+p)\) which is even (since \(2pq+p\) is an integer).} 
+
 
 
 \end{enumerate}
+
+
 
 \end{enumerate}
 \end{document}
