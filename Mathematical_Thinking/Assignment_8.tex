@@ -1,0 +1,69 @@
+\documentclass[13.5pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\usepackage{amssymb}
+\usepackage[usenames, dvipsnames]{color}
+\usepackage[T1]{fontenc}
+\usepackage{biblatex}
+\usepackage{amssymb}
+\usepackage{amsmath}% http://ctan.org/pkg/amsmath
+\newcommand{\notimplies}{%
+  \mathrel{{\ooalign{\hidewidth$\not\phantom{=}$\hidewidth\cr$\implies$}}}}
+
+\lhead{KEITH DEVLIN: Introduction to Mathematical Thinking}
+\chead{}
+\rhead{ASSIGNMENT 8}
+
+\begin{document}
+\begin{enumerate}
+
+\item{Prove or disprove the claim that there are integers \(m\),\(n\) such that \( m^2+mn+n^2\) is a perfect square.}
+
+\textcolor{blue} {Zero is an integer. So if \(m=0\), then \( m^2+mn+n^2=n^2\) which is a perfect square.}
+
+\item{Prove or disprove the claim that for any positive integer \(m\) there is a positive integer \(n\) such that \(mn+1\) is a perfect square.}
+
+\textcolor{blue} {If \(n=0\), then \(mn+1=1\) for any integer \(m\). \(1\) is a perfect square.}
+
+\item{Prove that there is a quadratic \(f(n)=n^2+bn+c\) with positive integer coefficients \(b\), \(c\), such that \(f(n)\) is composite (i.e. not prime) for all positive integers \(n\), or else prove that the statement is false.}   
+
+\textcolor{blue} {By induction:}\\
+\textcolor{blue} {Let \(P(n)\) be the statement that \(f(n)=n^2+bn+c\) is composite for all positive integers \(n\), where \(b\), \(c\) are positive integer coefficients}\\
+\textcolor{blue} {For \(n=1\), \(f(1)=1+b+c\), which is composite for \(b=1\), \(c=2\). So \(P(1)\) is true.}\\
+\textcolor{blue} {Induction step:}\\
+\textcolor{blue} {Assume \(P(k)\) is true for any integer \(k\).}
+\textcolor{blue} {\(P(k+1) = (k+1)^2+b(k+1)+c\)}\\
+\textcolor{blue} {\(P(k+1) = k^2+2k+1+bk+b+c\)}\\
+\textcolor{blue} {\(P(k+1) = P(k)+2k+1+b\)}\\
+\textcolor{blue} {If \(P(k)+2k+1+b\) is composite then the proof is done. Assuming \(P(k)+2k+1+b\) is prime:}\\
+\textcolor{blue} {We can always choose and integer \(b\) such that  \(P(k) = 2k+1+b\). But then \(P(k+1) = 2P(k)\) which can't be prime. So \(P(k+1)\) is always composite for some integers \(b\), \(c\).} 
+
+\item{Prove that if every even natural number greater than \(2\) is a sum of two primes (the Goldbach Conjecture), then every odd natural number greater than \(5\) is a sum of three primes.}
+
+\textcolor{blue} {Assume \(2n=p+q\) where \(p\) and \(q\) are primes and \(n\) is any integer such that \(n>1\). If \(m=2n\), then every odd natural number greater than \(5\) is given my \(m+3\). So \(m+3=p+q+3\). But \(3\) is a prime number, so \(m+3\) is the sum of three primes.}
+
+\item{Use the method of induction to prove that the sum of the first \(n\) odd numbers is equal to \(n^2\).}
+
+\textcolor{blue} {\(P(1)\) is true since \(1=1^2\)}\\
+\textcolor{blue} {Assuming \(P(k)\) is true, we show that \( P(k+1) \) is true.}\\
+\textcolor{blue} {\(P(k)=1+3+5...+(2k-1)=k^2\)}\\
+\textcolor{blue} {\(P(k+1)=1+3+5+...+(2k-1)+(2k+1)\)}\\
+\textcolor{blue} {\(P(k+1)=P(k)+(2k+1)=k^2+(2k+1)=(k+1)^2\)}\\
+\textcolor{blue} {So \(P(k) \rightarrow P(k+1) \) and the result follows by induction.}
+
+\item{Prove by induction that \(\forall \in \mathbb{N}: \sum_{r=1}^{n}r^2 = \frac{1}{6}n(n+1)(2n+1)\).}\\
+\textcolor{blue} {\(P(1)\) is true since \(\frac{1}{6}n(n+1)(2n+1)=1\)}\\
+\textcolor{blue} {Assuming \(P(k)\) is true, we show that \(P(k+1)\) is true.}\\
+\textcolor{blue} {\(\sum_{r=1}^{k+1} r^2 = \frac{1}{6}(k+1)(k+2)(2(k+1)+1)\)}\\
+\textcolor{blue} {\( = \frac{1}{6}(k+1)(k+2)(2(k+1)+1)\)}\\
+\textcolor{blue} {\( = \frac{1}{6}(k+1)(k+2)(2k+3)\)}\\
+\textcolor{blue} {\( = \frac{1}{6}(k+1)(k+2)(2k+3)\)}\\
+\textcolor{blue} {\( = \frac{2k^3+9k^2+13k+6}{6}\)}\\
+\textcolor{blue} {If \(P(k)\) is true, then \(P(k+1)=P(k)+(k+1)^2\).}\\
+\textcolor{blue} {\(P(k)+(k+1)^2=\frac{1}{6}k(k+1)(2k+1)+(k+1)^2\).}\\
+\textcolor{blue} {\(P(k)+(k+1)^2=\frac{1}{6}k(k+1)(2k+1)+(k^2+2k+1)\).}\\
+\textcolor{blue} {Simplifying gives \(P(k)+(k+1)^2=\frac{2k^3+9k^2+13k+6}{6}\) which is the same as the result above.}\\
+\textcolor{blue} {So \(P(k) \rightarrow P(k+1) \) and the result follows by induction.}
+\end{enumerate}
+\end{document}
