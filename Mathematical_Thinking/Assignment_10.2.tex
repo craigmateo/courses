@@ -1,0 +1,92 @@
+\documentclass[13.5pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\usepackage{amssymb}
+\usepackage[usenames, dvipsnames]{color}
+\usepackage[T1]{fontenc}
+\usepackage{biblatex}
+\usepackage{amssymb}
+\usepackage{amsmath}% http://ctan.org/pkg/amsmath
+\newcommand{\notimplies}{%
+  \mathrel{{\ooalign{\hidewidth$\not\phantom{=}$\hidewidth\cr$\implies$}}}}
+
+\lhead{KEITH DEVLIN: Introduction to Mathematical Thinking}
+\chead{}
+\rhead{ASSIGNMENT 10.2}
+
+\begin{document}
+\begin{enumerate}
+
+\item{Let \(A={r \in \mathbb{Q} | r > 0 \wedge r^2 >3}\). Show that \(A\) has a lower bound in Q but no greatest lower bound
+in \(\mathbb{Q}\). Give all details of the proof along the lines of the proof given in the lecture that the rationals
+are not complete. }
+
+\textcolor{blue} {Let \(x\in \mathbb{Q}\) be any lower bound of \(A\) and show there's a larger one in \(\mathbb{Q}\).}\
+
+\textcolor{blue} {Let \(x=\frac{p}{q}\) for integers \(p\), \(q\). Now, suppose \(x^2 >3\). This means \(p^2-3q^2>0\).  }
+
+\textcolor{blue} {Consider the fact that as \(n\) gets larger \(\frac{n^2}{2n+1}\) increases without bound. }
+
+\textcolor{blue} {So there is \(n \in \mathbb{N}\) such that \(\frac{n^2}{2n+1}>\frac{p^2}{3q^2-p^2}\). }
+
+\textcolor{blue} {This inequality simplifies to \(3q^{2}n^2>p^2(n+1)^2\). So \(\frac{p^{2}{q^2}(\frac{n+1}{n})^2<3\).}
+
+\textcolor{blue} {Let \(y=(\frac{n+1}{n}) \frac{p}{q}\). \(y\) is a rational and \(y^2<3\). Since \(\frac{n+1}{n}>1\), \(y>x\). But for any \(a \in A\), \(y^2<3<a^2\), so \(a>y\). Therefore, \(y\) is a lower bound of \(a\) greater than \(x\). This proves that for any lower bound in \(\mathbb{Q}\) there is a larger one in \(\mathbb{Q}\).}
+
+\item {In addition to the completeness property, the \textit{Archimedean property} is an important fundamental
+property of \(\mathbb{Q}\).}
+{Use the Archimedean property to show that if \(r,s \in \mathbb{R}\) and \(r<s\), there is a \(q \in \mathbb{Q}\) such that \(r<q<s\).}\\
+\textcolor{blue} {Let \(\frac{1}{s-r} \in \mathbb{R}\).\(\exists n \in \mathbb{N}\) such that \(n > \frac{1}{s-r} \). Let \(m\) be the smallest natural number such that \(\frac{m}{n}>r\). This means \(m-1 \leq rn\). Since \(n>\frac{1}{s-r}\), it follows that \(\frac{1}{n}<s-r\). So \(m-1 \leq rn \rightarrow m \leq rn+1 \rightarrow \frac{m}{n} \leq r + \frac{1}{n} < r+(s-r) = s\). Therefore, \(r<\frac{m}{n}<s\) which is equivalent to the original statement to be proven: \(r<q<s\).}
+
+\item{Formulate both in symbols and in words what it means to say that \(a_n \not\to a\) as \(n \to \infty\).}
+
+\textcolor{blue} {\((\forall \epsilon > 0)(\exists n \in \mathbb{N})(\forall m\geq n)(|a_n-a|>\epsilon)\). This means \(|a_n-a|\) does not become arbitrarily close to 0.}
+
+\item{Prove that \((n/(n+1))^2 \to 1\) as \(n \to \infty\).}
+
+\textcolor{blue} {Show that  \(\forall n \geq N\), \(|(n/(n+1))^2 - 1| < \epsilon\). }
+\textcolor{blue} {\(| \frac{n^2-n^2-2n-1}{(n+1)^2}| < \epsilon\). }
+\textcolor{blue} {\(\frac{2n+1}{(n+1)^2} < \epsilon\). }
+\textcolor{blue} {Pick \(N\) such that \(\frac{(N+1)^2}{2N+1} > \frac{1}{\epsilon}\). }
+\textcolor{blue} {\(\forall n \geq N\) \(\frac{2n+1}{(n+1)^2} \leq \frac{2N+1}{(N+1)^2}< \epsilon\).}
+
+\item{Prove that \(1/n^2 \to 0\) as \(n \to \infty\).}
+
+\textcolor{blue} {Show that  \(\forall n \geq N\), \(|1/n^2 - 0| < \epsilon\). }
+\textcolor{blue} {\(|1/n^2| < \epsilon\). }
+\textcolor{blue} {\(|1/n^2| < 1/n(n-1)\). }
+\textcolor{blue} {Pick \(N\) such that \(N(N-1)>1/\epsilon\). }
+\textcolor{blue} {\(\forall n \geq N, 1/n^2 < 1/n(n-1) \leq 1/N(N-1) < \epsilon\).}
+
+\item{Prove that \(1/2^n \to 0\) as \(n \to \infty\).}
+
+\textcolor{blue} {Show that  \(\forall n \geq N\), \(|1/2^n - 0| < \epsilon\). }
+\textcolor{blue} {\(1/2^n < \epsilon\). }
+\textcolor{blue} {\(n\ln(1/2) < \ln\epsilon\). }
+\textcolor{blue} {\(n < \ln(1/2)\epsilon\). }
+\textcolor{blue} {\(n > \ln(\epsilon)/\ln(1/2)\). }
+\textcolor{blue} {\(ln(\epsilon)/\ln(1/2)>0\).}
+\textcolor{blue} {Pick \(N\) such that \(N>ln(\epsilon)/\ln(1/2)\). }
+\textcolor{blue} {\(\forall n \geq N, (1/2)^n < \epsilon \rightarrow 1/2^n < \epsilon\).}
+
+
+\item{We say a sequence $\{a_n\}_{n=1}^\infty$ \textit{tends to infinity} if, as \(n\) increases, \(a_n\) increases without bound. For instance, the sequence $\{2^n\}_{n=1}^\infty$. Formulate a precise definition of
+this notion, and prove that both of these examples fulfill the definition.}
+
+\textcolor{blue} { \(\forall x \in \mathbb{R}\), \(\exists n \in \mathbb{N}, a_n \geq x.\)}
+\textcolor{blue} {\(a_n \ge x\) is satisfied if \(n \ge x\), so choose \(N \geq x\) and the condition is satisfied. Similarly, \(2^n \ge x\) is satisfied if \(n\ln2 \geq \ln x\), \(n \geq \ln x - \ln2 \). So set  \(N=\ln x - \ln2\) and the condition is satisfied. }
+
+
+
+\item{Let $\{a_n\}_{n=1}^\infty$ \textit{tends to infinity} be an increasing sequence. Suppose \(a_n \to a\) as \(n \to \infty\). Prove that \(a=\)lub$\{a_n|n\in \mathbb{N}\}$.}
+
+\textcolor{blue} {\(\forall n \geq N\), we have \(a_n < a+\epsilon\) and \(a_n > a-\epsilon\) with \(\epsilon > 0\). The first inequality shows that \(a\) is an upper bound. If there were an upper bound less than \(a\), then \(a \in A\), where \(A\) is the set of all \(a_n\). But this would imply \(|a_n-a|=0\) for some n. This is a contradiction on the definition of limit.}
+
+\item{Prove that if $\{a_n\}_{n=1}^\infty$ is increasing and bounded above, then it tends to a limit.}
+
+\textcolor{blue} {\(a_n\) has a lub \(c\). \(\forall \epsilon>0, \exists N, a_N > c - \epsilon\).}
+\textcolor{blue} {\(\forall n>N, |c-a_n| \leq |c-a_N| < \epsilon\). So the limit is the least upper bound.}
+
+\end{enumerate}
+\end{document}
