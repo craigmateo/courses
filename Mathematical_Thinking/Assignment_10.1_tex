@@ -1,0 +1,142 @@
+\documentclass[13.5pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\usepackage{amssymb}
+\usepackage[usenames, dvipsnames]{color}
+\usepackage[T1]{fontenc}
+\usepackage{biblatex}
+\usepackage{amssymb}
+\usepackage{amsmath}% http://ctan.org/pkg/amsmath
+\newcommand{\notimplies}{%
+  \mathrel{{\ooalign{\hidewidth$\not\phantom{=}$\hidewidth\cr$\implies$}}}}
+
+\lhead{KEITH DEVLIN: Introduction to Mathematical Thinking}
+\chead{}
+\rhead{ASSIGNMENT 10.1}
+
+\begin{document}
+\begin{enumerate}
+
+\item{Prove that the intersection of two intervals is again an interval. Is the same true for unions?}
+
+\textcolor{blue} {Assuming a non-empty intersection. A set \(S\) is an interval if \((\forall a,b \in S)( \forall y \in \mathbb{R})(a \leq y \leq b) \rightarrow y \in S\). Let \(S\) and \(T\) be intervals, where \(a, b \in S\cap T\) and  \(a \leq y \leq b\). \(y \in S\) and \(y \in T\), so \(S\cap T\) is an interval.}\
+
+
+\textcolor{blue} {The same is not true for unions. Consider \(S=(a,b) \cup (b,c)\). This cannot be an interval since \(b\) cannot be in \(S\).}
+
+\item{Taking \(\mathbb{R}\) as the universal set, express the following as simply as possible in terms of intervals and unions of intervals.}
+
+\begin{enumerate}
+\setlength{\itemindent}{.1in}
+\item{\([1,3]'\)}
+\textcolor{blue} {\((-\infty,1)\cup(3,\infty)\)}
+
+\item{\((1,7]'\)}
+\textcolor{blue} {\((-\infty,1]\cup(7,\infty)\)}
+
+\item{\((5,8]'\)}
+\textcolor{blue} {\((-\infty,5]\cup(8,\infty)\)}
+
+\item{\((3,7) \cup [6,8]\)}
+\textcolor{blue} {\((3,8]\)}
+
+\item{\((-\infty,3)' \cup (6,\infty)\)}
+\textcolor{blue} {\([3,\infty)\)}
+
+\item{ \( \{ \pi \}' \) }
+\textcolor{blue} {\((-\infty,\pi)\cup(\pi,\infty)\)}
+
+\item{\((1,4] \cap [4,10]\)}
+\textcolor{blue} {$\{4\}$}
+
+\item{\((1,2) \cap [2,3]\)}
+\textcolor{blue} {$\{ \}$}
+
+\item{\(A'\), where  \(A=(-\infty,5] \cup (7,\infty)\)}
+\textcolor{blue} {\((5,7]\)}
+
+\end{enumerate}
+
+\item{Prove that if a set \(A\) of integers/rationals/reals has an upper bound, then it has infinitely many different upper bounds.}
+
+\textcolor{blue} {An upper bound of \(A\) is an element \(m\) such that \(\forall n \in A, m \geq n\). Let \(U\) be the set consisting of the upper bounds of \(A\). Assume \(U\) is finite. Then there is a largest element \(u \in U\). But there is a \(v \in \mathbb{R}\) such that \(v>u\), making \(v\) an upper bound not in \(U\). This is a contradiction. Therefore, \(A\) has infinitely many different upper bounds.} 
+
+\item{Prove that if a set \(A\) of integers/rationals/reals has a least upper bound, then it is unique.}
+
+\textcolor{blue} {Assume \(x\) is the lub and assume a non-unique lub.  This means \(\exists y \neq x\) such that \(y\) is a lub. If \(y>x\) then \(y\) is not a lub. If \(y<x\) then \(x\) is not a lub. This is a contradiction. Therefore, the lub is unique.} 
+
+\item{Let \(A\) be a set of integers, rationals, or reals. Prove that b is the least upper bound of A iff:}
+
+\begin{enumerate}
+\setlength{\itemindent}{.1in}
+\item{\((\forall a \in A)(a \leq b)\); and}
+
+\item{whenever \(c<b\) there is an \(a\) such that \(a>c\).}
+\textcolor{blue} {.}
+
+\textcolor{blue} {For the first part of the bi-conditional:} 
+\textcolor{blue} {Assume \(b\) is the lub of \(A\) and \(\exists a \in A\) such that \(a>b\). Then \(b\) is not the least upper bound. This is a contradiction. Now, assume \(c<b\) and there is not an \(a \in A\) such that \(a>c\). Then \(c\) is an upper bound and is less than the lub. This is a contradiction.}\\ 
+\textcolor{blue} {For the second part of the bi-conditional:} 
+\textcolor{blue} {Assume \((\forall a \in A)(a\leq b)\). So \(b\) is in \(A\). If \(b\) is not the lub, then \(\exists c, a \leq c < b\). If \(b\) is in \(A\) then it is not the case that \(a \leq b\). If \(b\) is not in \(A\) then there is a contradiction. Now, assume whenever \(c<b\) there is an \(a \in A\) such that \(a>c\). If \(b\) is not the lub, there is a \(c<b\) such that \(c\) is the lub. If \(a>c\) then \(a\) cannot be in \(A\). This is a contradiction}\\ 
+\textcolor{blue} {Therefore, both conditionals are proven.}
+
+\end{enumerate}
+
+\item{The following variant of the above characterization is often found. Show that \(b\) is the lub of \(A\) iff:}
+
+\begin{enumerate}
+\setlength{\itemindent}{.1in}
+\item{\((\forall a \in A)(a \leq b)\); and}
+
+\item{\((\forall \epsilon > 0)(\exists a \in A)(a > b-\epsilon)\)}
+
+\textcolor{blue} {(a) is the same as the previous question. For (b):}
+\textcolor{blue} {Assume \(b\) is the lub of \(A\) and \((\exists \epsilon>0)(\not\exists a \in A)(a>b-\epsilon)\). This would imply \(b-\epsilon\) is the lub of \(A\), which is a contradiction. Now, assume \((\forall \epsilon >0)(\exists a \in A)(a>b-\epsilon)\) and \(b\) is not the lub. This implies \(\exists \epsilon\) such that \(b-\epsilon)\) is the lub, so \((\forall a \in A)(a \leq b-\epsilon)\). This is a contradiction, thus completing proof of the biconditional for (b).}
+
+\end{enumerate}
+
+\item{Give an example of a set of integers that has no upper bound.}
+\textcolor{blue} {The set of integers defined by the natural numbers has no upper bound.}
+
+\item{Show that any finite set of integers/rationals/reals has a least upper bound.}
+
+\textcolor{blue} {Since \(A\) is finite, \(A\) has a maximum element, say \(b\). So \((\forall a\in A)(a \leq b)\). This is the definition of least upper bound.}
+
+\item{Intervals: What is lub \((a,b)\)? What is lub \([a,b]\)? What is max \((a,b)\)? What is max \([a,b]\)}?
+
+\textcolor{blue} {\(b\), \(b\), none, \(b\).}
+
+\item{Let \(A=\{|x-y|, x,y \in (a,b)\}\). Prove that \(A\) has an upper bound. What is lub \(A\)?}
+
+\textcolor{blue} {\(|x-y| \leq |a|+|b|\), so \(|a|+|b|\) is an upper bound.}
+
+\item{Define the notion of a \textit{lower bound} of a set of integers/rationals/reals.}
+
+\textcolor{blue} {\(b\) is a lower bound of \(A\) if and only if \((\forall a \in A)(a\geq b)\).}
+
+\item{Define the notion of a \textit{greatest lower bound} (glb) of a set of integers/rationals/reals by analogy with our original definition of lub.}
+
+\textcolor{blue} {Let \(B\) be the set of all lower bounds of \(A\). \(b\) is the greatest lower bound of \(A\) if and only if \((\forall x \in B)(b\geq x)\).}
+
+\item{State and prove the analog of question 5 for greatest lower bounds.}
+
+\textcolor{blue}{Question skipped: this would follow the same proof methodology as 5, but for greatest lower bound.}
+
+\item{State and prove the analog of question 6 for greatest lower bounds.}
+
+\textcolor{blue}{Question skipped: this would follow the same proof methodology as 6, but for greatest lower bound.}
+
+\item{Show that the Completeness Property for the real number system could equally well have been defined by the statement, "Any nonempty set of reals that has a lower bound has a greatest lower bound"}
+
+\textcolor{blue}{Let \(A\) be a non-empty set \(\in \mathbb{R}\) that is bounded above. The lub defined on the complement of \(A\) (\(A'\)) is now the greatest lower bound of \(A\).}  
+
+\item{The integers satisfy the Completeness Property, but for a trivial reason. What is that reason?}
+
+\textcolor{blue}{Subsets of integers are always closed intervals.}  
+
+
+\end{enumerate}
+
+
+\end{document}
