@@ -1,0 +1,23 @@
+// write your code here
+var img = new SimpleImage("duvall.jpg");
+var width = img.getWidth()
+var seg1 = width/3
+var seg2 = seg1*2
+
+
+for ( var pixel of img.values() ) {
+    var x = pixel.getX();
+    if (x <= seg1) {
+        pixel.setRed(255);
+    }
+    else if (x < seg2 && x > seg1) {
+        pixel.setGreen(255);
+    }
+    else if (x > seg2) {
+        pixel.setBlue(255);
+    }
+    
+}
+
+
+print(img)
