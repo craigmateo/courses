@@ -37,3 +37,27 @@ body {
 .navbar-dark {
     background-color: #512DA8;
 }
+
+.card {
+    margin: 0 auto;
+}
+
+.card-title {
+    background-color: #fcc02f;
+    color: white;
+    padding:8px;
+}
+
+.btn-sm {
+    background-color: #fcc02f;
+    width: 60%;
+    margin-top: 10px;
+    padding:5px;
+    font-size: 16px;
+    font-weight: 600;
+    color: black;
+}
+.btn-sm:hover {
+    color: black;
+    font-weight: 700;
+}
