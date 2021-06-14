@@ -1,0 +1,16 @@
+{
+  "name": "fcc-2-adding-js-for-simple-render-master",
+  "version": "1.0.0",
+  "description": "# 2 - Changing the DOM with JavaScript",
+  "main": "vibe.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
