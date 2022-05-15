@@ -18,3 +18,8 @@ Code and latex files from coursework, tutorials, moocs, etc.
 | &nbsp;how-to-code-simple-data | How to Code: Simple Data | https://www.edx.org/course/how-to-code-simple-data | Algorithms |
 | &nbsp;python-for-everybody | Python for Everybody | https://www.py4e.com/lessons | Python |
 |  |  |  |  |
+| **Guided_Projects** |
+| &nbsp;keplerGL | Interactive Geospatial Visualization:Kepler GL & Jupyter Lab | https://www.coursera.org/projects/geospatial-keplergl-jupyter | KeplerGL, GIS |
+| &nbsp;kMeans101 | K-Means Clustering 101: World Happiness Report | https://www.coursera.org/projects/clustering-world-happiness-reports | Python, Machine Learning |
+| &nbsp;netLogo | Mycelium Growth with NetLogo Web | https://www.coursera.org/projects/mycelium | NetLogo, Simulation |
+|  |  |  |  |
