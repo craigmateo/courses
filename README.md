@@ -1,6 +1,6 @@
 # Courses
 
-## Code and latex files from coursework, tutorials, moocs, etc.
+Code and latex files from coursework, tutorials, moocs, etc.
 
 ### Web Development
 
