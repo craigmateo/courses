@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=EfficientMarkovWord(int)
+comment1.params=seed
+comment1.target=void\ setRandom(int)
+comment2.params=text
+comment2.target=void\ setTraining(java.lang.String)
+comment3.params=
+comment3.target=void\ buildMap()
+comment4.params=numWords
+comment4.target=java.lang.String\ getRandomText(int)
+comment5.params=kGram
+comment5.target=java.util.ArrayList\ getFollows(WordGram)
+comment6.params=
+comment6.target=void\ printHashMapInfo()
+numComments=7

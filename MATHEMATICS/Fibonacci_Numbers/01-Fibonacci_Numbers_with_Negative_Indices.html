@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>by Craig Frayne</title>  
+</head>
+
+<body>
+
+  <h1>Fibonacci Numbers with Negative Indices</h1>
+<p>The Fibonacci numbers can be extended to zero and negative indices using the relation 
+<math>
+  <msub>
+    <mi>F</mi>
+    <mn>n</mn>
+  </msub> 
+  <mo>=</mo>
+   <msub>
+    <mi>F</mi>
+    <mn>n+2</mn>
+  </msub> 
+  <mo>-</mo>
+  <msub>
+    <mi>F</mi>
+    <mn>n+1</mn>
+  </msub> 
+</math>
+. Determine <math>  <msub>
+    <mi>F</mi>
+    <mn>0</mn>
+  </msub> </math>
+  and find a general formula for <math>  <msub>
+    <mi>F</mi>
+    <mn>-n</mn>
+  </msub> </math>
+  in terms of <math>  <msub>
+    <mi>F</mi>
+    <mn>n</mn>
+  </msub> </math>
+. Prove your result using mathematical induction.
+  
+<h2>Solution</h2>
+<h4><em>Formula</em></h4>
+<p>Let
+<math>  
+  <msub>
+    <mi>F</mi>
+    <mn>n</mn>
+  </msub> 
+</math>
+  be the 
+  <math>
+  <msup>
+      <mi>n</mi>
+      <mn>th</mn>
+    </msup>
+   </math>
+  Fibonacci number where 
+<math>
+  <msub>
+    <mi>F</mi>
+    <mn>0</mn>
+  </msub>
+  <mo>=</mo>
+  <mn>0</mn>
+  <mo>,</mo>
+  <msub>
+    <mi>F</mi>
+    <mn>1</mn>
+  </msub>
+  <mo>=</mo>
+  <mn>1</mn>
+  <mo>,</mo>
+    <msub>
+    <mi>F</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>=</mo>
+  <mn>1</mn>
+</math>
+.</p><p>
+From the relation
+  <div class="indent">
+<math>
+  <msub>
+    <mi>F</mi>
+    <mn>n</mn>
+  </msub> 
+  <mo>=</mo>
+   <msub>
+    <mi>F</mi>
+    <mn>n+2</mn>
+  </msub> 
+  <mo>-</mo>
+  <msub>
+    <mi>F</mi>
+    <mn>n+1</mn>
+  </msub> 
+</math>
+</div></p>
+<p>we have:
+<div class="indent">
+<math>
+  <msub>
+    <mi>F</mi>
+    <mn>0</mn>
+  </msub> 
+  <mo>=</mo>
+   <msub>
+    <mi>F</mi>
+    <mn>2</mn>
+  </msub> 
+  <mo>-</mo>
+  <msub>
+    <mi>F</mi>
+    <mn>1</mn>
+  </msub>
+</div></p> 
+<div class="indent">
+  <math>
+  <msub>
+    <mi>F</mi>
+    <mn>0</mn>
+  </msub> 
+  <mo>=</mo>
+  <mn>1</mn>
+  <mo>-</mo>
+  <mn>1</mn>
+  <mo>=</mo>
+  <mn>0</mn>
+</math>  </p>
+<p><math>
+    <msub>
+    <mi>F</mi>
+    <mn>-1</mn>
+  </msub> 
+  <mo>=</mo>
+  <mn>1</mn>
+  <mo>-</mo>
+  <mn>0</mn>
+  <mo>=</mo>
+  <mn>1</mn>
+</math></p>
+<p><math>
+    <msub>
+    <mi>F</mi>
+    <mn>-2</mn>
+  </msub> 
+  <mo>=</mo>
+  <mn>0</mn>
+  <mo>-</mo>
+  <mn>1</mn>
+  <mo>=</mo>
+  <mn>-1</mn>
+</math></p>
+<p><math>
+    <msub>
+    <mi>F</mi>
+    <mn>-3</mn>
+  </msub> 
+  <mo>=</mo>
+  <mn>1</mn>
+  <mo>-</mo>
+  <mn>(-1)</mn>
+  <mo>=</mo>
+  <mn>2</mn>
+</math></p>
+<p><math>
+    <msub>
+    <mi>F</mi>
+    <mn>-4</mn>
+  </msub> 
+  <mo>=</mo>
+  <mn>-1</mn>
+  <mo>-</mo>
+  <mn>2</mn>
+  <mo>=</mo>
+  <mn>-3</mn>
+</math></p></div>
+<p>The formula is:</p>
+<div class="indent">
+  <math>
+  <msub>
+    <mi>F</mi>
+    <mrow>
+      <mo>-</mo>
+      <mi>n</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <msup>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mo>-</mo>
+        <mn>1</mn>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mrow>
+      <mi>n</mi>
+      <mo>+</mo>
+      <mn>1</mn>
+    </mrow>
+  </msup>
+  <msub>
+    <mi>F</mi>
+    <mi>n</mi>
+  </msub>
+</math>
+</div>
+<h4><em>Proof</em></h4>
+<p>For all
+<math>
+  <mi>n</mi>
+  <mo>&#x2208</mo>
+  <msub>
+    <mrow>
+      <mi mathvariant="double-struck">N</mi>
+    </mrow>
+    <mrow>
+      <mo>&gt;</mo>
+      <mn>0</mn>
+    </mrow>
+  </msub>
+</math>
+, let   
+<math>
+  <mi>P</mi>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mi>n</mi>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+</math>  
+be the proposition:
+<div class="indent">
+  <math>
+  <msub>
+    <mi>F</mi>
+    <mrow>
+      <mo>-</mo>
+      <mi>n</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <msup>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mo>-</mo>
+        <mn>1</mn>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mrow>
+      <mi>n</mi>
+      <mo>+</mo>
+      <mn>1</mn>
+    </mrow>
+  </msup>
+  <msub>
+    <mi>F</mi>
+    <mi>n</mi>
+  </msub>
+</math>
+</div>
+</p>  
+<math>
+  <mi>P</mi>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>1</mn>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+</math>
+holds since
+<math>
+    <msub>
+    <mi>F</mi>
+    <mn>-1</mn>
+  </msub> 
+  <mo>=</mo>
+  <mn>1</mn>
+  <mo>-</mo>
+  <mn>0</mn>
+  <mo>=</mo>
+  <mn>1</mn>
+  <mo>=</mo>
+    <msup>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mo>-</mo>
+          <mn>1</mn>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mn>1</mn>
+      </mrow>
+    </msup>
+    <msub>
+      <mi>F</mi>
+      <mn>1</mn>
+    </msub>
+</math></p>
+<math>
+  <mi>P</mi>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>2</mn>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+</math>
+holds since
+<math>
+    <msub>
+    <mi>F</mi>
+    <mn>-1</mn>
+  </msub> 
+  <mo>=</mo>
+  <mn>0</mn>
+  <mo>-</mo>
+  <mn>1</mn>
+  <mo>=</mo>
+  <mo>-</mo>
+  <mn>1</mn>
+  <mo>=</mo>
+    <msup>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mo>&#x2212</mo>
+          <mn>1</mn>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mn>2</mn>
+        <mo>+</mo>
+        <mn>1</mn>
+      </mrow>
+    </msup>
+    <msub>
+      <mi>F</mi>
+      <mn>2</mn>
+    </msub>
+</math></p>
+<h5>Induction Hypothesis</h5>
+<p>If
+  <math>
+  <mi>P</mi>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mi>k</mi>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+</math>
+and 
+<math>
+  <mi>P</mi>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mi>k</mi>
+      <mo>-</mo>
+      <mn>1</mn>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+</math>  
+are true, where 
+<math>
+  <mi>k</mi>
+  <mo>></mo>
+  <mn>1</mn>
+</math>  
+, then 
+<math>
+  <mi>P</mi>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mi>k</mi>
+      <mo>+</mo>
+      <mn>1</mn>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+</math>
+is true.</p>
+<div class="indent">
+  <math>
+    <msub>
+      <mi>F</mi>
+      <mrow>
+        <mo>-</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mi>k</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+        <msup>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mo>-</mo>
+          <mn>1</mn>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mi>k</mi>
+    </msup>
+    <msub>
+      <mi>F</mi>
+      <mrow>
+        <mi>k</mi>
+        <mo>-</mo>
+        <mn>1</mn>
+      </mrow>
+    </msub>
+    <mo>-</mo>
+    <msup>
+      <mrow>
+        <mo>(</mo>
+        <mrow >
+          <mo>-</mo>
+          <mn>1</mn>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mi>k</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+      </mrow>
+    </msup>
+    <msub>
+      <mi>F</mi>
+      <mi>k</mi>
+    </msub>
+</math></div>
+<math>
+  <mo class="equals">=</mo>
+    <msup>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mo>-</mo>
+          <mn>1</mn>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mi>k</mi>
+    </msup>
+    <msub>
+      <mi>F</mi>
+      <mrow>
+        <mi>k</mi>
+        <mo>-</mo>
+        <mn>1</mn>
+      </mrow>
+    </msub>
+    <mo>+</mo>
+    <msup>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mo>-</mo>
+          <mn>1</mn>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mi>k</mi>
+    </msup>
+    <msub>
+      <mi>F</mi>
+      <mi>k</mi>
+    </msub>
+  </mstyle>
+</math></div>
+<div>
+<math>
+  <mo class="equals">=</mo>
+    <msup>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mo>-</mo>
+          <mn>1</mn>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mi>k</mi>
+    </msup>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>F</mi>
+          <mrow>
+            <mi>k</mi>
+            <mo>-</mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>F</mi>
+          <mi>k</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mstyle>
+</math></div>
+<div>
+  <math>
+    <mo class="equals">=</mo>
+  <mstyle>
+    <msup>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mo>-</mo>
+          <mn>1</mn>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mi>k</mi>
+    </msup>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>F</mi>
+          <mrow>
+            <mi>k</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mstyle>
+</math></div>
+<div>
+  <math>
+  <mo class="equals">=</mo>
+    <msup>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mo>-</mo>
+          <mn>1</mn>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mi>k</mi>
+        <mo>+</mo>
+        <mn>2</mn>
+      </mrow>
+    </msup>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>F</mi>
+          <mrow>
+            <mi>k</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mstyle>
+</math>
+<p>So <math>
+  <mi>P</mi>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mi>k</mi>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mo>&#x2227;</mo>
+  <mi>P</mi>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mi>k</mi>
+      <mo>-</mo>
+      <mn>1</mn>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="thickmathspace" />
+  <mo stretchy="false">&#x27F9;</mo>
+  <mspace width="thickmathspace" />
+  <mi>P</mi>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mi>k</mi>
+      <mo>+</mo>
+      <mn>1</mn>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+</math>
+and the result follows by induction.</p>  
+  <p>
+  <math>
+  <mi>&#x25FC;</mi>
+</math>
+    </p>
+<br>
+<p><em>source: MathML styling based on https://proofwiki.org.</em></p>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML'></script>
+
+<style>
+	.indent {
+	 margin-left: 50px; 
+	 margin-top: 5px;
+	}
+
+	.equals {
+	  margin-left: 105px; 
+	  lline-height: 20px;
+	}
+</style>  
+
+</body>
+
+</html>

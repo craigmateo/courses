@@ -1,6 +1,0 @@
-minutes
-centuries
-decades
-hours
-months
-millennia

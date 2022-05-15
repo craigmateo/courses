@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=EfficientMarkovModel(int)
+comment1.params=s
+comment1.target=void\ setTraining(java.lang.String)
+comment2.params=numChars
+comment2.target=java.lang.String\ getRandomText(int)
+comment3.params=
+comment3.target=void\ buildMap()
+comment4.params=key
+comment4.target=java.util.ArrayList\ getFollows(java.lang.String)
+comment5.params=
+comment5.target=void\ printHashMapInfo()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

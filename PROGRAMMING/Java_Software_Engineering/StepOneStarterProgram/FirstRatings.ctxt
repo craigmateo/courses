@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=raters
+comment1.target=void\ showRatingDetail(java.util.ArrayList)
+comment10.params=movies
+comment10.target=void\ maxNumMov(java.util.ArrayList)
+comment11.params=filename
+comment11.target=java.util.ArrayList\ loadMovies(java.lang.String)
+comment2.params=raters\ raterID
+comment2.target=void\ numOfRatingsForRater(java.util.ArrayList,\ java.lang.String)
+comment3.params=raters
+comment3.target=void\ maxNumRatings(java.util.ArrayList)
+comment4.params=raters\ movieID
+comment4.target=void\ numOfRatingsForMovie(java.util.ArrayList,\ java.lang.String)
+comment5.params=raters
+comment5.target=void\ numOfMoives(java.util.ArrayList)
+comment6.params=filename
+comment6.target=java.util.ArrayList\ loadRaters(java.lang.String)
+comment7.params=movies
+comment7.target=void\ showMoviesDetail(java.util.ArrayList)
+comment8.params=movies\ genre
+comment8.target=void\ containWhichGenre(java.util.ArrayList,\ java.lang.String)
+comment9.params=movies
+comment9.target=void\ longMoives(java.util.ArrayList)
+numComments=12
