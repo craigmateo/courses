@@ -18,6 +18,8 @@ Code and latex files from coursework, tutorials, moocs, etc.
 | Mathematical_Thinking | An Introduction to Mathematical Thinking | https://www.coursera.org/learn/mathematical-thinking | Number Theory, Real Analysis, Logic |
 |  |  |  |  |
 
+### Programming
+
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
 | Java_Software_Engineering | Java Programming Software Engineering | https://github.com/craigmateo/courses/tree/master/Java_Software_Engineering | Java, Algorithms |
