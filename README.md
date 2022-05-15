@@ -22,5 +22,5 @@ Code and latex files from coursework, tutorials, moocs, etc.
 
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
-| Java_Software_Engineering | Java Programming Software Engineering | https://github.com/craigmateo/courses/tree/master/Java_Software_Engineering | Java, Algorithms |
+| Java_Software_Engineering | Java Programming Software Engineering | https://www.coursera.org/specializations/java-programming | Java, Algorithms |
 |  |  |  |  |
