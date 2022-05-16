@@ -14,7 +14,7 @@ Code and latex files from coursework, tutorials, moocs, etc.
 | &nbsp;Mathematical_Thinking | An Introduction to Mathematical Thinking | https://www.coursera.org/learn/mathematical-thinking | Number Theory, Real Analysis, Logic |
 | **PROGRAMMING** |
 | &nbsp;Java_Software_Engineering | Java Programming Software Engineering | https://www.coursera.org/specializations/java-programming | Java, Algorithms |
-| **OSSU** |
+| **OSSU (Comp. Sci.)** |
 | &nbsp;how-to-code-simple-data | How to Code: Simple Data | https://www.edx.org/course/how-to-code-simple-data | Algorithms |
 | &nbsp;python-for-everybody | Python for Everybody | https://www.py4e.com/lessons | Python |
 |  |  |  |  |
