@@ -2,12 +2,19 @@ var name = process.argv[2]
 var age = parseInt(process.argv[3])
 var basicSalary = parseFloat(process.argv[4])
 
-const hra = (50 * basicSalary) / 100
-const specialAllowance = (30 * basicSalary) / 100
-const pf = (12 * basicSalary) / 100
+if (age <= 0) {
+    console.log("Invalid age. Enter a valid age.")
+} else if (basicSalary <= 0) {
+    console.log("Invalid salary. Enter a valid salary.")
+} else {
 
-let grossSalary = (basicSalary + hra + specialAllowance) - pf
+    const hra = (50 * basicSalary) / 100
+    const specialAllowance = (30 * basicSalary) / 100
+    const pf = (12 * basicSalary) / 100
 
-let annualgrossSalary = 12 * grossSalary
+    let grossSalary = (basicSalary + hra + specialAllowance) - pf
 
-console.log(`Annual gross income of ${name} is ${annualgrossSalary}`)
+    let annualgrossSalary = 12 * grossSalary
+
+    console.log(`Annual gross income of ${name} is ${annualgrossSalary}`)
+}
