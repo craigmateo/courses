@@ -1,0 +1,57 @@
+<html>
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+    <script src="https://unpkg.com/vue-select@latest"></script>
+    <link rel="stylesheet" href="https://unpkg.com/vue-select@latest/dist/vue-select.css">
+    <link rel="stylesheet" href="css/master.css">
+    <title>University Index</title>
+</head>
+<body>
+
+<div class="background" id="vue-app">
+
+    <h1>UNIVERSITY INDEX</h1>   
+    
+    <form name="appForm">
+        <table>
+            <colgroup>
+                <col width="20%">
+                <col width="80%">
+            </colgroup>
+
+            <tr>
+                <td class="right-aligned">Select a country: </td>
+                <td>
+                    <!-- <select name="countrySelect">
+                        <option v-for="item in countries">
+                             {{ item }}   
+
+                        </option>
+                    </select>  -->
+                    <v-select :options="countries"></v-select>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="right-aligned">Select a university: </td>
+                <td>
+
+                </td>
+            </tr>
+
+        </table>
+
+    </form>
+
+    <div class="headspaced">
+        <hr />
+        <p class="centered footnotes">Image by <a href="https://pixabay.com/users/alexas_fotos-686414/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2052868" target="_blank">Here and now, unfortunately, ends my journey on Pixabay</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2052868" target="_blank">Pixabay</a></p>
+    </div>
+
+</div>
+
+<script src="js/db.js"></script>
+<script src="js/index.js"></script>
+
+</body>
+</html>
