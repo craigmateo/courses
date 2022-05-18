@@ -1,0 +1,165 @@
+# Week 1 - Quiz
+## Getting Started With JavaScript in Node.js​
+
+
+1. What is the use of the Underscore Variable in REPL session?
+
+- To get the last command used.
+- [x] To get the last result.
+- To store the result. 
+- None of the above.
+
+2. Node.js is a ___________________ language.
+
+- [x] server side
+- client side
+- middleware
+- None of the above.
+
+3. Node.js = ___________________ + ______________________.
+
+- Compiler + The Javascript Library
+- [x] Runtime Environment + The JavaScript Library
+- Interpreter + The JavaScript Library
+- JavaScript Library
+
+4. The v8 engine works inside the _____________ of the browser.
+
+- Network API
+- [x] Core OS
+- DOM context
+- File system
+
+
+5. All APIs of Node.js libraries are _______________.
+
+- synchronous
+- blocking
+- unblocking
+- [x] asynchronous
+
+
+6. ___________ is the package manager for Node.
+
+- npn
+- mpm
+- [x] npm
+- None of the above.
+
+7. _________________ is a Node.js component.
+
+- DOM
+- [x] Node CLI
+- package-lock.json
+- None of the above.
+
+
+8. Asynchronous Jobs run on ___________ threads.
+
+- [x] worker
+- executable
+- daemon
+- multiple
+
+9. Node.js is not suited for _________________  since it is single threaded.
+
+- IO intensive operations
+- File Intensive Operations
+- [x] CPU intensive operations
+- None of the above.
+
+
+10. Variables are _____________ for storing data.
+
+- [x] containers
+- compilers
+- integrators
+- controllers
+
+11. The const declaration creates a ____________  reference to a value.
+
+- read-write
+- [x] read-only
+- write-only
+- None of the above.
+
+12. What is the output of the code snippet given below? 
+        var age = 30
+        console.log(age)
+- undefined
+- [x]  30
+- undefined 30
+- error in code
+
+13. The process object is a __________ object.
+
+- [x] global
+- local
+- hoisted
+- None of the above.
+
+14. Command line arguments can be accessed through the ________________ functionality.
+
+- process
+- process.arg
+- process.argc
+- [x] process.argv
+
+15. The "function" and " var" are known as ________.
+
+- keywords
+- datatypes
+- [x] declaration keywords
+- prototypes
+
+16. In the following syntax of the switch statement, the Expression is compared with the labels using which of the following operators? switch(expression) { statements }
+
+- [x] "==="
+- "=="
+- "="
+- equals
+
+17. What is the output of the code snippet given below? 
+        var count = 0; 
+        while (count < 10) { 
+            console.log(count); 
+            count++; 
+        }
+
+- Infinite loop
+- Prints values from 1 to 10
+- [x] Prints values from 0 to 9
+- Prints undefined
+
+18. What is the output of the code snippet given below? 
+        var stringValue = "40"; 
+        var intValue = 50; 
+        console.log( stringValue + intValue);
+
+- 90
+- 40
+- error
+- [x] 4050
+
+19. What is the output of the code snippet given below? 
+        var x = 0 while (x != 0) { if(x == 1) continue; else x++; }
+
+- console.log(x)
+- [x]  0
+- infinite loop
+- 1
+- None of the above.
+
+20. What is the output of the code snippet given below? 
+        
+        var a=0; 
+        var b =0; 
+        while (a<3) { 
+            a++; b += a; 
+            console.log(b); 
+        }
+
+- 1,1,1
+- [x] 1,3,6
+- 1,3,7
+- 1,3,5
