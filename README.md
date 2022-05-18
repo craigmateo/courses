@@ -7,19 +7,19 @@ Code and latex files from coursework, tutorials, moocs, etc.
 
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
-| &nbsp;CSS3 | Introduction to CSS3 | https://www.coursera.org/learn/introcss | CSS, Web Design |
-| &nbsp;Full_Stack_Dev | Full Stack Development with React | https://www.coursera.org/specializations/full-stack-react | Bootstrap, Node.js, jQuery, SASS, Express.js |
+| &nbsp;CSS3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Introduction to CSS3 | https://www.coursera.org/learn/introcss | CSS, Web Design |
+| &nbsp;Full_Stack_Dev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Full Stack Development with React | https://www.coursera.org/specializations/full-stack-react | Bootstrap, Node.js, jQuery, SASS, Express.js |
 
 ## Mathamatics
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
-| &nbsp;Fibonacci_Numbers | Fibonacci Numbers and the Golden Ratio | https://www.coursera.org/learn/introcss | Mathematics, Proofs |
-| &nbsp;Mathematical_Thinking | An Introduction to Mathematical Thinking | https://www.coursera.org/learn/mathematical-thinking | Number Theory, Real Analysis, Logic |
+| &nbsp;Fibonacci_Numbers&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Fibonacci Numbers and the Golden Ratio | https://www.coursera.org/learn/introcss | Mathematics, Proofs |
+| &nbsp;Mathematical_Thinking&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | An Introduction to Mathematical Thinking | https://www.coursera.org/learn/mathematical-thinking | Number Theory, Real Analysis, Logic |
 
 ## Programming
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
-| &nbsp;Java_Software_Engineering | Java Programming Software Engineering | https://www.coursera.org/specializations/java-programming | Java, Algorithms |
+| &nbsp;Java_Software_Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Java Programming Software Engineering | https://www.coursera.org/specializations/java-programming | Java, Algorithms |
 
 ### OSSU (Comp. Sci.)
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
