@@ -22,4 +22,10 @@ Code and latex files from coursework, tutorials, moocs, etc.
 | &nbsp;keplerGL | Interactive Geospatial Visualization:Kepler GL & Jupyter Lab | https://www.coursera.org/projects/geospatial-keplergl-jupyter | KeplerGL, GIS |
 | &nbsp;kMeans101 | K-Means Clustering 101: World Happiness Report | https://www.coursera.org/projects/clustering-world-happiness-reports | Python, Machine Learning |
 | &nbsp;netLogo | Mycelium Growth with NetLogo Web | https://www.coursera.org/projects/mycelium | NetLogo, Simulation |
+| &nbsp;geolocation-taxis-folium | Geospatial Data Visualization using Python and Folium | https://www.coursera.org/projects/geospatial-data-visualization-using-python-and-folium | Folium, Pandas |
+| &nbsp;climate-xarray | Climate Geospatial Analysis on Python with Xarray | https://www.coursera.org/projects/xarray | Python Xarray |
 |  |  |  |  |
+
+
+
+
