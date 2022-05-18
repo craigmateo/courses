@@ -2,8 +2,6 @@
 
 Code and latex files from coursework, tutorials, moocs, etc.
 
-### Web Development
-
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
 | **WEB DEVELOPMENT** |
