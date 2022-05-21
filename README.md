@@ -1,6 +1,7 @@
 # Courses
 
 Code and files from coursework, tutorials, moocs, etc.
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Web Development :globe_with_meridians: :iphone:
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
