@@ -26,7 +26,7 @@ https://www.coursera.org/learn/philosophy-of-science
 2.5 – Simulations: Empirical and Reliable?
 2.6 – Reliable Detection
 
-## Scientific Objectivity
+### Scientific Objectivity
 
 3.0 – The Power of Collective Knowledge
 3.1 – Defining Scientific Objectivity
@@ -35,7 +35,7 @@ https://www.coursera.org/learn/philosophy-of-science
 3.4 – Failures of Objectivity
 3.5 – Science, Pseudoscience and Uncertainty
 
-## Values in Science
+### Values in Science
 
 4.1 – Science in the Political Arena
 4.2 – Should Science Be Value-Free?
