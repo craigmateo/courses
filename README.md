@@ -32,14 +32,14 @@ Code and files from coursework, tutorials, moocs, etc.
 
 ***
 
-## Philosophy & Cog. Science :brain: :book: :wittgenstein:
+## Philosophy & Cog. Science :brain: :book: :grey_question:
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
 | Phil_Cognitive_Sciences_Intro | Introduction to the Philosophy of Cognitive Sciences | https://www.coursera.org/learn/philosophy-cognitive-sciences | Cognitive Sciences |
 
 ***
 
-## Guided Projects :hammer:
+## Guided Projects :hammer: :gear:
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
 | keplerGL | Interactive Geospatial Visualization:Kepler GL & Jupyter Lab | https://www.coursera.org/projects/geospatial-keplergl-jupyter | KeplerGL, GIS |
