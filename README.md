@@ -26,11 +26,10 @@ Code and files from coursework, tutorials, moocs, etc.
 | how-to-code-simple-data | How to Code: Simple Data | https://www.edx.org/course/how-to-code-simple-data | Algorithms |
 | python-for-everybody | Python for Everybody | https://www.py4e.com/lessons | Python |
 
-## PHILOSOPHY & COG SCI
+### PHILOSOPHY & COG SCI
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
 | Phil_Cognitive_Sciences_Intro | Introduction to the Philosophy of Cognitive Sciences | https://www.coursera.org/learn/philosophy-cognitive-sciences | Cognitive Sciences |
-
 
 ## Guided Projects
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
