@@ -10,7 +10,7 @@ Code and latex files from coursework, tutorials, moocs, etc.
 | CSS3 | Introduction to CSS3 | https://www.coursera.org/learn/introcss | CSS, Web Design |
 | Full_Stack_Dev | Full Stack Development with React | https://www.coursera.org/specializations/full-stack-react | Bootstrap, Node.js, jQuery, SASS, Express.js |
 
-## Mathamatics
+## Mathematics
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
 | Fibonacci_Numbers | Fibonacci Numbers and the Golden Ratio | https://www.coursera.org/learn/introcss | Mathematics, Proofs |
