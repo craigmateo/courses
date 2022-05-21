@@ -39,7 +39,7 @@ Code and files from coursework, tutorials, moocs, etc.
 
 ***
 
-## Guided Projects
+## Guided Projects :hammer:
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
 | keplerGL | Interactive Geospatial Visualization:Kepler GL & Jupyter Lab | https://www.coursera.org/projects/geospatial-keplergl-jupyter | KeplerGL, GIS |
