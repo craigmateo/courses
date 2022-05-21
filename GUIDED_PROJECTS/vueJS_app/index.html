@@ -1,4 +1,5 @@
 <html>
+
 <head>
     <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
     <script src="https://unpkg.com/vue-select@latest"></script>
@@ -6,52 +7,72 @@
     <link rel="stylesheet" href="css/master.css">
     <title>University Index</title>
 </head>
+
 <body>
 
-<div class="background" id="vue-app">
+    <div class="background" id="vue-app">
 
-    <h1>UNIVERSITY INDEX</h1>   
-    
-    <form name="appForm">
-        <table>
-            <colgroup>
-                <col width="20%">
-                <col width="80%">
-            </colgroup>
+        <h1>UNIVERSITY INDEX</h1>
 
-            <tr>
-                <td class="right-aligned">Select a country: </td>
-                <td>
-                    <!-- <select name="countrySelect">
+        <form name="appForm">
+            <table>
+                <colgroup>
+                    <col width="20%">
+                    <col width="80%">
+                </colgroup>
+
+                <tr>
+                    <td class="right-aligned">Select a country: </td>
+                    <td>
+                        <!-- <select name="countrySelect">
                         <option v-for="item in countries">
                              {{ item }}   
 
                         </option>
                     </select>  -->
-                    <v-select :options="countries"></v-select>
-                </td>
-            </tr>
+                        <v-select v-model="countrySelected" :options="countries" v-on:input="fetchUniversities()"></v-select>
+                    </td>
+                </tr>
 
-            <tr>
-                <td class="right-aligned">Select a university: </td>
-                <td>
+                <tr>
+                    <td class="right-aligned">Select a university: </td>
+                    <td>
+                        <v-select v-model="universitySelected" :options="universities" :label="'name'"></v-select>
+                    </td>
+                </tr>
 
-                </td>
-            </tr>
+                <tr>
+                    <td class="right-aligned" v-bind:class="{ 'multiple-entries' : (universitySelected != null && universitySelected.domains.length > 1) }">Domains: </td>
+                    <td v-if="universitySelected != null">
+                        <span v-for="domain in universitySelected.domains">
+                            {{ domain }} <br />
+                        </span>
+                    </td>
+                </tr>
 
-        </table>
+                <tr>
+                    <td class="right-aligned" v-bind:class="{ 'multiple-entries' : (universitySelected != null && universitySelected.web_pages.length > 1) }">Web Pages: </td>
+                    <td v-if="universitySelected != null">
+                        <span v-for="webpage in universitySelected.web_pages">
+                            <a v-bind:href="webpage" target="_blank">{{ webpage }} <br /></a>
+                        </span>
+                    </td>
+                </tr>
 
-    </form>
+            </table>
 
-    <div class="headspaced">
-        <hr />
-        <p class="centered footnotes">Image by <a href="https://pixabay.com/users/alexas_fotos-686414/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2052868" target="_blank">Here and now, unfortunately, ends my journey on Pixabay</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2052868" target="_blank">Pixabay</a></p>
+        </form>
+
+        <div class="headspaced">
+            <hr />
+            <p class="centered footnotes">Image by <a href="https://pixabay.com/users/alexas_fotos-686414/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2052868" target="_blank">Here and now, unfortunately, ends my journey on Pixabay</a>                from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2052868" target="_blank">Pixabay</a></p>
+        </div>
+
     </div>
 
-</div>
-
-<script src="js/db.js"></script>
-<script src="js/index.js"></script>
+    <script src="js/db.js"></script>
+    <script src="js/index.js"></script>
 
 </body>
+
 </html>
