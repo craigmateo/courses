@@ -19,7 +19,7 @@ Code and files from coursework, tutorials, moocs, etc.
 
 ***
 
-## Programming :computer:
+## Programming :abacus:
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
 | Java_Software_Engineering | Java Programming Software Engineering | https://www.coursera.org/specializations/java-programming | Java, Algorithms |
