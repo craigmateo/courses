@@ -2,7 +2,7 @@
 
 Code and files from coursework, tutorials, moocs, etc.
 
-## Web Development
+## Web Development :globe_with_meridians:
 
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
@@ -11,7 +11,7 @@ Code and files from coursework, tutorials, moocs, etc.
 
 ***
 
-## Mathematics
+## Mathematics :infinity:
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
 | Fibonacci_Numbers | Fibonacci Numbers and the Golden Ratio | https://www.coursera.org/learn/introcss | Mathematics, Proofs |
@@ -19,7 +19,7 @@ Code and files from coursework, tutorials, moocs, etc.
 
 ***
 
-## Programming
+## Programming :computer:
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
 | Java_Software_Engineering | Java Programming Software Engineering | https://www.coursera.org/specializations/java-programming | Java, Algorithms |
