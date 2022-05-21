@@ -2,8 +2,7 @@
 
 Code and files from coursework, tutorials, moocs, etc.
 
-## Web Development 
-### :globe_with_meridians:
+## Web Development :globe_with_meridians: :iphone:
 
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
@@ -12,7 +11,7 @@ Code and files from coursework, tutorials, moocs, etc.
 
 ***
 
-## Mathematics :infinity:
+## Mathematics :triangular_ruler: :infinity: :bar_chart:
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
 | Fibonacci_Numbers | Fibonacci Numbers and the Golden Ratio | https://www.coursera.org/learn/introcss | Mathematics, Proofs |
@@ -20,7 +19,7 @@ Code and files from coursework, tutorials, moocs, etc.
 
 ***
 
-## Programming :abacus:
+## Programming :abacus: :computer:
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
 | Java_Software_Engineering | Java Programming Software Engineering | https://www.coursera.org/specializations/java-programming | Java, Algorithms |
@@ -33,7 +32,7 @@ Code and files from coursework, tutorials, moocs, etc.
 
 ***
 
-## Philosophy & Cog. Science :brain:
+## Philosophy & Cog. Science :brain: :book: :wittgenstein:
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
 | Phil_Cognitive_Sciences_Intro | Introduction to the Philosophy of Cognitive Sciences | https://www.coursera.org/learn/philosophy-cognitive-sciences | Cognitive Sciences |
