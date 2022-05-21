@@ -12,6 +12,7 @@ Code and files from coursework, tutorials, moocs, etc.
 ***
 
 ## Mathematics :triangular_ruler: :infinity: :bar_chart:
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
 | Fibonacci_Numbers | Fibonacci Numbers and the Golden Ratio | https://www.coursera.org/learn/introcss | Mathematics, Proofs |
