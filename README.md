@@ -2,7 +2,8 @@
 
 Code and files from coursework, tutorials, moocs, etc.
 
-## Web Development :globe_with_meridians:
+## Web Development 
+### :globe_with_meridians:
 
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
