@@ -1,6 +1,6 @@
 # Java Programming and Software Engineering Fundamentals Specialization
 
-My solutions to assignments for the Coursera Specialization "Java Programming and Software Engineering Fundamentals Specialization" from Duke University. 
+Completed assignments for the Coursera Specialization "Java Programming and Software Engineering Fundamentals Specialization" from Duke University. 
 Description: https://www.coursera.org/specializations/java-programming
 
 ## Getting Started
