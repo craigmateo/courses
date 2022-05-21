@@ -3,7 +3,7 @@
 Code and files from coursework, tutorials, moocs, etc.
 
 ## Web Development :globe_with_meridians: :iphone:
-
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
 | CSS3 | Introduction to CSS3 | https://www.coursera.org/learn/introcss | CSS, Web Design |
