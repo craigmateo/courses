@@ -35,6 +35,7 @@ Code and latex files from coursework, tutorials, moocs, etc.
 | netLogo | Mycelium Growth with NetLogo Web | https://www.coursera.org/projects/mycelium | NetLogo, Simulation |
 | geolocation-taxis-folium | Geospatial Data Visualization using Python and Folium | https://www.coursera.org/projects/geospatial-data-visualization-using-python-and-folium | Folium, Pandas |
 | climate-xarray | Climate Geospatial Analysis on Python with Xarray | https://www.coursera.org/projects/xarray | Python Xarray |
+| vueJS_app | Write a University Index Web App with VueJS | [https://www.coursera.org/projects/xarray](https://www.coursera.org/projects/university-index-vuejs) | vuejs |
 
 
 
