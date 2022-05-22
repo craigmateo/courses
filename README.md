@@ -2,14 +2,6 @@
 
 Code and files from coursework, tutorials, moocs, etc.
 
-## Web Development :globe_with_meridians: :iphone:
-| **Folder** | **Title** | **Source** | **Skills / Tools** |
-|---|---|---|---|
-| CSS3 | Introduction to CSS3 | https://www.coursera.org/learn/introcss | CSS, Web Design |
-| Full_Stack_Dev | Full Stack Development with React | https://www.coursera.org/specializations/full-stack-react | Bootstrap, Node.js, jQuery, SASS, Express.js |
-
-***
-
 ## Mathematics :triangular_ruler: :infinity: :bar_chart:
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
@@ -23,6 +15,12 @@ Code and files from coursework, tutorials, moocs, etc.
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
 | Java_Software_Engineering | Java Programming Software Engineering | https://www.coursera.org/specializations/java-programming | Java, Algorithms |
+
+### Web Development :globe_with_meridians: :iphone:
+| **Folder** | **Title** | **Source** | **Skills / Tools** |
+|---|---|---|---|
+| CSS3 | Introduction to CSS3 | https://www.coursera.org/learn/introcss | CSS, Web Design |
+| Full_Stack_Dev | Full Stack Development with React | https://www.coursera.org/specializations/full-stack-react | Bootstrap, Node.js, jQuery, SASS, Express.js |
 
 ### OSSU (Comp. Sci.)
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
