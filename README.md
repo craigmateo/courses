@@ -32,16 +32,13 @@ Code and files from coursework, tutorials, moocs, etc.
 
 ***
 
-### PHILOSOPHY & COG SCI
-
 ## Philosophy & Cog. Science :brain: :book: :grey_question:
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
 | Phil_Cognitive_Sciences_Intro | Introduction to the Philosophy of Cognitive Sciences | https://www.coursera.org/learn/philosophy-cognitive-sciences | Cognitive Sciences |
+| Philosophy_of_Science | Philosophy of Science | https://www.coursera.org/learn/philosophy-of-science | Critical Thinking |
 
 ***
-
-## Guided Projects
 
 ## Guided Projects :hammer: :gear:
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
