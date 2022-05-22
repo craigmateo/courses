@@ -35,6 +35,14 @@ Code and files from coursework, tutorials, moocs, etc.
 |---|---|---|---|
 | Phil_Cognitive_Sciences_Intro | Introduction to the Philosophy of Cognitive Sciences | https://www.coursera.org/learn/philosophy-cognitive-sciences | Cognitive Sciences |
 | Philosophy_of_Science | Philosophy of Science | https://www.coursera.org/learn/philosophy-of-science | Critical Thinking |
+| Thought_Experiments | Thought Experiments | https://www.coursera.org/learn/thought-experiments | Critical Thinking, Argumentation |
+
+***
+
+## Geography & Geomatics :earth_americas: :compass:
+| **Folder** | **Title** | **Source** | **Skills / Tools** |
+|---|---|---|---|
+| Remote_Sensing_Images | Remote Sensing Image Acquisition, Analysis and Applications | https://www.coursera.org/learn/remote-sensing | Remote Sensing |
 
 ***
 
