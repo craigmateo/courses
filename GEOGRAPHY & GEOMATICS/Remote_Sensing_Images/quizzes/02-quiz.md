@@ -18,7 +18,7 @@ The loss of chlorophyll that accompanies plant drying is best seen in the visibl
 
 It is in one of the water absorption bands.
 
-4. *Mismatched detector characteristics in a push broom scanner will lead to**
+4. **Mismatched detector characteristics in a push broom scanner will lead to**
 
 line striping along the swath
 
