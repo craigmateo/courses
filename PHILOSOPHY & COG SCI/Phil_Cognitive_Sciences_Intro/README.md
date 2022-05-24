@@ -1,0 +1,14 @@
+# Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences
+
+**University of Edinburgh**
+https://www.coursera.org/learn/philosophy-cognitive-sciences
+
+### Philosophy and the Sciences Part 1
+
+### Stone-age minds in modern skulls: evolutionary theory and the philosophy of mind (Suilin Lavelle and Kenny Smith)
+
+### What is consciousness? (Mark Sprevak and David Carmel)
+
+### Intelligent machines and the human brain (Mark Sprevak and Peggy Series)
+
+### Embodied cognition (Andy Clark and Barbara Webb)
