@@ -2,7 +2,7 @@
 
 Code and files from coursework, tutorials, moocs, etc.
 
-## Mathematics :triangular_ruler: :infinity: :bar_chart:
+## Mathematics :triangular_ruler: :infinity:
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
 |---|---|---|---|
@@ -12,15 +12,20 @@ Code and files from coursework, tutorials, moocs, etc.
 ***
 
 ## Programming :abacus: :computer:
-| **Folder** | **Title** | **Source** | **Skills / Tools** |
-|---|---|---|---|
-| Java_Software_Engineering | Java Programming Software Engineering | [Coursera](https://www.coursera.org/specializations/java-programming) | `Java`, `Algorithms` |
+| **Folder** | **Title** | **Source** | **Skills / Tools** |**Certificate** |
+|---|---|---|---|---|
+| Java_Software_Engineering | Java Programming Software Engineering (Specialization) :star: | [Coursera](https://www.coursera.org/specializations/java-programming) | `Java`, `Algorithms` | (certificate)https://coursera.org/share/67a4748b70919a0cec42aeabfaa34fbd |
+
+### Data Science & ML :bar_chart:
+| **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
+|---|---|---|---|---|
+| - | Introduction to Applied Machine Learning | [Coursera](https://www.coursera.org/account/accomplishments/verify/VDDQXR9T6EF8) | `Machine Learning` | [certificate](https://coursera.org/share/a1047e69d7d1c1ee3f2c5d175ef0526e) |
 
 ### Web Development :globe_with_meridians: :iphone:
-| **Folder** | **Title** | **Source** | **Skills / Tools** |
-|---|---|---|---|
-| CSS3 | Introduction to CSS3 | [Coursera](https://www.coursera.org/learn/introcss) | CSS, Web Design |
-| Full_Stack_Dev | Full Stack Development with React | [Coursera](https://www.coursera.org/specializations/full-stack-react) | `Bootstrap`, `Node.js`, `jQuery`, `SASS`, `Express.js` |
+| **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
+|---|---|---|---|---|
+| CSS3 | Introduction to CSS3 | [Coursera](https://www.coursera.org/learn/introcss) | `CSS`, `Web Design` | [certificate](https://coursera.org/share/b3e57d670043311ecf659b40941daf0a) |
+| Full_Stack_Dev | Full Stack Development with React | [Coursera](https://www.coursera.org/specializations/full-stack-react) | `Bootstrap`, `Node.js`, `jQuery`, `SASS`, `Express.js` | - |
 
 ### OSSU (Comp. Sci.)
 | **Folder** | **Title** | **Source** | **Skills / Tools** |
@@ -58,6 +63,24 @@ Code and files from coursework, tutorials, moocs, etc.
 | - | Analysing Covid-19 Geospatial data with Python | [Coursera](https://www.coursera.org/projects/geospatial-covid19-python) | `Geopandas` `Geospatial` | [certificate](https://coursera.org/share/73d5822930c2821c1ea0892b54bc3477) |
 | geolocation-taxis-folium | Clustering Geolocation Data Intelligently in Python | [Coursera](https://www.coursera.org/projects/clustering-geolocation-data-intelligently-python) | `visualization` `Machine Learning` `clustering` `Data Analysis` `map building` | [certificate](https://coursera.org/share/034f0df2a9d5ac8e88a1c828d0a1b9ce) |
 | - | Crime Zone Heatmaps with Python and Folium | [Coursera](https://www.coursera.org/projects/crime-zone-heatmaps-python-folium) | `Pandas` `Folium` | [certificate](https://coursera.org/share/e91e4a694f3cc2a8f7b4d21961ff6f6c) |
+| - | Introduction to C++ Programming: Build a Calculator | [Coursera](https://www.coursera.org/projects/introduction-to-cpp-programming-build-a-calculator) | `C++ Basics` | [certificate]https://coursera.org/share/1def281df55bda6d73843dd760ca9533 |
+| - | Build a film club web app on Google AppEngine | [Coursera](https://www.coursera.org/projects/introduction-to-cpp-programming-build-a-calculator) | `Google App Engine (GAE)` `Flask` | [certificate](https://coursera.org/share/7627dacacd7926b851fc273d4ae4393b) |
+
+***
+
+## Engineering & Applied Sciences :building_construction: :factory:
+| **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
+|---|---|---|---|---|
+| - | Mastering Statics  | [Coursera](https://www.coursera.org/learn/mastering-statics) | `Statics` | [Coursera](https://coursera.org/share/4e9357756519c284f6cbd87425510eac) |
+
+| - | Intro to Digital Manufacturing with Autodesk Fusion 360 | [Coursera](https://www.coursera.org/learn/introduction-digital-manufacturing-fusion-360) | `Computer-Aided Design (CAD)` `Mechanical Design` |  (certificate)https://coursera.org/share/eb92d9fb9e7b38bc74af48867572f6a3|
+
+## Business, Mgmt. & Econ. :chart: :euro:
+| **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
+|---|---|---|---|---|
+| - | Agile Meets Design Thinking  | [Coursera](https://www.coursera.org/learn/uva-darden-getting-started-agile) | `Agile Software Development`, `agile user stories`, `Product Management` | [certificate](https://coursera.org/share/fbbe23f3360b1c8278a21165a7dd73ef) |
+| - | Continuous Delivery & DevOps  | [Coursera]https://www.coursera.org/learn/introduction-digital-manufacturing-fusion-360 | `Devops`, `Continuous Delivery`  | [certificate](https://coursera.org/share/6d73c898a5089fc9751cf82e7c5442df) |
+| - | Project Management Principles and Practices (Specialization) :star:  | [Coursera](https://www.coursera.org/specializations/project-management) | `Project Management`, `Project Management`  | [certificate](https://coursera.org/share/22bc0b65574ed786d05b2051a4b070e9) |
 
 ***
 
@@ -65,5 +88,6 @@ Code and files from coursework, tutorials, moocs, etc.
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | - | Animal Behaviour and Welfare  | [Coursera](https://www.coursera.org/learn/animal-welfare) | `Animal` `Animal Behavior` `Veterinary` `Dog` | [certificate](https://coursera.org/share/b149daffa6a1cef44649daebb2fa9d23) |
-| - | Guitar for Beginners  | [Coursera](https://coursera.org/share/c83198bd639bda37fa8962439056c959) | `Tablature` `Music notation` `Guitar scales` `Guitar chords` `Guitar` | [certificate](https://coursera.org/share/c83198bd639bda37fa8962439056c959) 
+| - | Guitar for Beginners  | [Coursera](https://coursera.org/share/c83198bd639bda37fa8962439056c959) | `Tablature` `Music notation` `Guitar scales` `Guitar chords` `Guitar` | [certificate](https://coursera.org/share/c83198bd639bda37fa8962439056c959) |
+| - | Understanding Plants - Part I: What a Plant Knows | [Coursera](https://www.coursera.org/learn/plantknows) | `Plant Biology` `Genetics` `Cell Biology` `Plant` | [certificate](https://coursera.org/share/8f3302eeae23105deee85570e78446a2) |
 
