@@ -19,7 +19,7 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
   * [Humanities](#humanities)
       - [Philosophy :book: :brain:](#philosophy--book---brain-)
       - [Language & Linguistics :speech_balloon:](#language---linguistics--speech-balloon-)
-      - [Other](#other)[:dog: 🎼:]
+      - [Other](#other):dog: 🎼:
 
 ## Programming
 
