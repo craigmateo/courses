@@ -5,25 +5,14 @@ Code and files from coursework, tutorials, and MOOCs.
 The purpose of this is to keep a record of topics I've covered, to review code/concepts, etc.
 
   * [Programming](#programming)
-      - [General / Languages](#general---languages)
-      - [Data Science & ML](#data-science)
-      - [Web Development](#web-development)
-      - [OSSU Comp. Sci.](#ossu-comp-sci)
-      - [Guided Projects](#guided-projects)
   * [Mathematics](#mathematics)
   * [Physical Sciences](#physical-sciences)
-      - [Engineering & Applied Sciences](#engineering---applied-sciences)
-      - [Chemistry & Biology](#chemistry---biology)
-      - [Geography & Geomatics](#geography---geomatics)
-  * [Business, Mgmt. & Econ.](#business--mgmt---econ)
+  * [Social Sciences](#social-sciences)
   * [Humanities](#humanities)
-      - [Philosophy](#philosophy)
-      - [Language & Linguistics](#language)
-      - [Other](#other)
 
 ## Programming
 
-#### General / Languages 
+#### General Languages 
 :abacus: :computer:
 
 | **Folder** | **Title** | **Source** | **Skills / Tools** |**Certificate** |
@@ -115,9 +104,9 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 
 ***
 
-## Business, Mgmt. & Econ. 
+## Social Sciences
 
-#### 
+#### Management
 :chart: :euro:
 
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
