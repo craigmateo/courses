@@ -55,3 +55,12 @@ Code and files from coursework, tutorials, moocs, etc.
 | geolocation-taxis-folium | Geospatial Data Visualization using Python and Folium | https://www.coursera.org/projects/geospatial-data-visualization-using-python-and-folium | Folium, Pandas |
 | climate-xarray | Climate Geospatial Analysis on Python with Xarray | https://www.coursera.org/projects/xarray | Python Xarray |
 | vueJS_app | Write a University Index Web App with VueJS | [https://www.coursera.org/projects/xarray](https://www.coursera.org/projects/university-index-vuejs) | vuejs |
+
+***
+
+## Other
+| **Folder** | **Title** | **Source** | **Skills / Tools** |
+|---|---|---|---|
+|  | Animal Behaviour and Welfare  | [https://www.coursera.org/learn/remote-sensing](link) | `Animal` `Animal Behavior` `Veterinary` `Dog` |
+
+***
