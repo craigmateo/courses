@@ -34,7 +34,8 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 | CSS3 | Introduction to CSS3 | [Coursera](https://www.coursera.org/learn/introcss) | `CSS`, `Web Design` | [certificate](https://coursera.org/share/b3e57d670043311ecf659b40941daf0a) |
 | Full_Stack_Dev | Full Stack Development with React | [Coursera](https://www.coursera.org/specializations/full-stack-react) | `Bootstrap`, `Node.js`, `jQuery`, `SASS`, `Express.js` | :warning: |
 
-#### OSSU Comp. Sci. [curriculum](https://github.com/ossu/computer-science)
+#### OSSU Comp. Sci. 
+*[curriculum](https://github.com/ossu/computer-science)*
 | **Folder** | **Title** | **Source** | **Skills / Tools**  | **Certificate** |
 |---|---|---|---|---|
 | how-to-code-simple-data | How to Code: Simple Data | [edX](https://www.edx.org/course/how-to-code-simple-data) | `Algorithms` | :warning: |
