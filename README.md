@@ -4,24 +4,12 @@ Code and files from coursework, tutorials, and MOOCs.
 
 The purpose of this is to keep a record of topics I've covered, to review code/concepts, etc.
 
-## Mathematics 
-
-#### :triangular_ruler: :infinity:
-[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
-| **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
-|---|---|---|---|---|
-| Fibonacci_Numbers | Fibonacci Numbers and the Golden Ratio | [Coursera](https://www.coursera.org/learn/fibonacci) | `Mathematics`, `Proofs` | [certificate](https://coursera.org/share/a224649746a076d604afad9372acf9ab) |
-| Mathematical_Thinking | An Introduction to Mathematical Thinking | [Coursera](https://www.coursera.org/learn/mathematical-thinking) | `Number Theory`, `Real Analysis`, `Logic` | audit |
-
-***
-
 ## Programming
 
 #### General / Languages :abacus: :computer:
 | **Folder** | **Title** | **Source** | **Skills / Tools** |**Certificate** |
 |---|---|---|---|---|
 | Java_Software_Engineering | Java Programming Software Engineering (Specialization) :star: | [Coursera](https://www.coursera.org/specializations/java-programming) | `Java`, `Algorithms` | [certificate](https://coursera.org/share/67a4748b70919a0cec42aeabfaa34fbd) |
-
 
 #### Data Science & ML :bar_chart:
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
@@ -55,6 +43,17 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 | - | Crime Zone Heatmaps with Python and Folium | [Coursera](https://www.coursera.org/projects/crime-zone-heatmaps-python-folium) | `Pandas` `Folium` | [certificate](https://coursera.org/share/e91e4a694f3cc2a8f7b4d21961ff6f6c) |
 | - | Introduction to C++ Programming: Build a Calculator | [Coursera](https://www.coursera.org/projects/introduction-to-cpp-programming-build-a-calculator) | `C++ Basics` | [certificate](https://coursera.org/share/1def281df55bda6d73843dd760ca9533) |
 | - | Build a film club web app on Google AppEngine | [Coursera](https://www.coursera.org/projects/introduction-to-cpp-programming-build-a-calculator) | `Google App Engine (GAE)` `Flask` | [certificate](https://coursera.org/share/7627dacacd7926b851fc273d4ae4393b) |
+
+***
+
+## Mathematics 
+
+#### :triangular_ruler: :infinity:
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+| **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
+|---|---|---|---|---|
+| Fibonacci_Numbers | Fibonacci Numbers and the Golden Ratio | [Coursera](https://www.coursera.org/learn/fibonacci) | `Mathematics`, `Proofs` | [certificate](https://coursera.org/share/a224649746a076d604afad9372acf9ab) |
+| Mathematical_Thinking | An Introduction to Mathematical Thinking | [Coursera](https://www.coursera.org/learn/mathematical-thinking) | `Number Theory`, `Real Analysis`, `Logic` | audit |
 
 ***
 
