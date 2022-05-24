@@ -4,10 +4,10 @@ Code and files from coursework, tutorials, moocs, etc.
 
 ## Mathematics :triangular_ruler: :infinity:
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
-| **Folder** | **Title** | **Source** | **Skills / Tools** |
-|---|---|---|---|
-| Fibonacci_Numbers | Fibonacci Numbers and the Golden Ratio | [Coursera](https://www.coursera.org/learn/introcss) | `Mathematics`, `Proofs` |
-| Mathematical_Thinking | An Introduction to Mathematical Thinking | [Coursera](https://www.coursera.org/learn/mathematical-thinking) | `Number Theory`, `Real Analysis`, `Logic` |
+| **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
+|---|---|---|---|---|
+| Fibonacci_Numbers | Fibonacci Numbers and the Golden Ratio | [Coursera](https://www.coursera.org/learn/introcss) | `Mathematics`, `Proofs` | - |
+| Mathematical_Thinking | An Introduction to Mathematical Thinking | [Coursera](https://www.coursera.org/learn/mathematical-thinking) | `Number Theory`, `Real Analysis`, `Logic` | [certificate](https://coursera.org/share/a224649746a076d604afad9372acf9ab) |
 
 ***
 
