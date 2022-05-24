@@ -81,8 +81,8 @@ Code and files from coursework, tutorials, moocs, etc.
 ## Physical Sciences :dna: :test_tube:
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
-| - | Chemistry  | [Chemistry](https://www.coursera.org/learn/chemistry-1) | `Chemistry` | n/a |
- - | Understanding Plants - Part I: What a Plant Knows | [Coursera](https://www.coursera.org/learn/plantknows) | `Plant Biology` `Genetics` `Cell Biology` `Plant` | [certificate](https://coursera.org/share/8f3302eeae23105deee85570e78446a2) |
+| - | Chemistry  | [Coursera](https://www.coursera.org/learn/chemistry-1) | `Chemistry` | n/a |
+| - | Understanding Plants - Part I: What a Plant Knows | [Coursera](https://www.coursera.org/learn/plantknows) | `Plant Biology` `Genetics` `Cell Biology` `Plant` | [certificate](https://coursera.org/share/8f3302eeae23105deee85570e78446a2) |
 
 ***
 
