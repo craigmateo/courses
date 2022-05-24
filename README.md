@@ -16,42 +16,24 @@ Code and files from coursework, tutorials, moocs, etc.
 |---|---|---|---|---|
 | Java_Software_Engineering | Java Programming Software Engineering (Specialization) :star: | [Coursera](https://www.coursera.org/specializations/java-programming) | `Java`, `Algorithms` | [certificate](https://coursera.org/share/67a4748b70919a0cec42aeabfaa34fbd) |
 
-### Data Science & ML :bar_chart:
+#### Data Science & ML :bar_chart:
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | - | Introduction to Applied Machine Learning | [Coursera](https://www.coursera.org/account/accomplishments/verify/VDDQXR9T6EF8) | `Machine Learning` | [certificate](https://coursera.org/share/a1047e69d7d1c1ee3f2c5d175ef0526e) |
 
-### Web Development :globe_with_meridians: :iphone:
+#### Web Development :globe_with_meridians: :iphone:
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | CSS3 | Introduction to CSS3 | [Coursera](https://www.coursera.org/learn/introcss) | `CSS`, `Web Design` | [certificate](https://coursera.org/share/b3e57d670043311ecf659b40941daf0a) |
 | Full_Stack_Dev | Full Stack Development with React | [Coursera](https://www.coursera.org/specializations/full-stack-react) | `Bootstrap`, `Node.js`, `jQuery`, `SASS`, `Express.js` | :warning: |
 
-### OSSU (Comp. Sci.)
+#### OSSU (Comp. Sci.)
 | **Folder** | **Title** | **Source** | **Skills / Tools**  | **Certificate** |
 |---|---|---|---|---|
 | how-to-code-simple-data | How to Code: Simple Data | [edX](https://www.edx.org/course/how-to-code-simple-data) | `Algorithms` | :warning: |
 | python-for-everybody | Python for Everybody | [py4e](https://www.py4e.com/lessons) | `Python` | - |
 
-***
-
-## Philosophy & Cog. Science :brain: :book: :grey_question:
-| **Folder** | **Title** | **Source** | **Skills / Tools** |
-|---|---|---|---|
-| Phil_Cognitive_Sciences_Intro | Introduction to the Philosophy of Cognitive Sciences | [Coursera](https://www.coursera.org/learn/philosophy-cognitive-sciences) | `Cognitive Sciences` |
-| Philosophy_of_Science | Philosophy of Science | [Coursera](https://www.coursera.org/learn/philosophy-of-science) | `Critical Thinking` |
-| Thought_Experiments | Thought Experiments | [Coursera](https://www.coursera.org/learn/thought-experiments) | `Critical Thinking`, `Argumentation` |
-
-***
-
-## Geography & Geomatics :earth_americas: :compass:
-| **Folder** | **Title** | **Source** | **Skills / Tools** |
-|---|---|---|---|
-| Remote_Sensing_Images | Remote Sensing Image Acquisition, Analysis and Applications | [Coursera](https://www.coursera.org/learn/remote-sensing) | `Remote Sensing` |
-
-***
-
-## Guided Projects :hammer: :gear:
+#### Guided Projects :hammer: :gear:
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | keplerGL | Interactive Geospatial Visualization:Kepler GL & Jupyter Lab | [Coursera](https://www.coursera.org/projects/geospatial-keplergl-jupyter) | `KeplerGL`, `GIS` | [certificate](https://coursera.org/share/7dc60ed9659e9ac1572a88716d5c981b) |
@@ -65,6 +47,22 @@ Code and files from coursework, tutorials, moocs, etc.
 | - | Crime Zone Heatmaps with Python and Folium | [Coursera](https://www.coursera.org/projects/crime-zone-heatmaps-python-folium) | `Pandas` `Folium` | [certificate](https://coursera.org/share/e91e4a694f3cc2a8f7b4d21961ff6f6c) |
 | - | Introduction to C++ Programming: Build a Calculator | [Coursera](https://www.coursera.org/projects/introduction-to-cpp-programming-build-a-calculator) | `C++ Basics` | [certificate](https://coursera.org/share/1def281df55bda6d73843dd760ca9533) |
 | - | Build a film club web app on Google AppEngine | [Coursera](https://www.coursera.org/projects/introduction-to-cpp-programming-build-a-calculator) | `Google App Engine (GAE)` `Flask` | [certificate](https://coursera.org/share/7627dacacd7926b851fc273d4ae4393b) |
+
+***
+
+## Philosophy & Cog. Science :brain: :book: :grey_question:
+| **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
+|---|---|---|---|---|
+| Phil_Cognitive_Sciences_Intro | Introduction to the Philosophy of Cognitive Sciences | [Coursera](https://www.coursera.org/learn/philosophy-cognitive-sciences) | `Cognitive Sciences` | - |
+| Philosophy_of_Science | Philosophy of Science | [Coursera](https://www.coursera.org/learn/philosophy-of-science) | `Critical Thinking` | - |
+| Thought_Experiments | Thought Experiments | [Coursera](https://www.coursera.org/learn/thought-experiments) | `Critical Thinking`, `Argumentation` | - |
+
+***
+
+## Geography & Geomatics :earth_americas: :compass:
+| **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
+|---|---|---|---|---|
+| Remote_Sensing_Images | Remote Sensing Image Acquisition, Analysis and Applications | [Coursera](https://www.coursera.org/learn/remote-sensing) | `Remote Sensing` | :warning: |
 
 ***
 
@@ -103,7 +101,6 @@ Code and files from coursework, tutorials, moocs, etc.
 | - | Chinese Characters for beginner 汉字  | [Coursera](https://www.coursera.org/learn/hanzi) | `Mandarin` | [certificate](https://coursera.org/share/3d49d98278ab22884bb5910120272c76) |
 | - | Introduction to Communication Science  | [Coursera](https://www.coursera.org/learn/communication) | `Human Communication` | [certificate](https://coursera.org/share/9d3a96f127b025ccf516095adb437d87) |
 
-
 ***
 
 ## Other :dog: 🎼:
@@ -111,4 +108,3 @@ Code and files from coursework, tutorials, moocs, etc.
 |---|---|---|---|---|
 | - | Animal Behaviour and Welfare  | [Coursera](https://www.coursera.org/learn/animal-welfare) | `Animal` `Animal Behavior` `Veterinary` `Dog` | [certificate](https://coursera.org/share/b149daffa6a1cef44649daebb2fa9d23) |
 | - | Guitar for Beginners  | [Coursera](https://coursera.org/share/c83198bd639bda37fa8962439056c959) | `Tablature` `Music notation` `Guitar scales` `Guitar chords` `Guitar` | [certificate](https://coursera.org/share/c83198bd639bda37fa8962439056c959) |
-|
