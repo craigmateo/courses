@@ -14,7 +14,7 @@ Code and files from coursework, tutorials, moocs, etc.
 ## Programming :abacus: :computer:
 | **Folder** | **Title** | **Source** | **Skills / Tools** |**Certificate** |
 |---|---|---|---|---|
-| Java_Software_Engineering | Java Programming Software Engineering (Specialization) :star: | [Coursera](https://www.coursera.org/specializations/java-programming) | `Java`, `Algorithms` | (certificate)https://coursera.org/share/67a4748b70919a0cec42aeabfaa34fbd |
+| Java_Software_Engineering | Java Programming Software Engineering (Specialization) :star: | [Coursera](https://www.coursera.org/specializations/java-programming) | `Java`, `Algorithms` | [certificate](https://coursera.org/share/67a4748b70919a0cec42aeabfaa34fbd) |
 
 ### Data Science & ML :bar_chart:
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
