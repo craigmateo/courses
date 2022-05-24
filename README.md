@@ -18,14 +18,12 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 |---|---|---|---|---|
 | Java_Software_Engineering | Java Programming Software Engineering (Specialization) :star: | [Coursera](https://www.coursera.org/specializations/java-programming) | `Java`, `Algorithms` | [certificate](https://coursera.org/share/67a4748b70919a0cec42aeabfaa34fbd) |
 
------
 
 #### Data Science & ML :bar_chart:
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | - | Introduction to Applied Machine Learning | [Coursera](https://www.coursera.org/account/accomplishments/verify/VDDQXR9T6EF8) | `Machine Learning` | [certificate](https://coursera.org/share/a1047e69d7d1c1ee3f2c5d175ef0526e) |
 
------
 
 #### Web Development :globe_with_meridians: :iphone:
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
@@ -33,7 +31,6 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 | CSS3 | Introduction to CSS3 | [Coursera](https://www.coursera.org/learn/introcss) | `CSS`, `Web Design` | [certificate](https://coursera.org/share/b3e57d670043311ecf659b40941daf0a) |
 | Full_Stack_Dev | Full Stack Development with React | [Coursera](https://www.coursera.org/specializations/full-stack-react) | `Bootstrap`, `Node.js`, `jQuery`, `SASS`, `Express.js` | :warning: |
 
------
 
 #### OSSU (Comp. Sci.)
 | **Folder** | **Title** | **Source** | **Skills / Tools**  | **Certificate** |
@@ -41,7 +38,6 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 | how-to-code-simple-data | How to Code: Simple Data | [edX](https://www.edx.org/course/how-to-code-simple-data) | `Algorithms` | :warning: |
 | python-for-everybody | Python for Everybody | [py4e](https://www.py4e.com/lessons) | `Python` | N/A |
 
------
 
 #### Guided Projects :hammer: :gear:
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
@@ -70,7 +66,6 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 | - | Materials Science: 10 Things Every Engineer Should Know | [Coursera](https://www.coursera.org/learn/materials-science) | `Materials` | [certificate](https://coursera.org/share/3e05d55215befe4e0be5331f13b516a6) |
 | - | Digital Manufacturing & Design Technology (Specialization) :star:  | [Coursera](https://www.coursera.org/specializations/digital-manufacturing-design-technology) | `Digital Design` `Manufacturing` `Industry 4.0` | [certificate](https://coursera.org/share/b6cede525d5e8fa91c94c03235da722c) |
 
------
 
 #### Chemistry & Biology :dna: :test_tube:
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
@@ -78,7 +73,6 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 | - | Chemistry  | [Coursera](https://www.coursera.org/learn/chemistry-1) | `Chemistry` | audit |
 | - | Understanding Plants - Part I: What a Plant Knows | [Coursera](https://www.coursera.org/learn/plantknows) | `Plant Biology` `Genetics` `Cell Biology` `Plant` | [certificate](https://coursera.org/share/8f3302eeae23105deee85570e78446a2) |
 
------
 
 #### Geography & Geomatics :earth_americas: :compass: :mountain_snow:
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
@@ -107,8 +101,6 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 | Philosophy_of_Science | Philosophy of Science | [Coursera](https://www.coursera.org/learn/philosophy-of-science) | `Critical Thinking` | - |
 | Thought_Experiments | Thought Experiments | [Coursera](https://www.coursera.org/learn/thought-experiments) | `Critical Thinking`, `Argumentation` | - |
 
------
-
 #### Language & Linguistics :speech_balloon: 
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
@@ -118,7 +110,7 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 | - | Corpus Linguistics: Method, Analysis, Interpretation | [FutureLearn](https://www.futurelearn.com/courses/corpus-linguistics) | `Corpus Linguistics` | audit |
 | - | Miracles of Human Language: An Introduction to Linguistics | [Coursera](https://www.coursera.org/learn/human-language) | `Linguistics` | audit |
 
-## Other :dog: 🎼:
+#### Other :dog: 🎼:
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | - | Animal Behaviour and Welfare  | [Coursera](https://www.coursera.org/learn/animal-welfare) | `Animal` `Animal Behavior` `Veterinary` `Dog` | [certificate](https://coursera.org/share/b149daffa6a1cef44649daebb2fa9d23) |
