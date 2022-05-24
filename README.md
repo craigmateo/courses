@@ -25,13 +25,13 @@ Code and files from coursework, tutorials, moocs, etc.
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | CSS3 | Introduction to CSS3 | [Coursera](https://www.coursera.org/learn/introcss) | `CSS`, `Web Design` | [certificate](https://coursera.org/share/b3e57d670043311ecf659b40941daf0a) |
-| Full_Stack_Dev | Full Stack Development with React | [Coursera](https://www.coursera.org/specializations/full-stack-react) | `Bootstrap`, `Node.js`, `jQuery`, `SASS`, `Express.js` | - |
+| Full_Stack_Dev | Full Stack Development with React | [Coursera](https://www.coursera.org/specializations/full-stack-react) | `Bootstrap`, `Node.js`, `jQuery`, `SASS`, `Express.js` | :warning: |
 
 ### OSSU (Comp. Sci.)
-| **Folder** | **Title** | **Source** | **Skills / Tools** |
-|---|---|---|---|
-| how-to-code-simple-data | How to Code: Simple Data | [edX](https://www.edx.org/course/how-to-code-simple-data) | `Algorithms` |
-| python-for-everybody | Python for Everybody | [py4e](https://www.py4e.com/lessons) | `Python` |
+| **Folder** | **Title** | **Source** | **Skills / Tools**  | **Certificate** |
+|---|---|---|---|---|
+| how-to-code-simple-data | How to Code: Simple Data | [edX](https://www.edx.org/course/how-to-code-simple-data) | `Algorithms` | :warning: |
+| python-for-everybody | Python for Everybody | [py4e](https://www.py4e.com/lessons) | `Python` | - |
 
 ***
 
