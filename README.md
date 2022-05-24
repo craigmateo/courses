@@ -1,6 +1,8 @@
 # Courses
 
-Code and files from coursework, tutorials, moocs, etc.
+Code and files from coursework, tutorials, and MOOCs.
+
+The purpose of this is to keep a record of topics I've covered, to review code/concepts, etc.
 
 ## Mathematics :triangular_ruler: :infinity:
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
@@ -98,7 +100,10 @@ Code and files from coursework, tutorials, moocs, etc.
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | - | Chinese Characters for beginner 汉字  | [Coursera](https://www.coursera.org/learn/hanzi) | `Mandarin` | [certificate](https://coursera.org/share/3d49d98278ab22884bb5910120272c76) |
+| - | Étudier en France: French Intermediate course B1-B2 | [French](https://www.coursera.org/learn/etudier-en-france) | `French` | audit |
 | - | Introduction to Communication Science  | [Coursera](https://www.coursera.org/learn/communication) | `Human Communication` | [certificate](https://coursera.org/share/9d3a96f127b025ccf516095adb437d87) |
+| - | Corpus Linguistics: Method, Analysis, Interpretation | [FutureLearn](https://www.futurelearn.com/courses/corpus-linguistics) | `Corpus Linguistics` | audit |
+| - | Miracles of Human Language: An Introduction to Linguistics | [Coursera](https://www.coursera.org/learn/human-language) | `Linguistics` | audit |
 
 ***
 
