@@ -104,25 +104,26 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 ### Environmental Engineering (M.Sc.)
 Bauhaus University Weimar
 https://www.uni-weimar.de/en/
+[transcript](https://drive.google.com/file/d/12cQRlu4ipgNaq0L7Y4PM0zlOimWwMnQw/view?usp=sharing)
 
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
-| - | Infrastructure Management  | - | `Infrastructure Management` `Infrastructure Finance` | transcript |
-| - | Project Management | - | `Project Management` | transcript |
-| - | Legal Framework | - | `Environmental Law` | transcript |
-| - | Environmental Economics | - | `Environmental Economics` | transcript |
-| - | Urbanisation and Environment | - | `Urban Planning` `Urbanisation` | transcript |
-| - | Environmental Informatics | - | `GIS` `ArcGIS` | transcript |
-| - | Transportation Planning | - | `Transportatation Modelling` | transcript |
-| - | Water Supply & Treatment | - | `Water Supply` | transcript |
-| - | Waste Water Treatment | - | `Waste Water` | transcript |
-| - | Renewable Energy | - | `Solar` `Wind` `Energy Systems`| transcript |
-| - | Biological Waste Treatment Technologies | - | `Biological Waste Treatment` | transcript |
-| - | Climate Change and Emissions | - | `Climate Change` `Emissions` | transcript |
-| - | Eco Sanitation | - | `Sanitation` `Biological Waste` | transcript |
-| - | Industrial Waste Management | - | `Waste Management` | transcript |
-| - | Flood Water Protection | - | `Flood Management` `Hydrology` | transcript |
-| - | *Thesis*: "Systems Analysis of Power and Water Cogeneration" | - | `Systems Engineering` `Desalination` `Cogeneration` | transcript |
+| - | Infrastructure Management  | - | `Infrastructure Management` `Infrastructure Finance` | - |
+| - | Project Management | - | `Project Management` | - |
+| - | Legal Framework | - | `Environmental Law` | - |
+| - | Environmental Economics | - | `Environmental Economics` | - |
+| - | Urbanisation and Environment | - | `Urban Planning` `Urbanisation` | - |
+| - | Environmental Informatics | - | `GIS` `ArcGIS` | - |
+| - | Transportation Planning | - | `Transportatation Modelling` | - |
+| - | Water Supply & Treatment | - | `Water Supply` | - |
+| - | Waste Water Treatment | - | `Waste Water` | - |
+| - | Renewable Energy | - | `Solar` `Wind` `Energy Systems`| - |
+| - | Biological Waste Treatment Technologies | - | `Biological Waste Treatment` | - |
+| - | Climate Change and Emissions | - | `Climate Change` `Emissions` | - |
+| - | Eco Sanitation | - | `Sanitation` `Biological Waste` | - |
+| - | Industrial Waste Management | - | `Waste Management` | - |
+| - | Flood Water Protection | - | `Flood Management` `Hydrology` | - |
+| - | *Thesis*: "Systems Analysis of Power and Water Cogeneration" | - | `Systems Engineering` `Desalination` `Cogeneration` | - |
 
 ***
 
