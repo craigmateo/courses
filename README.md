@@ -72,7 +72,7 @@ Code and files from coursework, tutorials, moocs, etc.
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | - | Mastering Statics  | [Coursera](https://www.coursera.org/learn/mastering-statics) | `Statics` | [Coursera](https://coursera.org/share/4e9357756519c284f6cbd87425510eac) |
-| - | Intro to Digital Manufacturing with Autodesk Fusion 360 | [Coursera](https://www.coursera.org/learn/introduction-digital-manufacturing-fusion-360) | `Computer-Aided Design (CAD)` `Mechanical Design` |  (certificate)https://coursera.org/share/eb92d9fb9e7b38bc74af48867572f6a3|
+| - | Intro to Digital Manufacturing with Autodesk Fusion 360 | [Coursera](https://www.coursera.org/learn/introduction-digital-manufacturing-fusion-360) | `Computer-Aided Design (CAD)` `Mechanical Design` |  [certificate](https://coursera.org/share/eb92d9fb9e7b38bc74af48867572f6a3) |
 | - | Materials Science: 10 Things Every Engineer Should Know | [Coursera](https://www.coursera.org/learn/materials-science) | `Materials` | [certificate](https://coursera.org/share/3e05d55215befe4e0be5331f13b516a6) |
 | - | Digital Manufacturing & Design Technology (Specialization) :star:  | [Coursera](https://www.coursera.org/specializations/digital-manufacturing-design-technology) | `Digital Design` `Manufacturing` `Industry 4.0` | [certificate](https://coursera.org/share/b6cede525d5e8fa91c94c03235da722c) |
 
@@ -81,7 +81,7 @@ Code and files from coursework, tutorials, moocs, etc.
 ## Physical Sciences :dna: :test_tube:
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
-| - | Chemistry  | [Chemistry](https://www.coursera.org/learn/chemistry-1) | `Chemistry | n/a |
+| - | Chemistry  | [Chemistry](https://www.coursera.org/learn/chemistry-1) | `Chemistry` | n/a |
  - | Understanding Plants - Part I: What a Plant Knows | [Coursera](https://www.coursera.org/learn/plantknows) | `Plant Biology` `Genetics` `Cell Biology` `Plant` | [certificate](https://coursera.org/share/8f3302eeae23105deee85570e78446a2) |
 
 ***
