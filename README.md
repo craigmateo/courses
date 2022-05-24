@@ -10,8 +10,8 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
-| Fibonacci_Numbers | Fibonacci Numbers and the Golden Ratio | [Coursera](https://www.coursera.org/learn/introcss) | `Mathematics`, `Proofs` | audit |
-| Mathematical_Thinking | An Introduction to Mathematical Thinking | [Coursera](https://www.coursera.org/learn/mathematical-thinking) | `Number Theory`, `Real Analysis`, `Logic` | [certificate](https://coursera.org/share/a224649746a076d604afad9372acf9ab) |
+| Fibonacci_Numbers | Fibonacci Numbers and the Golden Ratio | [Coursera](https://www.coursera.org/learn/fibonacci) | `Mathematics`, `Proofs` | [certificate](https://coursera.org/share/a224649746a076d604afad9372acf9ab) |
+| Mathematical_Thinking | An Introduction to Mathematical Thinking | [Coursera](https://www.coursera.org/learn/mathematical-thinking) | `Number Theory`, `Real Analysis`, `Logic` | audit |
 
 ***
 
@@ -26,7 +26,7 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 #### Data Science & ML :bar_chart:
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
-| - | Introduction to Applied Machine Learning | [Coursera](https://www.coursera.org/account/accomplishments/verify/VDDQXR9T6EF8) | `Machine Learning` | [certificate](https://coursera.org/share/a1047e69d7d1c1ee3f2c5d175ef0526e) |
+| - | Introduction to Applied Machine Learning | [Coursera](https://www.coursera.org/learn/machine-learning-applied) | `Machine Learning` | [certificate](https://coursera.org/share/a1047e69d7d1c1ee3f2c5d175ef0526e) |
 
 #### Web Development :globe_with_meridians: :iphone:
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
