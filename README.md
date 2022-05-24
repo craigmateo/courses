@@ -6,7 +6,7 @@ Code and files from coursework, tutorials, moocs, etc.
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
-| Fibonacci_Numbers | Fibonacci Numbers and the Golden Ratio | [Coursera](https://www.coursera.org/learn/introcss) | `Mathematics`, `Proofs` | - |
+| Fibonacci_Numbers | Fibonacci Numbers and the Golden Ratio | [Coursera](https://www.coursera.org/learn/introcss) | `Mathematics`, `Proofs` | Audit |
 | Mathematical_Thinking | An Introduction to Mathematical Thinking | [Coursera](https://www.coursera.org/learn/mathematical-thinking) | `Number Theory`, `Real Analysis`, `Logic` | [certificate](https://coursera.org/share/a224649746a076d604afad9372acf9ab) |
 
 ***
@@ -31,7 +31,7 @@ Code and files from coursework, tutorials, moocs, etc.
 | **Folder** | **Title** | **Source** | **Skills / Tools**  | **Certificate** |
 |---|---|---|---|---|
 | how-to-code-simple-data | How to Code: Simple Data | [edX](https://www.edx.org/course/how-to-code-simple-data) | `Algorithms` | :warning: |
-| python-for-everybody | Python for Everybody | [py4e](https://www.py4e.com/lessons) | `Python` | - |
+| python-for-everybody | Python for Everybody | [py4e](https://www.py4e.com/lessons) | `Python` | N/A |
 
 #### Guided Projects :hammer: :gear:
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
@@ -53,7 +53,7 @@ Code and files from coursework, tutorials, moocs, etc.
 ## Philosophy & Cog. Science :brain: :book: :grey_question:
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
-| Phil_Cognitive_Sciences_Intro | Introduction to the Philosophy of Cognitive Sciences | [Coursera](https://www.coursera.org/learn/philosophy-cognitive-sciences) | `Cognitive Sciences` | - |
+| Phil_Cognitive_Sciences_Intro | Introduction to the Philosophy of Cognitive Sciences | [Coursera](https://www.coursera.org/learn/philosophy-cognitive-sciences) | `Cognitive Sciences` | [certificate](https://coursera.org/share/9e8ce06e0d70ab9541fad5e45dbf434b) |
 | Philosophy_of_Science | Philosophy of Science | [Coursera](https://www.coursera.org/learn/philosophy-of-science) | `Critical Thinking` | - |
 | Thought_Experiments | Thought Experiments | [Coursera](https://www.coursera.org/learn/thought-experiments) | `Critical Thinking`, `Argumentation` | - |
 
@@ -79,7 +79,7 @@ Code and files from coursework, tutorials, moocs, etc.
 ## Physical Sciences :dna: :test_tube:
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
-| - | Chemistry  | [Coursera](https://www.coursera.org/learn/chemistry-1) | `Chemistry` | n/a |
+| - | Chemistry  | [Coursera](https://www.coursera.org/learn/chemistry-1) | `Chemistry` | Audit |
 | - | Understanding Plants - Part I: What a Plant Knows | [Coursera](https://www.coursera.org/learn/plantknows) | `Plant Biology` `Genetics` `Cell Biology` `Plant` | [certificate](https://coursera.org/share/8f3302eeae23105deee85570e78446a2) |
 
 ***
@@ -91,7 +91,6 @@ Code and files from coursework, tutorials, moocs, etc.
 | - | Continuous Delivery & DevOps  | [Coursera](https://www.coursera.org/learn/introduction-digital-manufacturing-fusion-360) | `Devops`, `Continuous Delivery`  | [certificate](https://coursera.org/share/6d73c898a5089fc9751cf82e7c5442df) |
 | - | Project Management Principles and Practices (Specialization) :star:  | [Coursera](https://www.coursera.org/specializations/project-management) | `Project Management`, `Project Management`  | [certificate](https://coursera.org/share/22bc0b65574ed786d05b2051a4b070e9) |
 | - | The Power of Team Culture  | [Coursera](https://www.coursera.org/learn/team-culture) | `Organizational Culture`, `Leadership`  | [certificate](https://coursera.org/share/864ab36079cda1b2c00e3819f2d2b3d0) |
-
 
 ***
 
