@@ -1,6 +1,8 @@
 # Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences
 
 **University of Edinburgh**
+
+**Course Syllabus:**
 https://www.coursera.org/learn/philosophy-cognitive-sciences
 
 * Philosophy and the Sciences Part 1
