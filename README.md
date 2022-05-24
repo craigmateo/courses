@@ -5,35 +5,41 @@ Code and files from coursework, tutorials, and MOOCs.
 The purpose of this is to keep a record of topics I've covered, to review code/concepts, etc.
 
   * [Programming](#programming)
-      - [General / Languages :abacus: :computer:](#general---languages--abacus---computer-)
-      - [Data Science & ML :bar_chart:](#data-science---ml--bar-chart-)
-      - [Web Development :globe_with_meridians: :iphone:](#web-development--globe-with-meridians---iphone-)
+      - [General / Languages :abacus: :computer:](#general---languages)
+      - [Data Science & ML :bar_chart:](#data-science)
+      - [Web Development :globe_with_meridians: :iphone:](#web-development)
       - [OSSU Comp. Sci.](#ossu-comp-sci)
-      - [Guided Projects :hammer: :gear:](#guided-projects--hammer---gear-)
-  * [Mathematics](#mathematics)[:triangular_ruler: :infinity:](#-triangular-ruler---infinity-)
+      - [Guided Projects :hammer: :gear:](#guided-projects)
+  * [Mathematics](#mathematics)
   * [Physical Sciences](#physical-sciences)
-      - [Engineering & Applied Sciences :building_construction: :factory:](#engineering---applied-sciences--building-construction---factory-)
-      - [Chemistry & Biology :dna: :test_tube:](#chemistry---biology--dna---test-tube-)
-      - [Geography & Geomatics :earth_americas: :compass: :mountain_snow:](#geography---geomatics--earth-americas---compass---mountain-snow-)
-  * [Business, Mgmt. & Econ.](#business--mgmt---econ)[:chart: :euro:](#-chart---euro-)
+      - [Engineering & Applied Sciences :building_construction: :factory:](#engineering---applied-sciences)
+      - [Chemistry & Biology :dna: :test_tube:](#chemistry---biology)
+      - [Geography & Geomatics :earth_americas: :compass: :mountain_snow:](#geography---geomatics)
+  * [Business, Mgmt. & Econ.](#business--mgmt---econ)
   * [Humanities](#humanities)
-      - [Philosophy :book: :brain:](#philosophy--book---brain-)
-      - [Language & Linguistics :speech_balloon:](#language---linguistics--speech-balloon-)
-      - [Other](#other):dog: 🎼:
+      - [Philosophy :book: :brain:](#philosophy)
+      - [Language & Linguistics :speech_balloon:](#language)
+      - [Other](#other)
 
 ## Programming
 
-#### General / Languages :abacus: :computer:
+#### General / Languages 
+:abacus: :computer:
+
 | **Folder** | **Title** | **Source** | **Skills / Tools** |**Certificate** |
 |---|---|---|---|---|
 | Java_Software_Engineering | Java Programming Software Engineering (Specialization) :star: | [Coursera](https://www.coursera.org/specializations/java-programming) | `Java`, `Algorithms` | [certificate](https://coursera.org/share/67a4748b70919a0cec42aeabfaa34fbd) |
 
-#### Data Science & ML :bar_chart:
+#### Data Science & ML 
+:bar_chart:
+
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | - | Introduction to Applied Machine Learning | [Coursera](https://www.coursera.org/learn/machine-learning-applied) | `Machine Learning` | [certificate](https://coursera.org/share/a1047e69d7d1c1ee3f2c5d175ef0526e) |
 
-#### Web Development :globe_with_meridians: :iphone:
+#### Web Development 
+:globe_with_meridians: :iphone:
+
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | CSS3 | Introduction to CSS3 | [Coursera](https://www.coursera.org/learn/introcss) | `CSS`, `Web Design` | [certificate](https://coursera.org/share/b3e57d670043311ecf659b40941daf0a) |
@@ -41,12 +47,15 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 
 #### OSSU Comp. Sci. 
 *[curriculum](https://github.com/ossu/computer-science)*
+
 | **Folder** | **Title** | **Source** | **Skills / Tools**  | **Certificate** |
 |---|---|---|---|---|
 | how-to-code-simple-data | How to Code: Simple Data | [edX](https://www.edx.org/course/how-to-code-simple-data) | `Algorithms` | :warning: |
 | python-for-everybody | Python for Everybody | [py4e](https://www.py4e.com/lessons) | `Python` | N/A |
 
-#### Guided Projects :hammer: :gear:
+#### Guided Projects 
+:hammer: :gear:
+
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | keplerGL | Interactive Geospatial Visualization:Kepler GL & Jupyter Lab | [Coursera](https://www.coursera.org/projects/geospatial-keplergl-jupyter) | `KeplerGL`, `GIS` | [certificate](https://coursera.org/share/7dc60ed9659e9ac1572a88716d5c981b) |
@@ -65,8 +74,10 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 
 ## Mathematics 
 
-#### :triangular_ruler: :infinity:
+#### 
+:triangular_ruler: :infinity:
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | Fibonacci_Numbers | Fibonacci Numbers and the Golden Ratio | [Coursera](https://www.coursera.org/learn/fibonacci) | `Mathematics`, `Proofs` | [certificate](https://coursera.org/share/a224649746a076d604afad9372acf9ab) |
@@ -76,7 +87,9 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 
 ## Physical Sciences
 
-#### Engineering & Applied Sciences :building_construction: :factory:
+#### Engineering & Applied Sciences 
+:building_construction: :factory:
+
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | - | Mastering Statics  | [Coursera](https://www.coursera.org/learn/mastering-statics) | `Statics` | [certificate](https://coursera.org/share/4e9357756519c284f6cbd87425510eac) |
@@ -84,13 +97,17 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 | - | Materials Science: 10 Things Every Engineer Should Know | [Coursera](https://www.coursera.org/learn/materials-science) | `Materials` | [certificate](https://coursera.org/share/3e05d55215befe4e0be5331f13b516a6) |
 | - | Digital Manufacturing & Design Technology (Specialization) :star:  | [Coursera](https://www.coursera.org/specializations/digital-manufacturing-design-technology) | `Digital Design` `Manufacturing` `Industry 4.0` | [certificate](https://coursera.org/share/b6cede525d5e8fa91c94c03235da722c) |
 
-#### Chemistry & Biology :dna: :test_tube:
+#### Chemistry & Biology 
+:dna: :test_tube:
+
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | - | Chemistry  | [Coursera](https://www.coursera.org/learn/chemistry-1) | `Chemistry` | audit |
 | - | Understanding Plants - Part I: What a Plant Knows | [Coursera](https://www.coursera.org/learn/plantknows) | `Plant Biology` `Genetics` `Cell Biology` `Plant` | [certificate](https://coursera.org/share/8f3302eeae23105deee85570e78446a2) |
 
-#### Geography & Geomatics :earth_americas: :compass: :mountain_snow:
+#### Geography & Geomatics 
+:earth_americas: :compass: :mountain_snow:
+
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | Remote_Sensing_Images | Remote Sensing Image Acquisition, Analysis and Applications | [Coursera](https://www.coursera.org/learn/remote-sensing) | `Remote Sensing` | :warning: |
@@ -100,7 +117,9 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 
 ## Business, Mgmt. & Econ. 
 
-#### :chart: :euro:
+#### 
+:chart: :euro:
+
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | - | Agile Meets Design Thinking  | [Coursera](https://www.coursera.org/learn/uva-darden-getting-started-agile) | `Agile Software Development`, `agile user stories`, `Product Management` | [certificate](https://coursera.org/share/fbbe23f3360b1c8278a21165a7dd73ef) |
@@ -112,14 +131,18 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 
 ## Humanities
 
-#### Philosophy :book: :brain:
+#### Philosophy 
+:book: :brain:
+
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | Phil_Cognitive_Sciences_Intro | Introduction to the Philosophy of Cognitive Sciences | [Coursera](https://www.coursera.org/learn/philosophy-cognitive-sciences) | `Cognitive Sciences` | [certificate](https://coursera.org/share/9e8ce06e0d70ab9541fad5e45dbf434b) |
 | Philosophy_of_Science | Philosophy of Science | [Coursera](https://www.coursera.org/learn/philosophy-of-science) | `Critical Thinking` | - |
 | Thought_Experiments | Thought Experiments | [Coursera](https://www.coursera.org/learn/thought-experiments) | `Critical Thinking`, `Argumentation` | - |
 
-#### Language & Linguistics :speech_balloon: 
+#### Language & Linguistics 
+:speech_balloon: 
+
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | - | Chinese Characters for beginner 汉字  | [Coursera](https://www.coursera.org/learn/hanzi) | `Mandarin` | [certificate](https://coursera.org/share/3d49d98278ab22884bb5910120272c76) |
@@ -130,7 +153,9 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 
 #### Other
 
-#### :dog: 🎼:
+#### 
+:dog: 🎼:
+
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | - | Animal Behaviour and Welfare  | [Coursera](https://www.coursera.org/learn/animal-welfare) | `Animal` `Animal Behavior` `Veterinary` `Dog` | [certificate](https://coursera.org/share/b149daffa6a1cef44649daebb2fa9d23) |
