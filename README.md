@@ -96,11 +96,31 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 
 #### Geography & Geomatics 
 :earth_americas: :compass: :mountain_snow:
+| Remote_Sensing_Images | Remote Sensing Image Acquisition, Analysis and Applications | [Coursera](https://www.coursera.org/learn/remote-sensing) | `Remote Sensing` | :warning: |
+| - | Planet Earth...and You | [Coursera](https://www.coursera.org/learn/planet-earth) | `Geology` | audit |
+
+#### Environmental Engineering (M.Sc.)
+Bauhaus University Weimar
+https://www.uni-weimar.de/en/
 
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
-| Remote_Sensing_Images | Remote Sensing Image Acquisition, Analysis and Applications | [Coursera](https://www.coursera.org/learn/remote-sensing) | `Remote Sensing` | :warning: |
-| - | Planet Earth...and You | [Coursera](https://www.coursera.org/learn/planet-earth) | `Geology` | audit |
+| - | Infrastructure Management  | - | `Infrastructure Management` `Infrastructure Finance` | transcript |
+| - | Project Management | - | `Project Management` | transcript |
+| - | Legal Framework | - | `Environmental Law` | transcript |
+| - | Environmental Economics | - | `Environmental Economics` | transcript |
+| - | Urbanisation and Environment | - | `Urban Planning` `Urbanisation` | transcript |
+| - | Environmental Informatics | - | `GIS` `ArcGIS` | transcript |
+| - | Transportation Planning | - | `Transportatation Modelling` | transcript |
+| - | Water Supply & Treatment | - | `Water Supply` | transcript |
+| - | Waste Water Treatment | - | `Waste Water` | transcript |
+| - | Renewable Energy | - | `Solar` `Wind` `Energy Systems`| transcript |
+| - | Biological Waste Treatment Technologies | - | `Biological Waste Treatment` | transcript |
+| - | Climate Change and Emissions | - | `Climate Change` `Emissions` | transcript |
+| - | Eco Sanitation | - | `Sanitation` `Biological Waste` | transcript |
+| - | Industrial Waste Management | - | `Waste Management` | transcript |
+| - | Flood Water Protection | - | `Flood Management` `Hydrology` | transcript |
+| - | *Thesis*: "Systems Analysis of Power and Water Cogeneration" | - | `Systems Engineering` `Desalination` `Cogeneration` | transcript |
 
 ***
 
