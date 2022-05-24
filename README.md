@@ -101,6 +101,7 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 | Remote_Sensing_Images | Remote Sensing Image Acquisition, Analysis and Applications | [Coursera](https://www.coursera.org/learn/remote-sensing) | `Remote Sensing` | :warning: |
 | - | Planet Earth...and You | [Coursera](https://www.coursera.org/learn/planet-earth) | `Geology` | audit |
 
+<!--
 ### Environmental Engineering (M.Sc.)
 Bauhaus University Weimar
 https://www.uni-weimar.de/en/
@@ -124,6 +125,24 @@ https://www.uni-weimar.de/en/
 | - | Industrial Waste Management | - | `Waste Management` | - |
 | - | Flood Water Protection | - | `Flood Management` `Hydrology` | - |
 | - | *Thesis*: "Systems Analysis of Power and Water Cogeneration" | - | `Systems Engineering` `Desalination` `Cogeneration` | - |
+-->
+
+<!--
+### Nanobiotechnology
+TU Kaiserslautern
+[transcript](https://drive.google.com/file/d/1YD-4ZtxJdBtJz7ayJUCkOx6errLOOgL5/view?usp=sharing)
+
+| **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
+|---|---|---|---|---|
+| - | Fundamentals of Quantum Mechanics  | - | `Quantum Mechanics` | - |
+| - | Applications of Nanotechnology | - | `Nanotechnology` | - |
+| - | Fundamentals of Molecular Biology, Genetics | - | `Molecular Biology` `Genetics` | - |
+| - | Analytical Techniques in Nanotechnology | - | `Analytical Techniques` `Spectroscopy` | - |
+| - | Processing Coatings and Their Applications | - | `Processing Coatings` | - |
+| - | Nanotechnologically Modified Biomaterials | - | `Biomaterials` | - |
+| - | Nanomaterials 1 | - | `Nanomaterials` | - |
+| - | Interaction between Biological and Non-biological Devices | - | `Drug Delivery` `Medical Applications` | - |
+-->
 
 ***
 
