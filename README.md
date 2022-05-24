@@ -74,7 +74,15 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 
 ***
 
-## Physical Sciences
+## Physical Sciences and Engineering
+
+#### Chemistry & Biology 
+:dna: :test_tube:
+
+| **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
+|---|---|---|---|---|
+| - | Chemistry  | [Coursera](https://www.coursera.org/learn/chemistry-1) | `Chemistry` | audit |
+| - | Understanding Plants - Part I: What a Plant Knows | [Coursera](https://www.coursera.org/learn/plantknows) | `Plant Biology` `Genetics` `Cell Biology` `Plant` | [certificate](https://coursera.org/share/8f3302eeae23105deee85570e78446a2) |
 
 #### Engineering & Applied Sciences 
 :building_construction: :factory:
@@ -86,20 +94,14 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 | - | Materials Science: 10 Things Every Engineer Should Know | [Coursera](https://www.coursera.org/learn/materials-science) | `Materials` | [certificate](https://coursera.org/share/3e05d55215befe4e0be5331f13b516a6) |
 | - | Digital Manufacturing & Design Technology (Specialization) :star:  | [Coursera](https://www.coursera.org/specializations/digital-manufacturing-design-technology) | `Digital Design` `Manufacturing` `Industry 4.0` | [certificate](https://coursera.org/share/b6cede525d5e8fa91c94c03235da722c) |
 
-#### Chemistry & Biology 
-:dna: :test_tube:
-
-| **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
-|---|---|---|---|---|
-| - | Chemistry  | [Coursera](https://www.coursera.org/learn/chemistry-1) | `Chemistry` | audit |
-| - | Understanding Plants - Part I: What a Plant Knows | [Coursera](https://www.coursera.org/learn/plantknows) | `Plant Biology` `Genetics` `Cell Biology` `Plant` | [certificate](https://coursera.org/share/8f3302eeae23105deee85570e78446a2) |
-
 #### Geography & Geomatics 
 :earth_americas: :compass: :mountain_snow:
+| **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
+|---|---|---|---|---|
 | Remote_Sensing_Images | Remote Sensing Image Acquisition, Analysis and Applications | [Coursera](https://www.coursera.org/learn/remote-sensing) | `Remote Sensing` | :warning: |
 | - | Planet Earth...and You | [Coursera](https://www.coursera.org/learn/planet-earth) | `Geology` | audit |
 
-#### Environmental Engineering (M.Sc.)
+### Environmental Engineering (M.Sc.)
 Bauhaus University Weimar
 https://www.uni-weimar.de/en/
 
