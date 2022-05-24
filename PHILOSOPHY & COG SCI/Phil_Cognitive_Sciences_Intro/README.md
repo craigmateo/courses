@@ -16,4 +16,5 @@ https://www.coursera.org/learn/philosophy-cognitive-sciences
 * Embodied cognition (Andy Clark and Barbara Webb)
 
 **Course Certificate:**
+
 https://coursera.org/share/ede05efa018d8ee25c46f308da500991
