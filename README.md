@@ -6,7 +6,7 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 
   * [Programming](#programming)
   * [Mathematics](#mathematics)
-  * [Physical Sciences](#physical-sciences)
+  * [Physical Sciences](#physical-sciences-and-engineering)
   * [Social Sciences](#social-sciences)
   * [Humanities](#humanities)
 
