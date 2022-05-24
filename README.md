@@ -6,7 +6,7 @@ Code and files from coursework, tutorials, moocs, etc.
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
-| Fibonacci_Numbers | Fibonacci Numbers and the Golden Ratio | [Coursera](https://www.coursera.org/learn/introcss) | `Mathematics`, `Proofs` | Audit |
+| Fibonacci_Numbers | Fibonacci Numbers and the Golden Ratio | [Coursera](https://www.coursera.org/learn/introcss) | `Mathematics`, `Proofs` | audit |
 | Mathematical_Thinking | An Introduction to Mathematical Thinking | [Coursera](https://www.coursera.org/learn/mathematical-thinking) | `Number Theory`, `Real Analysis`, `Logic` | [certificate](https://coursera.org/share/a224649746a076d604afad9372acf9ab) |
 
 ***
@@ -79,7 +79,7 @@ Code and files from coursework, tutorials, moocs, etc.
 ## Physical Sciences :dna: :test_tube:
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
-| - | Chemistry  | [Coursera](https://www.coursera.org/learn/chemistry-1) | `Chemistry` | Audit |
+| - | Chemistry  | [Coursera](https://www.coursera.org/learn/chemistry-1) | `Chemistry` | audit |
 | - | Understanding Plants - Part I: What a Plant Knows | [Coursera](https://www.coursera.org/learn/plantknows) | `Plant Biology` `Genetics` `Cell Biology` `Plant` | [certificate](https://coursera.org/share/8f3302eeae23105deee85570e78446a2) |
 
 ***
@@ -107,3 +107,4 @@ Code and files from coursework, tutorials, moocs, etc.
 |---|---|---|---|---|
 | - | Animal Behaviour and Welfare  | [Coursera](https://www.coursera.org/learn/animal-welfare) | `Animal` `Animal Behavior` `Veterinary` `Dog` | [certificate](https://coursera.org/share/b149daffa6a1cef44649daebb2fa9d23) |
 | - | Guitar for Beginners  | [Coursera](https://coursera.org/share/c83198bd639bda37fa8962439056c959) | `Tablature` `Music notation` `Guitar scales` `Guitar chords` `Guitar` | [certificate](https://coursera.org/share/c83198bd639bda37fa8962439056c959) |
+| - | Drawing Nature, Science and Culture: Natural History Illustration 101  | [edX](https://www.edx.org/course/drawing-nature-science-and-culture-natural-history) | `Drawing` `Illustration` | audit |
