@@ -47,14 +47,29 @@ Code and files from coursework, tutorials, moocs, etc.
 ***
 
 ## Guided Projects :hammer: :gear:
-| **Folder** | **Title** | **Source** | **Skills / Tools** |
-|---|---|---|---|
-| keplerGL | Interactive Geospatial Visualization:Kepler GL & Jupyter Lab | [Coursera](https://www.coursera.org/projects/geospatial-keplergl-jupyter) | `KeplerGL`, `GIS` |
-| kMeans101 | K-Means Clustering 101: World Happiness Report | [Coursera](https://www.coursera.org/projects/clustering-world-happiness-reports) | `Python`, `Machine Learning` |
-| netLogo | Mycelium Growth with NetLogo Web | [Coursera](https://www.coursera.org/projects/mycelium) | `NetLogo`, `Simulation` |
-| geolocation-taxis-folium | Geospatial Data Visualization using Python and Folium | [Coursera](https://www.coursera.org/projects/geospatial-data-visualization-using-python-and-folium) | `Folium`, `Pandas` |
-| climate-xarray | Climate Geospatial Analysis on Python with Xarray | [Coursera](https://www.coursera.org/projects/xarray) | `Python Xarray` |
-| vueJS_app | Write a University Index Web App with VueJS | [Coursera](https://www.coursera.org/projects/university-index-vuejs) | `vuejs` |
+| **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
+|---|---|---|---|---|
+| keplerGL | Interactive Geospatial Visualization:Kepler GL & Jupyter Lab | [Coursera](https://www.coursera.org/projects/geospatial-keplergl-jupyter) | `KeplerGL`, `GIS` | [certificate](https://coursera.org/share/7dc60ed9659e9ac1572a88716d5c981b) |
+
+| kMeans101 | K-Means Clustering 101: World Happiness Report | [Coursera](https://www.coursera.org/projects/clustering-world-happiness-reports) | `Python`, `Machine Learning` | [certificate](https://coursera.org/share/2d9d6f4c5b46ce52a13203e9c0aaa25b) |
+
+| netLogo | Mycelium Growth with NetLogo Web | [Coursera](https://www.coursera.org/projects/mycelium) | `NetLogo`, `Simulation` | [certificate](https://coursera.org/share/47cbfd603bbfaf061e3a5c92a0a6f89f) |
+
+| geolocation-taxis-folium | Geospatial Data Visualization using Python and Folium | [Coursera](https://www.coursera.org/projects/geospatial-data-visualization-using-python-and-folium) | `Folium`, `Pandas` | - |
+
+| climate-xarray | Climate Geospatial Analysis on Python with Xarray | [Coursera](https://www.coursera.org/projects/xarray) | `Python Xarray` | [certificate](https://coursera.org/share/0f623b6b0f20f1033ea1cbf78a92403c) |
+
+| vueJS_app | Write a University Index Web App with VueJS | [Coursera](https://www.coursera.org/projects/university-index-vuejs) | `vuejs` | [certificate](https://coursera.org/share/849b516f043ab06555dbada71ac03669) |
+
+| - | Getting Started with Spatial Analysis in GeoDa | [Coursera](https://www.coursera.org/projects/getting-started-spatial-analysis-geoda) | `Spatial Analysis` `GeoDa` | - |
+
+| - | Analysing Covid-19 Geospatial data with Python | [Coursera](https://www.coursera.org/projects/geospatial-covid19-python) | `Geopandas` `Geospatial` | [certificate](https://coursera.org/share/73d5822930c2821c1ea0892b54bc3477) |
+
+| - | Clustering Geolocation Data Intelligently in Python | [Coursera](https://www.coursera.org/projects/clustering-geolocation-data-intelligently-python) | `visualization` `Machine Learning` `clustering` `Data Analysis` `map building` | [certificate](https://coursera.org/share/034f0df2a9d5ac8e88a1c828d0a1b9ce) |
+
+| - | Crime Zone Heatmaps with Python and Folium | [Coursera](https://www.coursera.org/projects/crime-zone-heatmaps-python-folium) | `Pandas` `Folium` | [certificate]https://coursera.org/share/e91e4a694f3cc2a8f7b4d21961ff6f6c |
+
+
 
 ***
 
