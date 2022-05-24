@@ -4,6 +4,26 @@ Code and files from coursework, tutorials, and MOOCs.
 
 The purpose of this is to keep a record of topics I've covered, to review code/concepts, etc.
 
+  * [Programming](#programming)
+      - [General / Languages :abacus: :computer:](#general---languages--abacus---computer-)
+      - [Data Science & ML :bar_chart:](#data-science---ml--bar-chart-)
+      - [Web Development :globe_with_meridians: :iphone:](#web-development--globe-with-meridians---iphone-)
+      - [OSSU Comp. Sci.](#ossu-comp-sci)
+      - [Guided Projects :hammer: :gear:](#guided-projects--hammer---gear-)
+  * [Mathematics](#mathematics)
+      - [:triangular_ruler: :infinity:](#-triangular-ruler---infinity-)
+  * [Physical Sciences](#physical-sciences)
+      - [Engineering & Applied Sciences :building_construction: :factory:](#engineering---applied-sciences--building-construction---factory-)
+      - [Chemistry & Biology :dna: :test_tube:](#chemistry---biology--dna---test-tube-)
+      - [Geography & Geomatics :earth_americas: :compass: :mountain_snow:](#geography---geomatics--earth-americas---compass---mountain-snow-)
+  * [Business, Mgmt. & Econ.](#business--mgmt---econ)
+      - [:chart: :euro:](#-chart---euro-)
+  * [Humanities](#humanities)
+      - [Philosophy :book: :brain:](#philosophy--book---brain-)
+      - [Language & Linguistics :speech_balloon:](#language---linguistics--speech-balloon-)
+      - [Other](#other)
+      - [:dog: 🎼:](#-dog-----)
+
 ## Programming
 
 #### General / Languages :abacus: :computer:
