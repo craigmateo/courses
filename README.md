@@ -59,8 +59,8 @@ Code and files from coursework, tutorials, moocs, etc.
 ***
 
 ## Other
-| **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate**
+| **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|
-|  | Animal Behaviour and Welfare  | [syllabus]https://www.coursera.org/learn/animal-welfare | `Animal` `Animal Behavior` `Veterinary` `Dog` | |
-|  | Guitar for Beginners  | [syllabus]https://coursera.org/share/c83198bd639bda37fa8962439056c959 | `Tablature` `Music notation` `Guitar scales` `Guitar chords` `Guitar` | [certificate]https://coursera.org/share/c83198bd639bda37fa8962439056c959| 
+| - | Animal Behaviour and Welfare  | [syllabus]https://www.coursera.org/learn/animal-welfare | `Animal` `Animal Behavior` `Veterinary` `Dog` | |
+| - | Guitar for Beginners  | [syllabus]https://coursera.org/share/c83198bd639bda37fa8962439056c959 | `Tablature` `Music notation` `Guitar scales` `Guitar chords` `Guitar` | [certificate]https://coursera.org/share/c83198bd639bda37fa8962439056c959| 
 ***
