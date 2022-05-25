@@ -178,7 +178,7 @@ TU Kaiserslautern
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | - | Chinese Characters for beginner 汉字  | [Coursera](https://www.coursera.org/learn/hanzi) | `Mandarin` | [certificate](https://coursera.org/share/3d49d98278ab22884bb5910120272c76) |
-| - | Étudier en France: French Intermediate course B1-B2 | [French](https://www.coursera.org/learn/etudier-en-france) | `French` | audit |
+| - | Étudier en France: French Intermediate course B1-B2 | [Coursera](https://www.coursera.org/learn/etudier-en-france) | `French` | audit |
 | - | Introduction to Communication Science  | [Coursera](https://www.coursera.org/learn/communication) | `Human Communication` | [certificate](https://coursera.org/share/9d3a96f127b025ccf516095adb437d87) |
 | - | Corpus Linguistics: Method, Analysis, Interpretation | [FutureLearn](https://www.futurelearn.com/courses/corpus-linguistics) | `Corpus Linguistics` | audit |
 | - | Miracles of Human Language: An Introduction to Linguistics | [Coursera](https://www.coursera.org/learn/human-language) | `Linguistics` | audit |
