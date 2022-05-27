@@ -10,7 +10,7 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
   * [Physical Sciences](#physical-sciences-and-engineering)
   * [Social Sciences](#social-sciences)
   * [Humanities](#humanities)
-  * [Arts & Design](#arts_and_design)
+  * [Arts & Design](#arts-and-design)
 
 :star: = _specialization (multi course)_
 :warning: = _incomplete_
