@@ -10,6 +10,7 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
   * [Physical Sciences](#physical-sciences-and-engineering)
   * [Social Sciences](#social-sciences)
   * [Humanities](#humanities)
+  * [Arts & Design](#arts_and_design)
 
 :star: = _specialization (multi course)_
 :warning: = _incomplete_
@@ -163,6 +164,15 @@ TU Kaiserslautern
 | - | Project Management Principles and Practices (Specialization) :star:  | [Coursera](https://www.coursera.org/specializations/project-management) | `Project Management`, `Project Management`  | [certificate](https://coursera.org/share/22bc0b65574ed786d05b2051a4b070e9) |
 | - | The Power of Team Culture  | [Coursera](https://www.coursera.org/learn/team-culture) | `Organizational Culture`, `Leadership`  | [certificate](https://coursera.org/share/864ab36079cda1b2c00e3819f2d2b3d0) |
 
+#### Other
+
+#### 
+:dog:
+
+| **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
+|---|---|---|---|---|
+| - | Animal Behaviour and Welfare  | [Coursera](https://www.coursera.org/learn/animal-welfare) | `Animal` `Animal Behavior` `Veterinary` `Dog` | [certificate](https://coursera.org/share/b149daffa6a1cef44649daebb2fa9d23) |
+
 ***
 
 ## Humanities
@@ -188,13 +198,14 @@ TU Kaiserslautern
 | - | Corpus Linguistics: Method, Analysis, Interpretation | [FutureLearn](https://www.futurelearn.com/courses/corpus-linguistics) | `Corpus Linguistics` | audit |
 | - | Miracles of Human Language: An Introduction to Linguistics | [Coursera](https://www.coursera.org/learn/human-language) | `Linguistics` | audit |
 
-#### Other
+**
+
+## Arts and Design
 
 #### 
-:dog: 🎼:
+🎼 🎨 
 
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
-| - | Animal Behaviour and Welfare  | [Coursera](https://www.coursera.org/learn/animal-welfare) | `Animal` `Animal Behavior` `Veterinary` `Dog` | [certificate](https://coursera.org/share/b149daffa6a1cef44649daebb2fa9d23) |
 | - | Guitar for Beginners  | [Coursera](https://coursera.org/share/c83198bd639bda37fa8962439056c959) | `Tablature` `Music notation` `Guitar scales` `Guitar chords` `Guitar` | [certificate](https://coursera.org/share/c83198bd639bda37fa8962439056c959) |
 | - | Drawing Nature, Science and Culture: Natural History Illustration 101  | [edX](https://www.edx.org/course/drawing-nature-science-and-culture-natural-history) | `Drawing` `Illustration` | audit |
