@@ -25,7 +25,7 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 | Java_Software_Engineering | Java Programming Software Engineering (Specialization) :star: | [Coursera](https://www.coursera.org/specializations/java-programming) | `Java`, `Algorithms` | [certificate](https://coursera.org/share/67a4748b70919a0cec42aeabfaa34fbd) |
 
 #### Data Science & ML 
-:bar_chart:
+:bar_chart: 📉
 
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
@@ -188,7 +188,7 @@ TU Kaiserslautern
 | Thought_Experiments | Thought Experiments | [Coursera](https://www.coursera.org/learn/thought-experiments) | `Critical Thinking`, `Argumentation` | - |
 
 #### Language & Linguistics 
-:speech_balloon: 
+:speech_balloon: ✍️
 
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
@@ -198,7 +198,7 @@ TU Kaiserslautern
 | - | Corpus Linguistics: Method, Analysis, Interpretation | [FutureLearn](https://www.futurelearn.com/courses/corpus-linguistics) | `Corpus Linguistics` | audit |
 | - | Miracles of Human Language: An Introduction to Linguistics | [Coursera](https://www.coursera.org/learn/human-language) | `Linguistics` | audit |
 
-**
+***
 
 ## Arts and Design
 
