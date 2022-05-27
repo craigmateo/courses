@@ -170,6 +170,7 @@ TU Kaiserslautern
 |---|---|---|---|---|
 | Phil_Cognitive_Sciences_Intro | Introduction to the Philosophy of Cognitive Sciences | [Coursera](https://www.coursera.org/learn/philosophy-cognitive-sciences) | `Cognitive Sciences` | [certificate](https://coursera.org/share/9e8ce06e0d70ab9541fad5e45dbf434b) |
 | Philosophy_of_Science | Philosophy of Science | [Coursera](https://www.coursera.org/learn/philosophy-of-science) | `Critical Thinking` | - |
+| Phil_of_Physical_Sciences | Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences | [Coursera](https://www.coursera.org/learn/philosophy-physical-sciences) | `Critical Thinking` `Conceptual Thinking` | [certificate](https://coursera.org/share/3a924e2a26836ad6aba95a6cf61c37b0) |
 | Thought_Experiments | Thought Experiments | [Coursera](https://www.coursera.org/learn/thought-experiments) | `Critical Thinking`, `Argumentation` | - |
 
 #### Language & Linguistics 
