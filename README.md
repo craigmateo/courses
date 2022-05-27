@@ -4,11 +4,15 @@ Code and files from coursework, tutorials, and MOOCs.
 
 The purpose of this is to keep a record of topics I've covered, to review code/concepts, etc.
 
+**Domains**:
   * [Programming](#programming)
   * [Mathematics](#mathematics)
   * [Physical Sciences](#physical-sciences-and-engineering)
   * [Social Sciences](#social-sciences)
   * [Humanities](#humanities)
+
+:star: = _specialization (multi course)_
+:warning: = _incomplete_
 
 ## Programming
 
