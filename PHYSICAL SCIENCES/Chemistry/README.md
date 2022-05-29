@@ -1,0 +1,166 @@
+# Chemistry
+
+https://www.coursera.org/learn/chemistry-1#syllabus
+
+![](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/xdp/partnerLogos/svg/uk.svg?auto=format%2Ccompress&dpr=1&h=70)
+
+### About
+
+This course is designed to cover subjects in advanced high school chemistry courses, correlating to the standard topics as established by the American Chemical Society. This course is a precursor to the Advanced Chemistry Coursera course. Areas that are covered include atomic structure, periodic trends, compounds, reactions and stoichiometry, bonding, and thermochemistry.
+
+### Syllabus
+
+- Week 1
+  - 1.01 Subatomic Particles: Protons, Neutrons, Electrons and the Nucleus  21m
+  - 1.02 Understanding Light  19m
+  - 1.03 Quantum Theory, Energy and frequency and the photoelectric effect17m
+  - 1.03a Energy of Photon  4m
+  - 1.03b Watts to Photons  7m
+  - 1.04 Bohr's model of the hydrogen atom  6m
+  - 1.05 The dual nature of the electron  8m
+  - 1.06 The Heisenberg Uncertainty principle  6m
+  - 1.07 Quantum Numbers  25m
+  - 1.07a Quantum Numbers  3m
+  - 1.08 Explaining Atomic Theory  16m
+  - 1.08a Balmer Series  5m
+  - 1.09 Atomic Orbitals  15m
+  - 1.10 Orbital Diagrams  6m
+  - 1.10a QN and Orbital Diagram  1m
+  - 1.11 Electron Configuration  33m
+  - 1.11a Electron Configuration  12m
+  - Unit 1 Lecture Notes and Practice Problems10m
+  - Unit 1: The Atom and its Electronic Structure30m
+- Week 2
+  - 2.01 Navigating the Periodic Table  12m
+  - 2.02 Monoatomic ions and electron configuration  9m
+  - 2.02a Electron Configuration of Ions  7m
+  - 2.03 Effective Nuclear Charge and atomic and ionic radii  23m
+  - 2.03a Isoelectronic and Radii  4m
+  - 2.04 Ionization Energy  14m
+  - 2.04a Wavelength of light emitted from first excited state  7m
+  - 2.04b Hydrogen-like atom of flourine  7m
+  - 2.05 Electron Affinity  7m
+  - 2.06 Properties of Representative Elements  23m
+  - Unit 2 Lecture Notes and Practice Problems10m
+  - Unit 2: Periodic Trend30m
+- Week 3
+  - 3.01 Elements vs. Compounds  14m
+  - 3.02 Types of Chemical Bonds  7m
+  - 3.03 Chemical Formulas  7m
+  - 3.04 Formula of ionic compounds  12m
+  - 3.04a Formula of the compound formed from aluminum and phosphorus  1m
+  - 3.04b Formula of the compound formed from ammonium and phosphate  1m
+  - 3.05 Nomenclature  6m
+  - 3.06 Nomenclature of Ionic Compounds  10m
+  - 3.06a IUPAC Name for K2SO4  57s
+  - 3.06b IUPAC Name for NiCO3  1m
+  - 3.06c Formula for manganese(II) flouride  52s
+  - 3.06d IUPAC Name for AgNO3  1m
+  - 3.06e Formula for chromium(III) oxide  1m
+  - 3.07 Nomenclature of Molecular Compounds  8m
+  - 3.07a IUPAC Name for PCl3  1m
+  - 3.07b IUPAC Name for N2O1m
+  - 3.07c Formula for boron triflouride  40s
+  - 3.08 Nomenclature of Acids  5m
+  - 3.09 Molar Mass of Compounds  11m
+  - 3.09a Molecular Mass of Al2(Cr2O7)31m
+  - 3.09b Mass of a sample of vitamin C  2m
+  - 3.09c Moles of sucrose within a sugar cube  2m
+  - 3.10 Mass percent composition 8m
+  - 3.10a Mass percent of chromium  1m
+  - 3.10b Mass of CaCl2 containing chlorine  2m
+  - 3.11 Relationships from Chemical Formulas  11m
+  - 3.11a Mass of H in Ca(H2PO4)2  3m
+  - 3.11b Mass of NH3  2m
+  - 3.12 Chemical formulas from experimental data  9m
+  - 3.12a Empirical formula of a compound containing sulfur and oxygen  2m
+  - Unit 3 Lecture Notes and Practice Problems10m
+  - Unit 3: Compounds30m
+- Week 4
+  - 4.01 Writing Balanced Chemical Equations  12m
+  - 4.01a Balance the following equation 1  2m
+  - 4.01b Balance the following equation 2  3m
+  - 4.02 Aqueous solutions  12m
+  - 4.03 Solubility of ionic compounds  6m
+  - 4.04 Precipitation Reactions6m
+  - 4.05 Molecular, Ionic and Net ionic Equations  6m
+  - 4.05a Net ionic equation  5m
+  - 4.06 Acid-base reactions  15m
+  - 4.07 Oxidation-reduction reactions 16m
+  - 4.07a Oxidation Numbers 2m
+  - 4.07b Oxidized and Reduced species identification  2m
+  - 4.08 Combustion Reactions  5m
+  - 4.08a Balance the following equation 3  4m
+  - Unit 4 Lecture Notes and Practice Problems10m
+  - Unit 4: Reactions30m
+- Week 5
+  - 5.01 Stoichiometry of Chemical Reactions: Mole to Mole  8m
+  - 5.01a How many Moles of water are produced1m
+  - 5.01b How many Moles of CO2 are produced  1m
+  - 5.02 Stoichiometry of Chemical Reactions: Mass Relationships11m
+  - 5.02a How many grams of magnesium are required  2m
+  - 5.02b How many grams of magnesium do we need  4m
+  - 5.03 Limiting and Excess Reagents11m
+  - 5.04 Limiting and Excess Reagents: Calculations 7m
+  - 5.04a How many grams of H2S can be formed 4m
+  - 5.04b What mass of excess reactant will remain  6m
+  - 5.05 Theoretical &amp; Percent Yields  9m
+  - 5.05a Methyl Salicylate is prepared5m
+  - 5.05b A student needs 625 g of zinc sulfide5m
+  - 5.06 Solution Concentration  15m
+  - 5.06a Find the mass percentage for a solution prepared  1m
+  - 5.06b Find the volume percentage for a solution prepared  1m
+  - 5.06c Find the mass/volume percentage for a solution prepared  2m
+  - 5.06d What is the molarity of a solution made 2m
+  - 5.06e How many grams of LiCl do we need  2m
+  - 5.07 Dilution of Solutions7m
+  - 5.07a What is the concentration of the solution  1m
+  - 5.08 Solution Stoichiometry 9m
+  - 5.08a What volume of HBr is required 5m
+  - Unit 5 Lecture Notes and Practice Problems10m
+  - Unit 5: Stoichiometry30m
+- Week 6
+  - 6.01 Lewis symbols 4m
+  - 6.02 Covalent bonds  5m
+  - 6.03 Electronegativity  11m
+  - 6.04 Lewis Structures Part 1  13m
+  - 6.04 Lewis Structures Part 2  18m
+  - 6.04a Draw the Lewis structure for H2O  1m
+  - 6.04b Draw the Lewis structure for H2CO  2m
+  - 6.04c Draw the Lewis structure for CCL4  1m
+  - 6.04d Draw the Lewis structure for NH3  1m
+  - 6.05 Resonance &amp; Formal Charge  16m
+  - 6.05a Determine the formal charg on atoms in NH4+  2m
+  - 6.05b Determine the formal charge on atoms in H2CO  3m
+  - 6.06 Exceptions to the Octet Rule 8m
+  - 6.06a Draw the Lewis structure for I3-  1m
+  - 6.06b Draw the Lewis structure for ClF4  1m
+  - 6.06c Draw the Lewis structure for XeF4  1m
+  - 6.07 VSEPR Part 1  11m
+  - 6.07 VSEPR Part 217m
+  - 6.07a Determine the electron pair and molecular geometries for I3-  1m
+  - 6.07b Determine the electron pair and molecular geometries for NH3  1m
+  - 6.07c Determine the electron pair and molecular geometries for ICl4-  1m
+  - 6.07d Determine the electron pair and molecular geometries for PF5  1m
+  - 6.07e Determine the electron pair and molecular geometries for XeF2  2m
+  - Unit 6 Lecture Notes and Practice Problems10m
+  - Unit 6: Covalent Bonding30m
+- Week 7
+  - 7.01 Thermochemistry: Foundational Definitions  13m
+  - 7.02 Introduction to Thermodynamics  19m
+  - 7.02a Work2m
+  - 7.03 Enthalpy  12m
+  - 7.04 Thermochemical Equations  19m
+  - 7.04a Heat Produced from Na 2m
+  - 7.04b Delta H for aluminum and chlorine 3m
+  - 7.05 Enthalpy Change and the First Law of Thermodynamics  12m
+  - 7.05a Delta E for acetylene  5m
+  - 7.06 Calorimetry  25m
+  - 7.06a Rocket Fuel  5m
+  - 7.06b Delta H for CaO  5m
+  - 7.07 Calculating Enthalpy Change 41m
+  - 7.07a Heat capacity of bomb  11m
+  - 7.07b Strontium carbonate4m
+  - Unit 7 Lecture Notes and Practice Problems10m
+  - Unit 7: Thermochemistry30m
+  - Final Assessment30m
