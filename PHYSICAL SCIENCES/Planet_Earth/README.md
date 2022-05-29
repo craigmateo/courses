@@ -1,10 +1,142 @@
 # Planet Earth...and You!
 
-**University of Illinois at Urbana-Champaign**
-
 https://www.coursera.org/learn/planet-earth
 
+**University of Illinois at Urbana-Champaign**
+
+### About
+
+Earthquakes, volcanoes, mountain building, ice ages, landslides, floods, life evolution, plate motions—all of these phenomena have interacted over the vast expanses of deep time to sculpt the dynamic planet that we live on today.  Planet Earth presents an overview of several aspects of our home, from a geological perspective.  We begin with earthquakes—what they are, what causes them, what effects they have, and what we can do about them. We will emphasize that plate tectonics—the grand unifying theory of geology—explains how the map of our planet's surface has changed radically over geologic time, and why present-day geologic activity—including a variety of devastating natural disasters such as earthquakes—occur where they do.  We consider volcanoes, types of eruptions, and typical rocks found there. Finally, we will delve into the processes that produce the energy and mineral resources that modern society depends on, to help understand the context of the environment and sustainability challenges that we will face in the future.
+
+### Syllabus
+
+- Orientation
+  - Welcome to Planet Earth...and You!10m
+  - Syllabus15m
+  - Google Earth Instructions30m
+  - Updating Your Profile10m
+  - Social Media5m
+  - About the Discussion Forums15m
+  - How Graded Discussions Work10m
+  - Discussion Rubric10m
+  - Orientation Quiz15m
 - Week 1: Earthquakes!
+  - 1.A.1 Introduction to Earthquakes4m
+  - 1.A.2 Generation of Earthquake Vibrations5m
+  - 1.A.3 Introduction to Faults4m
+  - 1.A.4 Types of Faults5m
+  - 1.A.5 Earthquake Waves6m
+  - 1.B.1 The Intensity and Magnitude of Earthquakes6m
+  - 1.B.2 Seismometers4m
+  - 1.B.3 Interpreting Seismograms and Earthquake Magnitude4m
+  - 1.B.4 Comparing Earthquakes5m
+  - 1.C.1 Damage Due to Ground Shaking5m
+  - 1.C.2 Other Consequences of Earthquakes7m
+  - 1.C.3 Tsunamis8m
+  - 1.D.1 The First Step in Predicting Earthquakes: Recognizing Where They Occur6m
+  - 1.D.2 Earthquake Recurrence Interval7m
+  - 1.D.3 Interpreting The Recurrence Interval4m
+  - 1.D.4 Efforts to Prevent Earthquake Devastation5m
+  - 1.D.5 Mitigating Earthquake Damage7m
+  - Week 1 Lab: Triangulation Lab 13m
+  - Week 1 Overview10m
+  - Week 1 Quiz1h
+  - Week 1 Assignment1h
+  - Week 1 Lab1h 30m
 - Week 2: Plate Tectonics
+  - 2.A.1 Ideas before Plate Tectonics5m
+  - 2.A.2 Alfred Wegener &amp; Continental Drift5m
+  - 2.A.3 Evidence for Continental Drift6m
+  - 2.A.4 New Discoveries Leading to Plate Tectonics: Seafloor Bathymetry10m
+  - 2.A.5 New Discoveries Leading to Plate Tectonics: Apparent Polar-Wander Paths7m
+  - 2.A.6 New Discoveries Leading to Plate Tectonics: Evidence for Seafloor Spreading11m
+  - 2.B.1 Discovering Plate Tectonics4m
+  - 2.B.2 Earth's Internal Layers and the Concept of a Plate7m
+  - 2.B.3 Three Types of Plate Boundaries: Divergent Plate Boundary6m
+  - 2.B.4 Three Types of Plate Boundaries: Convergent Plate Boundary6m
+  - 2.B.5 Three Types of Plate Boundaries: Transform Plate Boundary5m
+  - 2.B.6 Continental Rifts and Continental Collisions5m
+  - 2.B.7 Intraplate Earthquakes6m
+  - 2.B.8 The Velocity of Plate Motion7m
+  - 2.B.9 Plate Driving Mechanisms7m
+  - Week 2 Lab: Plate Tectonics! Lab Part 111m
+  - Week 2 Lab: Plate Tectonics! Lab Part 214m
+  - Week 2 Overview10m
+  - Week 2 Quiz1h
+  - Week 2 Assignment1h
+  - Week 2 Lab1h
 - Week 3: Volcanoes!
+  - 3.A.1 Introducing Volcanoes and the Concept of Molten Rock5m
+  - 3.A.2 Where Does Molten Rock Come From?5m
+  - 3.A.3 How Does Rock Melt?6m
+  - 3.A.4 Forming Molten Rock; a Magma Composition5m
+  - 3.A.5 Volcanoes Associated with Subduction5m
+  - 3.A.6 Melting at Rifts and Mid-Ocean Ridges6m
+  - 3.A.7 Melting at Hot Spots7m
+  - 3.B.1 Introduction to Igneous Rocks6m
+  - 3.B.2 What Are Igneous Rocks Composed Of?5m
+  - 3.B.3 When Molten Rock Solidifies7m
+  - 3.C.1 Types of Volcanic Eruptions6m
+  - 3.C.2 Magma and Lava with Gas6m
+  - 3.C.3 Eruption Materials6m
+  - 3.C.4 Pyroclastic Debris4m
+  - 3.C.5 Three Different Volcano Shapes5m
+  - 3.C.6 Eruption Styles and Case Studies4m
+  - 3.C.7 Case Studies of Volcanic Explosions: Pompeii, Present-Day Italy9m
+  - 3.C.8 Super Volcanoes in the Geologic Record7m
+  - 3.D.1 Volcanic Hazards, Part 15m
+  - 3.D.2 Volcanic Hazards, Part 28m
+  - 3.E.1 Predicting Volcanic Eruptions7m
+  - 3.E.2 Dealing with Volcanic Hazards6m
+  - Week 3 Lab: Volcanoes! Lab Introduction 8m
+  - Week 3 Overview10m
+  - Week 3 Quiz1h
+  - Week 3 Assignment1h
+  - Week 3 Lab1h 30m
 - Week 4: Rocks and Mineral Resources
+  - 4.A.1 Basic Classes of Earth Materials6m
+  - 4.A.2 Origin of Earth Materials5m
+  - 4.A.3 Defining Minerals7m
+  - 4.A.4 Clues for Identifying Minerals8m
+  - 4.B.1 Introducing Classes of Rocks5m
+  - 4.B.2 The Nature of Igneous Rocks9m
+  - 4.B.3 Different Types of Sedimentary Rocks4m
+  - 4.B.4 Formation of Clastic Sedimentary Rocks6m
+  - 4.B.5 Primary Sedimentary Structures and Sedimentary Basins6m
+  - 4.B.6 Carbonate Sedimentary Rocks6m
+  - 4.C.1 How Rocks Can Change11m
+  - 4.C.2 Metamorphic Rocks Part 18m
+  - 4.C.3 Metamorphic Rocks Part 27m
+  - 4.C.4 The Rock Cycle3m
+  - 4.D.1 The Practical Uses of Rocks8m
+  - 4.D.2 The Nature of Metal Ore Deposits9m
+  - 4.D.3 Global Steel Usage5m
+  - 4.E.1 Non-Metallic Minerals – Concrete and Crushed Rock10m
+  - 4.E.2 Other Non-Metallic Resources – Brick, Gypsum, Dimension Stone9m
+  - Week 4 Overview10m
+  - Week 4 Quiz1h
+  - Week 4 Assignment1h
+  - Week 4 Lab1h 30m
+- Week 5: Energy Resources
+  - 5.A.1. Energy Resources from the Earth8m
+  - 5.A.2. Human Use of Energy Over Time8m
+  - 5.B.1. Sources of Energy: Coal Part 16m
+  - 5.B.2. Sources of Energy: Coal Part 26m
+  - 5.B.3. Sources of Energy: Coal Part 35m
+  - 5.B.4. Problems Associated with Coal Mining5m
+  - 5.B.5. Problems Associated with Coal Use4m
+  - 5.C.1. Formation of Hydrocarbons: Oil and Gas7m
+  - 5.C.2. Conventional vs. Non-Conventional Hydrocarbons: Conventional Reserves9m
+  - 5.C.3. Exploring and Drilling for Oil9m
+  - 5.C.4. Transporting and Refining Oil4m
+  - 5.C.5. Where Does Oil Occur, and Why?6m
+  - 5.D.1. Non-Conventional Hydrocarbons: Tar Sands and Oil Shale5m
+  - 5.D.2. Natural Gas6m
+  - 5.D.3. Obtaining Shale Gas: Hydrofracturing7m
+  - 5.D.4. Challenges Associated with Obtaining Shale Gas11m
+  - 5.E.1. Some Hazards of Oil Production6m
+  - 5.E.2. Alternative Energy Resources8m
+  - Week 5 Overview10m
+  - Week 5 Quiz1h
+  - Week 5 Assignment1h
+  - Week 5 Lab1h 30m
