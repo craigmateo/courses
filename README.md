@@ -103,7 +103,7 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 :earth_americas: :compass: :mountain_snow:
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
-| Remote_Sensing_Images | Remote Sensing Image Acquisition, Analysis and Applications | [Coursera](https://www.coursera.org/learn/remote-sensing) | `Remote Sensing` | :warning: |
+| `PHYSICAL SCIENCES/Remote_Sensing_Images` | Remote Sensing Image Acquisition, Analysis and Applications | [Coursera](https://www.coursera.org/learn/remote-sensing) | `Remote Sensing` | :warning: |
 | - | Planet Earth...and You | [Coursera](https://www.coursera.org/learn/planet-earth) | `Geology` | audit |
 
 <!--
