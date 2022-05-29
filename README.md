@@ -36,30 +36,30 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
-| CSS3 | Introduction to CSS3 | [Coursera](https://www.coursera.org/learn/introcss) | `CSS`, `Web Design` | [certificate](https://coursera.org/share/b3e57d670043311ecf659b40941daf0a) |
-| Full_Stack_Dev | Full Stack Development with React | [Coursera](https://www.coursera.org/specializations/full-stack-react) | `Bootstrap`, `Node.js`, `jQuery`, `SASS`, `Express.js` | :warning: |
+| `PROGRAMMING/WEB_DEVELOPMENT/CSS3/` | Introduction to CSS3 | [Coursera](https://www.coursera.org/learn/introcss) | `CSS`, `Web Design` | [certificate](https://coursera.org/share/b3e57d670043311ecf659b40941daf0a) |
+| `PROGRAMMING/WEB_DEVELOPMENT/Full_Stack_Dev` | Full Stack Development with React | [Coursera](https://www.coursera.org/specializations/full-stack-react) | `Bootstrap`, `Node.js`, `jQuery`, `SASS`, `Express.js` | :warning: |
 
 #### OSSU Comp. Sci. 
 *[curriculum](https://github.com/ossu/computer-science)*
 
 | **Folder** | **Title** | **Source** | **Skills / Tools**  | **Certificate** |
 |---|---|---|---|---|
-| how-to-code-simple-data | How to Code: Simple Data | [edX](https://www.edx.org/course/how-to-code-simple-data) | `Algorithms` | :warning: |
-| python-for-everybody | Python for Everybody | [py4e](https://www.py4e.com/lessons) | `Python` | N/A |
+| `PROGRAMMING/OSSU/how-to-code-simple-data` | How to Code: Simple Data | [edX](https://www.edx.org/course/how-to-code-simple-data) | `Algorithms` | :warning: |
+| `PROGRAMMING/OSSU/python-for-everybody` | Python for Everybody | [py4e](https://www.py4e.com/lessons) | `Python` | N/A |
 
 #### Guided Projects 
 :hammer: :gear:
 
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
-| keplerGL | Interactive Geospatial Visualization:Kepler GL & Jupyter Lab | [Coursera](https://www.coursera.org/projects/geospatial-keplergl-jupyter) | `KeplerGL`, `GIS` | [certificate](https://coursera.org/share/7dc60ed9659e9ac1572a88716d5c981b) |
-| kMeans101 | K-Means Clustering 101: World Happiness Report | [Coursera](https://www.coursera.org/projects/clustering-world-happiness-reports) | `Python`, `Machine Learning` | [certificate](https://coursera.org/share/2d9d6f4c5b46ce52a13203e9c0aaa25b) |
-| netLogo | Mycelium Growth with NetLogo Web | [Coursera](https://www.coursera.org/projects/mycelium) | `NetLogo`, `Simulation` | [certificate](https://coursera.org/share/47cbfd603bbfaf061e3a5c92a0a6f89f) |
-| climate-xarray | Climate Geospatial Analysis on Python with Xarray | [Coursera](https://www.coursera.org/projects/xarray) | `Python Xarray` | [certificate](https://coursera.org/share/0f623b6b0f20f1033ea1cbf78a92403c) |
-| vueJS_app | Write a University Index Web App with VueJS | [Coursera](https://www.coursera.org/projects/university-index-vuejs) | `vuejs` | [certificate](https://coursera.org/share/849b516f043ab06555dbada71ac03669) |
+| `PROGRAMMING/GUIDED_PROJECTS/keplerGL` | Interactive Geospatial Visualization:Kepler GL & Jupyter Lab | [Coursera](https://www.coursera.org/projects/geospatial-keplergl-jupyter) | `KeplerGL`, `GIS` | [certificate](https://coursera.org/share/7dc60ed9659e9ac1572a88716d5c981b) |
+| `PROGRAMMING/GUIDED_PROJECTS/kMeans101` | K-Means Clustering 101: World Happiness Report | [Coursera](https://www.coursera.org/projects/clustering-world-happiness-reports) | `Python`, `Machine Learning` | [certificate](https://coursera.org/share/2d9d6f4c5b46ce52a13203e9c0aaa25b) |
+| `PROGRAMMING/GUIDED_PROJECTS/netLogo` | Mycelium Growth with NetLogo Web | [Coursera](https://www.coursera.org/projects/mycelium) | `NetLogo`, `Simulation` | [certificate](https://coursera.org/share/47cbfd603bbfaf061e3a5c92a0a6f89f) |
+| `PROGRAMMING/GUIDED_PROJECTS/climate-xarray` | Climate Geospatial Analysis on Python with Xarray | [Coursera](https://www.coursera.org/projects/xarray) | `Python Xarray` | [certificate](https://coursera.org/share/0f623b6b0f20f1033ea1cbf78a92403c) |
+| `PROGRAMMING/GUIDED_PROJECTS/vueJS_app` | Write a University Index Web App with VueJS | [Coursera](https://www.coursera.org/projects/university-index-vuejs) | `vuejs` | [certificate](https://coursera.org/share/849b516f043ab06555dbada71ac03669) |
 | - | Getting Started with Spatial Analysis in GeoDa | [Coursera](https://www.coursera.org/projects/getting-started-spatial-analysis-geoda) | `Spatial Analysis` `GeoDa` | [certificate](https://coursera.org/share/bc9a14401c707246da2018986dba45ba) |
 | - | Analysing Covid-19 Geospatial data with Python | [Coursera](https://www.coursera.org/projects/geospatial-covid19-python) | `Geopandas` `Geospatial` | [certificate](https://coursera.org/share/73d5822930c2821c1ea0892b54bc3477) |
-| geolocation-taxis-folium | Clustering Geolocation Data Intelligently in Python | [Coursera](https://www.coursera.org/projects/clustering-geolocation-data-intelligently-python) | `visualization` `Machine Learning` `clustering` `Data Analysis` `map building` | [certificate](https://coursera.org/share/034f0df2a9d5ac8e88a1c828d0a1b9ce) |
+| `PROGRAMMING/GUIDED_PROJECTS/geolocation-taxis-folium` | Clustering Geolocation Data Intelligently in Python | [Coursera](https://www.coursera.org/projects/clustering-geolocation-data-intelligently-python) | `visualization` `Machine Learning` `clustering` `Data Analysis` `map building` | [certificate](https://coursera.org/share/034f0df2a9d5ac8e88a1c828d0a1b9ce) |
 | - | Crime Zone Heatmaps with Python and Folium | [Coursera](https://www.coursera.org/projects/crime-zone-heatmaps-python-folium) | `Pandas` `Folium` | [certificate](https://coursera.org/share/e91e4a694f3cc2a8f7b4d21961ff6f6c) |
 | - | Introduction to C++ Programming: Build a Calculator | [Coursera](https://www.coursera.org/projects/introduction-to-cpp-programming-build-a-calculator) | `C++ Basics` | [certificate](https://coursera.org/share/1def281df55bda6d73843dd760ca9533) |
 | - | Build a film club web app on Google AppEngine | [Coursera](https://www.coursera.org/projects/introduction-to-cpp-programming-build-a-calculator) | `Google App Engine (GAE)` `Flask` | [certificate](https://coursera.org/share/7627dacacd7926b851fc273d4ae4393b) |
@@ -74,8 +74,8 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
-| Fibonacci_Numbers | Fibonacci Numbers and the Golden Ratio | [Coursera](https://www.coursera.org/learn/fibonacci) | `Mathematics`, `Proofs` | [certificate](https://coursera.org/share/a224649746a076d604afad9372acf9ab) |
-| Mathematical_Thinking | An Introduction to Mathematical Thinking | [Coursera](https://www.coursera.org/learn/mathematical-thinking) | `Number Theory`, `Real Analysis`, `Logic` | audit |
+| `MATHEMATICS/Fibonacci_Numbers` | Fibonacci Numbers and the Golden Ratio | [Coursera](https://www.coursera.org/learn/fibonacci) | `Mathematics`, `Proofs` | [certificate](https://coursera.org/share/a224649746a076d604afad9372acf9ab) |
+| `MATHEMATICS/Mathematical_Thinking` | An Introduction to Mathematical Thinking | [Coursera](https://www.coursera.org/learn/mathematical-thinking) | `Number Theory`, `Real Analysis`, `Logic` | audit |
 
 ***
 
@@ -182,10 +182,10 @@ TU Kaiserslautern
 
 | **Folder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
-| Phil_Cognitive_Sciences_Intro | Introduction to the Philosophy of Cognitive Sciences | [Coursera](https://www.coursera.org/learn/philosophy-cognitive-sciences) | `Cognitive Sciences` | [certificate](https://coursera.org/share/9e8ce06e0d70ab9541fad5e45dbf434b) |
-| Philosophy_of_Science | Philosophy of Science | [Coursera](https://www.coursera.org/learn/philosophy-of-science) | `Critical Thinking` | - |
-| Phil_of_Physical_Sciences | Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences | [Coursera](https://www.coursera.org/learn/philosophy-physical-sciences) | `Critical Thinking` `Conceptual Thinking` | [certificate](https://coursera.org/share/3b1a1ef06c23755e584d1bc9c1bf66c7) |
-| Thought_Experiments | Thought Experiments | [Coursera](https://www.coursera.org/learn/thought-experiments) | `Critical Thinking`, `Argumentation` | - |
+| `HUMANITIES/Phil_Cognitive_Sciences_Intro` | Introduction to the Philosophy of Cognitive Sciences | [Coursera](https://www.coursera.org/learn/philosophy-cognitive-sciences) | `Cognitive Sciences` | [certificate](https://coursera.org/share/9e8ce06e0d70ab9541fad5e45dbf434b) |
+| `HUMANITIES/Philosophy_of_Science` | Philosophy of Science | [Coursera](https://www.coursera.org/learn/philosophy-of-science) | `Critical Thinking` | - |
+| `HUMANITIES/Phil_of_Physical_Sciences` | Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences | [Coursera](https://www.coursera.org/learn/philosophy-physical-sciences) | `Critical Thinking` `Conceptual Thinking` | [certificate](https://coursera.org/share/3b1a1ef06c23755e584d1bc9c1bf66c7) |
+| `HUMANITIES/Thought_Experiment`s | Thought Experiments | [Coursera](https://www.coursera.org/learn/thought-experiments) | `Critical Thinking`, `Argumentation` | - |
 
 #### Language & Linguistics 
 :speech_balloon: ✍️
@@ -194,7 +194,7 @@ TU Kaiserslautern
 |---|---|---|---|---|
 | - | Chinese Characters for beginner 汉字  | [Coursera](https://www.coursera.org/learn/hanzi) | `Mandarin` | [certificate](https://coursera.org/share/3d49d98278ab22884bb5910120272c76) |
 | - | Étudier en France: French Intermediate course B1-B2 | [Coursera](https://www.coursera.org/learn/etudier-en-france) | `French` | audit |
-| Communication_Science | Introduction to Communication Science  | [Coursera](https://www.coursera.org/learn/communication) | `Human Communication` | [certificate](https://coursera.org/share/9d3a96f127b025ccf516095adb437d87) |
+| `HUMANITIES/Communication_Science` | Introduction to Communication Science  | [Coursera](https://www.coursera.org/learn/communication) | `Human Communication` | [certificate](https://coursera.org/share/9d3a96f127b025ccf516095adb437d87) |
 | - | Corpus Linguistics: Method, Analysis, Interpretation | [FutureLearn](https://www.futurelearn.com/courses/corpus-linguistics) | `Corpus Linguistics` | audit |
 | - | Miracles of Human Language: An Introduction to Linguistics | [Coursera](https://www.coursera.org/learn/human-language) | `Linguistics` | audit |
 
