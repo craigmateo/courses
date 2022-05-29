@@ -176,10 +176,14 @@ TU Kaiserslautern
 ***
 
 ## Humanities
+Folder: `HUMANITIES`
 
 #### Philosophy 
+
+Folder: `HUMANITIES/PHILOSOPHY`
+
 :book: :brain:
-Folder: `HUMANITIES`
+
 | **Subfolder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | `Phil_Cognitive_Sciences_Intro` | Introduction to the Philosophy of Cognitive Sciences | [Coursera](https://www.coursera.org/learn/philosophy-cognitive-sciences) | `Cognitive Sciences` | [certificate](https://coursera.org/share/9e8ce06e0d70ab9541fad5e45dbf434b) |
@@ -188,6 +192,9 @@ Folder: `HUMANITIES`
 | `Thought_Experiments` | Thought Experiments | [Coursera](https://www.coursera.org/learn/thought-experiments) | `Critical Thinking`, `Argumentation` | - |
 
 #### Language & Linguistics 
+
+Folder: `HUMANITIES/COMMUNICATION`
+
 :speech_balloon: ✍️
 
 | **Subfolder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
@@ -201,11 +208,11 @@ Folder: `HUMANITIES`
 ***
 
 ## Arts and Design
-
+Folder: `ART_DESIGN`
 #### 
 🎼 🎨 
 
 | **Subfolder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
-| - | Guitar for Beginners  | [Coursera](https://coursera.org/share/c83198bd639bda37fa8962439056c959) | `Tablature` `Music notation` `Guitar scales` `Guitar chords` `Guitar` | [certificate](https://coursera.org/share/c83198bd639bda37fa8962439056c959) |
+| `Guitar_Beginner` | Guitar for Beginners  | [Coursera](https://coursera.org/share/c83198bd639bda37fa8962439056c959) | `Tablature` `Music notation` `Guitar scales` `Guitar chords` `Guitar` | [certificate](https://coursera.org/share/c83198bd639bda37fa8962439056c959) |
 | - | Drawing Nature, Science and Culture: Natural History Illustration 101  | [edX](https://www.edx.org/course/drawing-nature-science-and-culture-natural-history) | `Drawing` `Illustration` | audit |
