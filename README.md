@@ -29,7 +29,7 @@ Folder: `PROGRAMMING`
 
 | **Subfolder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
-| - | Introduction to Applied Machine Learning | [Coursera](https://www.coursera.org/learn/machine-learning-applied) | `Machine Learning` | [certificate](https://coursera.org/share/a1047e69d7d1c1ee3f2c5d175ef0526e) |
+| `Intro_Applied_ML` | Introduction to Applied Machine Learning | [Coursera](https://www.coursera.org/learn/machine-learning-applied) | `Machine Learning` | [certificate](https://coursera.org/share/a1047e69d7d1c1ee3f2c5d175ef0526e) |
 
 #### Web Development 
 :globe_with_meridians: :iphone:
