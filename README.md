@@ -153,7 +153,7 @@ TU Kaiserslautern
 ***
 
 ## Social Sciences
-
+Folder: `SOCIAL SCIENCES`
 #### Management
 :chart: :euro:
 
@@ -171,7 +171,7 @@ TU Kaiserslautern
 
 | **Subfolder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
-| - | Animal Behaviour and Welfare  | [Coursera](https://www.coursera.org/learn/animal-welfare) | `Animal` `Animal Behavior` `Veterinary` `Dog` | [certificate](https://coursera.org/share/b149daffa6a1cef44649daebb2fa9d23) |
+| `Animal_Welfare` | Animal Behaviour and Welfare  | [Coursera](https://www.coursera.org/learn/animal-welfare) | `Animal` `Animal Behavior` `Veterinary` `Dog` | [certificate](https://coursera.org/share/b149daffa6a1cef44649daebb2fa9d23) |
 
 ***
 
