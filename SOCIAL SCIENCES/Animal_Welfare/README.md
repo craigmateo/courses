@@ -5,7 +5,6 @@ https://www.coursera.org/learn/animal-welfare
 **The University of Edinburgh**
 
 ### About
-
 Animal welfare has been described as a complex, multi-faceted public policy issue which includes important scientific, ethical, and other dimensions. Improving our understanding of  animal welfare, involves the fascinating study of animal behavior as well as the challenge of accessing the emotions of animals. This is the On-Demand version of this course, which means you can start the course at any time and work through the course materials at your own pace. The materials and quizzes will always be available to you. 
 
 ### Syllabus
