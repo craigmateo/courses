@@ -40,7 +40,7 @@ static document for donor outreach.
 Storyboard for Epic 1
 **Storyboard (next page)**
 
-[Storyboard](storyboard.jpg)
+[Storyboard](https://github.com/craigmateo/courses/blob/master/SOCIAL%20SCIENCES/Agile_Design_Thinking/storyboard.jpg)
 
 ### Child Stories for Epic 1
 
