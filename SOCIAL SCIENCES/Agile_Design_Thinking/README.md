@@ -8,7 +8,9 @@ https://www.coursera.org/learn/uva-darden-getting-started-agile
 
 ### About
 
-Despite everyone's good intentions, hard work and solid ideas, too many teams end up creating products that no one wants, no one can use, and no one buys. But it doesn't have to be this way. Agile and design thinking offer a different--and effective--approach to product development, one that results in valuable solutions to meaningful problems. In this course, you’ll learn how to determine what's valuable to a user early in the process--to frontload value--by focusing your team on testable narratives about the user and creating a strong shared perspective. This course is supported by the Batten Institute at UVA’s Darden School of Business. The Batten Institute’s mission is to improve the world through entrepreneurship and innovation: www.batteninstitute.org.SHOW ALL COURSE OUTLINESHOW ALL
+Despite everyone's good intentions, hard work and solid ideas, too many teams end up creating products that no one wants, no one can use, and no one buys. But it doesn't have to be this way. Agile and design thinking offer a different--and effective--approach to product development, one that results in valuable solutions to meaningful problems. In this course, you’ll learn how to determine what's valuable to a user early in the process--to frontload value--by focusing your team on testable narratives about the user and creating a strong shared perspective. 
+
+This course is supported by the Batten Institute at UVA’s Darden School of Business. The Batten Institute’s mission is to improve the world through entrepreneurship and innovation: www.batteninstitute.org.
 
 ### Syllabus
 
