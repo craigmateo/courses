@@ -4,7 +4,7 @@ https://www.coursera.org/learn/thought-experiments
 
 **Erasmus University Rotterdam**
 
-![](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/e6/7b068bf4fe487a81fce3b60ada9d9a/logoklein.png?auto=format%2Ccompress&dpr=1&h=70)
+![](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/66/192d48b0dc41af99b1d0059bcc6df5/Logo-Thought-Experiments_3.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25)
 
 ### About
 

@@ -1,8 +1,10 @@
 # Animal Behaviour and Welfare
 
+**The University of Edinburgh**
+
 https://www.coursera.org/learn/animal-welfare
 
-**The University of Edinburgh**
+![](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/e0/b9a9af76525b66801e0e89826b8414/ABW-Dog.jpg.jpeg?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25)
 
 ### About
 Animal welfare has been described as a complex, multi-faceted public policy issue which includes important scientific, ethical, and other dimensions. Improving our understanding of  animal welfare, involves the fascinating study of animal behavior as well as the challenge of accessing the emotions of animals. This is the On-Demand version of this course, which means you can start the course at any time and work through the course materials at your own pace. The materials and quizzes will always be available to you. 

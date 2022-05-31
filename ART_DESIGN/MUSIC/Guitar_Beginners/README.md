@@ -4,6 +4,8 @@ https://www.coursera.org/learn/guitar
 
 **Berklee College of Music**
 
+![](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/cf/7fb650f76111e5ac3c516fd03a9de3/woman-playing-guitar_25103178309_o.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25)
+
 ### About 
 Grasp the essentials needed to begin playing acoustic or electric guitar. You'll learn an easy approach to get you playing quickly, through a combination of exploring the instrument, performance technique, and basic music theory.For students who have long thought about picking up the acoustic or electric guitar, this course will provide an easy-access foundation that will get you playing. When first learning guitar, it is important to have the material presented in stages, in an enjoyable way that allows you to grasp the basics of the instrument and music. The course begins simply with the parts of the guitar, the names of the strings, tuning, and technique—whether finger-style or pick. It then explores the basics of music theory with such topics as scales, triads, power chords, and fingering and shapes.
 

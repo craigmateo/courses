@@ -159,8 +159,8 @@ Folder: `SOCIAL SCIENCES`
 
 | **Subfolder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
-| - | Agile Meets Design Thinking  | [Coursera](https://www.coursera.org/learn/uva-darden-getting-started-agile) | `Agile Software Development`, `agile user stories`, `Product Management` | [certificate](https://coursera.org/share/fbbe23f3360b1c8278a21165a7dd73ef) |
-| - | Continuous Delivery & DevOps  | [Coursera](https://www.coursera.org/learn/introduction-digital-manufacturing-fusion-360) | `Devops`, `Continuous Delivery`  | [certificate](https://coursera.org/share/6d73c898a5089fc9751cf82e7c5442df) |
+| `Agile_Design_Thinking` | Agile Meets Design Thinking  | [Coursera](https://www.coursera.org/learn/uva-darden-getting-started-agile) | `Agile Software Development`, `agile user stories`, `Product Management` | [certificate](https://coursera.org/share/fbbe23f3360b1c8278a21165a7dd73ef) |
+| `Continuous_Delivery_DevOps` | Continuous Delivery & DevOps  | [Coursera](https://www.coursera.org/learn/introduction-digital-manufacturing-fusion-360) | `Devops`, `Continuous Delivery`  | [certificate](https://coursera.org/share/6d73c898a5089fc9751cf82e7c5442df) |
 | - | Project Management Principles and Practices (Specialization) :star:  | [Coursera](https://www.coursera.org/specializations/project-management) | `Project Management`, `Project Management`  | [certificate](https://coursera.org/share/22bc0b65574ed786d05b2051a4b070e9) |
 | - | The Power of Team Culture  | [Coursera](https://www.coursera.org/learn/team-culture) | `Organizational Culture`, `Leadership`  | [certificate](https://coursera.org/share/864ab36079cda1b2c00e3819f2d2b3d0) |
 

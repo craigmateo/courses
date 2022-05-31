@@ -1,8 +1,10 @@
 # Planet Earth...and You!
 
+**University of Illinois at Urbana-Champaign**
+
 https://www.coursera.org/learn/planet-earth
 
-**University of Illinois at Urbana-Champaign**
+![](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera/topics/earth/large-icon.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25)
 
 ### About
 

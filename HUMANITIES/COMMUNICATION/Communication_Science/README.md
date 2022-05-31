@@ -4,6 +4,19 @@
 
 from: https://www.coursera.org/learn/communication?#syllabus
 
+![](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/spark-public/flex-commscience/Laswell2.png?auto=format%2Ccompress&dpr=1&w=330&h=330&q=25&fit=fill)
+
+## About 
+
+Since Antiquity, scholars have appreciated the importance of communication: as social beings, we cannot exist without communication. We need to interact with people around us, to make sense of the world and to position ourselves in a wider social and cultural reality. In this course, we look at how and why communication evolved as a science and reflect on today’s dominant paradigms. The course also extends beyond the boundaries of communication science itself, exploring dimensions of history, sociology and psychology. Join our class, together with people all over the world.Introduction to Communication Science explores some of the basic theories, models and concepts from the fields of mass, interpersonal and intrapersonal communication. The course begins with a consideration of several basic models, subsequently progressing to the history of communication theory, linear effect-oriented theories, the reception approach and, finally, exploring theories on the production and reinforcement of culture through communication. 
+
+Upon completion of this course, students should:
+- have knowledge of the history and development of communication science;
+- have knowledge of the dominant theoretical approaches within communication science; 
+- have knowledge and understanding of the most important models and concepts in this field. 
+
+## Syllabus
+
 - The Beginnings of Communication Science
 
     - Introduction

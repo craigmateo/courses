@@ -1,6 +1,12 @@
 # Remote Sensing Image Acquisition, Analysis and Applications
 
+**UNSW Sydney**
+
+**IEEE Geoscience and Remote Sensing Society**
+
 https://www.coursera.org/learn/remote-sensing
+
+![](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/11/3606fbabc242f9b465161723a81610/Logo.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25)
 
 ### About
 
