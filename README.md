@@ -193,7 +193,7 @@ Folder: `HUMANITIES/PHILOSOPHY`
 | `Philosophy_of_Science` | [Philosophy of Science](https://www.coursera.org/learn/philosophy-of-science) | `Critical Thinking` | [certificate](https://coursera.org/share/a51078a7c8138b0b72944ac9635ffc57) |
 | `Phil_of_Physical_Sciences` | [Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences](https://www.coursera.org/learn/philosophy-physical-sciences) | `Critical Thinking` `Conceptual Thinking` | [certificate](https://coursera.org/share/3b1a1ef06c23755e584d1bc9c1bf66c7) |
 | `Thought_Experiments` | [Thought Experiments](https://www.coursera.org/learn/thought-experiments) | `Critical Thinking`, `Argumentation` | - |
-| `Mind_and_Machine` | [What is “the mind” and what is artificial intelligence?] | `Philosophy of Mind` `AI`| [certificate](https://coursera.org/share/902196c572fbb3dddc612ffcf8ea034b) |
+| `Mind_and_Machine` | [What is “the mind” and what is artificial intelligence?](https://www.coursera.org/learn/mind-machine-artificial-intelligence?) | `Philosophy of Mind` `AI`| [certificate](https://coursera.org/share/902196c572fbb3dddc612ffcf8ea034b) |
 
 #### Language & Linguistics 
 
