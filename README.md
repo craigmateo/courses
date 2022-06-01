@@ -48,18 +48,21 @@ Folder: `PROGRAMMING`
 | `OSSU/python-for-everybody` | Python for Everybody | [py4e](https://www.py4e.com/lessons) | `Python` | N/A |
 
 #### Guided Projects 
+
+Folder: `GUIDED_PROJECTS`
+
 :hammer: :gear:
 
 | **Subfolder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
-| `GUIDED_PROJECTS/keplerGL` | Interactive Geospatial Visualization:Kepler GL & Jupyter Lab | [Coursera](https://www.coursera.org/projects/geospatial-keplergl-jupyter) | `KeplerGL`, `GIS` | [certificate](https://coursera.org/share/7dc60ed9659e9ac1572a88716d5c981b) |
-| `GUIDED_PROJECTS/kMeans101` | K-Means Clustering 101: World Happiness Report | [Coursera](https://www.coursera.org/projects/clustering-world-happiness-reports) | `Python`, `Machine Learning` | [certificate](https://coursera.org/share/2d9d6f4c5b46ce52a13203e9c0aaa25b) |
-| `GUIDED_PROJECTS/netLogo` | Mycelium Growth with NetLogo Web | [Coursera](https://www.coursera.org/projects/mycelium) | `NetLogo`, `Simulation` | [certificate](https://coursera.org/share/47cbfd603bbfaf061e3a5c92a0a6f89f) |
-| `GUIDED_PROJECTS/climate-xarray` | Climate Geospatial Analysis on Python with Xarray | [Coursera](https://www.coursera.org/projects/xarray) | `Python Xarray` | [certificate](https://coursera.org/share/0f623b6b0f20f1033ea1cbf78a92403c) |
-| `GUIDED_PROJECTS/vueJS_app` | Write a University Index Web App with VueJS | [Coursera](https://www.coursera.org/projects/university-index-vuejs) | `vuejs` | [certificate](https://coursera.org/share/849b516f043ab06555dbada71ac03669) |
+| `keplerGL` | Interactive Geospatial Visualization:Kepler GL & Jupyter Lab | [Coursera](https://www.coursera.org/projects/geospatial-keplergl-jupyter) | `KeplerGL`, `GIS` | [certificate](https://coursera.org/share/7dc60ed9659e9ac1572a88716d5c981b) |
+| `kMeans101` | K-Means Clustering 101: World Happiness Report | [Coursera](https://www.coursera.org/projects/clustering-world-happiness-reports) | `Python`, `Machine Learning` | [certificate](https://coursera.org/share/2d9d6f4c5b46ce52a13203e9c0aaa25b) |
+| `netLogo` | Mycelium Growth with NetLogo Web | [Coursera](https://www.coursera.org/projects/mycelium) | `NetLogo`, `Simulation` | [certificate](https://coursera.org/share/47cbfd603bbfaf061e3a5c92a0a6f89f) |
+| `climate-xarray` | Climate Geospatial Analysis on Python with Xarray | [Coursera](https://www.coursera.org/projects/xarray) | `Python Xarray` | [certificate](https://coursera.org/share/0f623b6b0f20f1033ea1cbf78a92403c) |
+| `vueJS_app` | Write a University Index Web App with VueJS | [Coursera](https://www.coursera.org/projects/university-index-vuejs) | `vuejs` | [certificate](https://coursera.org/share/849b516f043ab06555dbada71ac03669) |
 | - | Getting Started with Spatial Analysis in GeoDa | [Coursera](https://www.coursera.org/projects/getting-started-spatial-analysis-geoda) | `Spatial Analysis` `GeoDa` | [certificate](https://coursera.org/share/bc9a14401c707246da2018986dba45ba) |
 | - | Analysing Covid-19 Geospatial data with Python | [Coursera](https://www.coursera.org/projects/geospatial-covid19-python) | `Geopandas` `Geospatial` | [certificate](https://coursera.org/share/73d5822930c2821c1ea0892b54bc3477) |
-| `GUIDED_PROJECTS/geolocation-taxis-folium` | Clustering Geolocation Data Intelligently in Python | [Coursera](https://www.coursera.org/projects/clustering-geolocation-data-intelligently-python) | `visualization` `Machine Learning` `clustering` `Data Analysis` `map building` | [certificate](https://coursera.org/share/034f0df2a9d5ac8e88a1c828d0a1b9ce) |
+| `geolocation-taxis-folium` | Clustering Geolocation Data Intelligently in Python | [Coursera](https://www.coursera.org/projects/clustering-geolocation-data-intelligently-python) | `visualization` `Machine Learning` `clustering` `Data Analysis` `map building` | [certificate](https://coursera.org/share/034f0df2a9d5ac8e88a1c828d0a1b9ce) |
 | - | Crime Zone Heatmaps with Python and Folium | [Coursera](https://www.coursera.org/projects/crime-zone-heatmaps-python-folium) | `Pandas` `Folium` | [certificate](https://coursera.org/share/e91e4a694f3cc2a8f7b4d21961ff6f6c) |
 | - | Introduction to C++ Programming: Build a Calculator | [Coursera](https://www.coursera.org/projects/introduction-to-cpp-programming-build-a-calculator) | `C++ Basics` | [certificate](https://coursera.org/share/1def281df55bda6d73843dd760ca9533) |
 | - | Build a film club web app on Google AppEngine | [Coursera](https://www.coursera.org/projects/introduction-to-cpp-programming-build-a-calculator) | `Google App Engine (GAE)` `Flask` | [certificate](https://coursera.org/share/7627dacacd7926b851fc273d4ae4393b) |
@@ -87,7 +90,7 @@ Folder: `PHYSICAL SCIENCES`
 | **Subfolder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | `Chemistry` | Chemistry  | [Coursera](https://www.coursera.org/learn/chemistry-1) | `Chemistry` | audit |
-| - | Understanding Plants - Part I: What a Plant Knows | [Coursera](https://www.coursera.org/learn/plantknows) | `Plant Biology` `Genetics` `Cell Biology` `Plant` | [certificate](https://coursera.org/share/8f3302eeae23105deee85570e78446a2) |
+| `Understanding_Plants` | Understanding Plants - Part I: What a Plant Knows | [Coursera](https://www.coursera.org/learn/plantknows) | `Plant Biology` `Genetics` `Cell Biology` `Plant` | [certificate](https://coursera.org/share/8f3302eeae23105deee85570e78446a2) |
 
 #### Engineering & Applied Sciences 
 :building_construction: :factory:
@@ -96,8 +99,8 @@ Folder: `PHYSICAL SCIENCES`
 |---|---|---|---|---|
 | - | Mastering Statics  | [Coursera](https://www.coursera.org/learn/mastering-statics) | `Statics` | [certificate](https://coursera.org/share/4e9357756519c284f6cbd87425510eac) |
 | - | Intro to Digital Manufacturing with Autodesk Fusion 360 | [Coursera](https://www.coursera.org/learn/introduction-digital-manufacturing-fusion-360) | `Computer-Aided Design (CAD)` `Mechanical Design` |  [certificate](https://coursera.org/share/eb92d9fb9e7b38bc74af48867572f6a3) |
-| - | Materials Science: 10 Things Every Engineer Should Know | [Coursera](https://www.coursera.org/learn/materials-science) | `Materials` | [certificate](https://coursera.org/share/3e05d55215befe4e0be5331f13b516a6) |
-| - | Digital Manufacturing & Design Technology (Specialization) :star:  | [Coursera](https://www.coursera.org/specializations/digital-manufacturing-design-technology) | `Digital Design` `Manufacturing` `Industry 4.0` | [certificate](https://coursera.org/share/b6cede525d5e8fa91c94c03235da722c) |
+| `Materials Science` | Materials Science: 10 Things Every Engineer Should Know | [Coursera](https://www.coursera.org/learn/materials-science) | `Materials` | [certificate](https://coursera.org/share/3e05d55215befe4e0be5331f13b516a6) |
+| `Digital_Manufacturing` | Digital Manufacturing & Design Technology (Specialization) :star:  | [Coursera](https://www.coursera.org/specializations/digital-manufacturing-design-technology) | `Digital Design` `Manufacturing` `Industry 4.0` | [certificate](https://coursera.org/share/b6cede525d5e8fa91c94c03235da722c) |
 
 #### Geography & Geomatics 
 :earth_americas: :compass: :mountain_snow:
