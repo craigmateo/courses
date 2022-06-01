@@ -20,21 +20,21 @@ Folder: `PROGRAMMING`
 #### General Languages 
 :abacus: :computer:
 
-| **Subfolder** | **Title** | **Skills / Tools** |**Certificate** |
+| **Subfolder** | **Course** | **Skills / Tools** |**Certificate** |
 |---|---|---|---|
 | `Java_Software_Engineering` | [Java Programming Software Engineering (Specialization)](https://www.coursera.org/specializations/java-programming) :star: | `Java`, `Algorithms` | [certificate](https://coursera.org/share/67a4748b70919a0cec42aeabfaa34fbd) |
 
 #### Data Science & ML 
 :bar_chart: 📉
 
-| **Subfolder** | **Title** | **Skills / Tools** | **Certificate** |
+| **Subfolder** | **Course** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|
 | `Intro_Applied_ML` | [Introduction to Applied Machine Learning](https://www.coursera.org/learn/machine-learning-applied) | `Machine Learning` | [certificate](https://coursera.org/share/a1047e69d7d1c1ee3f2c5d175ef0526e) |
 
 #### Web Development 
 :globe_with_meridians: :iphone:
 
-| **Subfolder** | **Title** | **Skills / Tools** | **Certificate** |
+| **Subfolder** | **Course** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|
 | `WEB_DEVELOPMENT/CSS3/` | [Introduction to CSS3](https://www.coursera.org/learn/introcss) | `CSS`, `Web Design` | [certificate](https://coursera.org/share/b3e57d670043311ecf659b40941daf0a) |
 | `WEB_DEVELOPMENT/Full_Stack_Dev` | [Full Stack Development with React](https://www.coursera.org/specializations/full-stack-react) | `Bootstrap`, `Node.js`, `jQuery`, `SASS`, `Express.js` | :warning: |
@@ -42,7 +42,7 @@ Folder: `PROGRAMMING`
 #### OSSU Comp. Sci. 
 *[curriculum](https://github.com/ossu/computer-science)*
 
-| **Subfolder** | **Title** | **Skills / Tools**  | **Certificate** |
+| **Subfolder** | **Course** | **Skills / Tools**  | **Certificate** |
 |---|---|---|---|
 | `OSSU/how-to-code-simple-data` | [How to Code: Simple Data](https://www.edx.org/course/how-to-code-simple-data) | `Algorithms` | :warning: |
 | `OSSU/python-for-everybody` | [Python for Everybody](https://www.py4e.com/lessons) | `Python` | N/A |
@@ -53,7 +53,7 @@ Folder: `GUIDED_PROJECTS`
 
 :hammer: :gear:
 
-| **Subfolder** | **Title** | **Skills / Tools** | **Certificate** |
+| **Subfolder** | **Course** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|
 | `keplerGL` | [Interactive Geospatial Visualization:Kepler GL & Jupyter Lab](https://www.coursera.org/projects/geospatial-keplergl-jupyter) | `KeplerGL`, `GIS` | [certificate](https://coursera.org/share/7dc60ed9659e9ac1572a88716d5c981b) |
 | `kMeans101` | [K-Means Clustering 101: World Happiness Report](https://www.coursera.org/projects/clustering-world-happiness-reports) | `Python`, `Machine Learning` | [certificate](https://coursera.org/share/2d9d6f4c5b46ce52a13203e9c0aaa25b) |
@@ -75,7 +75,7 @@ Folder: `MATHEMATICS`
 :triangular_ruler: :infinity:
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 
-| **Subfolder** | **Title** | **Skills / Tools** | **Certificate** |
+| **Subfolder** | **Course** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|
 | `Fibonacci_Numbers` | [Fibonacci Numbers and the Golden Ratio](https://www.coursera.org/learn/fibonacci) | `Mathematics`, `Proofs` | [certificate](https://coursera.org/share/a224649746a076d604afad9372acf9ab) |
 | `Mathematical_Thinking` | [An Introduction to Mathematical Thinking ](https://www.coursera.org/learn/mathematical-thinking) | `Number Theory`, `Real Analysis`, `Logic` | audit |
@@ -87,7 +87,7 @@ Folder: `PHYSICAL SCIENCES`
 #### Chemistry & Biology 
 :dna: :test_tube:
 
-| **Subfolder** | **Title** | **Skills / Tools** | **Certificate** |
+| **Subfolder** | **Course** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|
 | `Chemistry` | [Chemistry](https://www.coursera.org/learn/chemistry-1) | `Chemistry` | audit |
 | `Understanding_Plants` | [Understanding Plants - Part I: What a Plant Knows](https://www.coursera.org/learn/plantknows) | `Plant Biology` `Genetics` `Cell Biology` `Plant` | [certificate](https://coursera.org/share/8f3302eeae23105deee85570e78446a2) |
@@ -95,7 +95,7 @@ Folder: `PHYSICAL SCIENCES`
 #### Engineering & Applied Sciences 
 :building_construction: :factory:
 
-| **Subfolder** | **Title** | **Skills / Tools** | **Certificate** |
+| **Subfolder** | **Course** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|
 | - | [Mastering Statics](https://www.coursera.org/learn/mastering-statics) | `Statics` | [certificate](https://coursera.org/share/4e9357756519c284f6cbd87425510eac) |
 | - | [Intro to Digital Manufacturing with Autodesk Fusion 360](https://www.coursera.org/learn/introduction-digital-manufacturing-fusion-360) | `Computer-Aided Design (CAD)` `Mechanical Design` |  [certificate](https://coursera.org/share/eb92d9fb9e7b38bc74af48867572f6a3) |
@@ -104,7 +104,7 @@ Folder: `PHYSICAL SCIENCES`
 
 #### Geography & Geomatics 
 :earth_americas: :compass: :mountain_snow:
-| **Subfolder** | **Title** | **Skills / Tools** | **Certificate** |
+| **Subfolder** | **Course** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|
 | `Remote_Sensing_Images` | [Remote Sensing Image Acquisition, Analysis and Applications](https://www.coursera.org/learn/remote-sensing) | `Remote Sensing` | :warning: |
 | `Planet_Earth` | [Planet Earth...and You](https://www.coursera.org/learn/planet-earth) | `Geology` | [certificate](https://coursera.org/share/e06ec097fd706a71c58793f01c679a33) |
@@ -116,7 +116,7 @@ https://www.uni-weimar.de/en/
 
 [transcript](https://drive.google.com/file/d/12cQRlu4ipgNaq0L7Y4PM0zlOimWwMnQw/view?usp=sharing)
 
-| **Subfolder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
+| **Subfolder** | **Course** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | - | Infrastructure Management  | - | `Infrastructure Management` `Infrastructure Finance` | - |
 | - | Project Management | - | `Project Management` | - |
@@ -141,7 +141,7 @@ https://www.uni-weimar.de/en/
 TU Kaiserslautern
 [transcript](https://drive.google.com/file/d/1YD-4ZtxJdBtJz7ayJUCkOx6errLOOgL5/view?usp=sharing)
 
-| **Subfolder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
+| **Subfolder** | **Course** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | - | Fundamentals of Quantum Mechanics  | - | `Quantum Mechanics` | - |
 | - | Applications of Nanotechnology | - | `Nanotechnology` | - |
@@ -160,7 +160,7 @@ Folder: `SOCIAL SCIENCES`
 #### Management
 :chart: :euro:
 
-| **Subfolder** | **Title** | **Skills / Tools** | **Certificate** |
+| **Subfolder** | **Course** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|
 | `Agile_Design_Thinking` | [Agile Meets Design Thinking](https://www.coursera.org/learn/uva-darden-getting-started-agile) | `Agile Software Development`, `agile user stories`, `Product Management` | [certificate](https://coursera.org/share/fbbe23f3360b1c8278a21165a7dd73ef) |
 | `Continuous_Delivery_DevOps` | [Continuous Delivery & DevOps](https://www.coursera.org/learn/introduction-digital-manufacturing-fusion-360) | `Devops`, `Continuous Delivery`  | [certificate](https://coursera.org/share/6d73c898a5089fc9751cf82e7c5442df) |
@@ -172,7 +172,7 @@ Folder: `SOCIAL SCIENCES`
 #### 
 :dog:
 
-| **Subfolder** | **Title** | **Skills / Tools** | **Certificate** |
+| **Subfolder** | **Course** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|
 | `Animal_Welfare` | [Animal Behaviour and Welfare](https://www.coursera.org/learn/animal-welfare) | `Animal` `Animal Behavior` `Veterinary` `Dog` | [certificate](https://coursera.org/share/b149daffa6a1cef44649daebb2fa9d23) |
 
@@ -187,7 +187,7 @@ Folder: `HUMANITIES/PHILOSOPHY`
 
 :book: :brain:
 
-| **Subfolder** | **Title** | **Skills / Tools** | **Certificate** |
+| **Subfolder** | **Course** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|
 | `Phil_Cognitive_Sciences_Intro` | [Introduction to the Philosophy of Cognitive Sciences](https://www.coursera.org/learn/philosophy-cognitive-sciences) | `Cognitive Sciences` | [certificate](https://coursera.org/share/9e8ce06e0d70ab9541fad5e45dbf434b) |
 | `Philosophy_of_Science` | [Philosophy of Science](https://www.coursera.org/learn/philosophy-of-science) | `Critical Thinking` | - |
@@ -200,7 +200,7 @@ Folder: `HUMANITIES/COMMUNICATION`
 
 :speech_balloon: ✍️
 
-| **Subfolder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
+| **Subfolder** | **Course** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | - | Chinese Characters for beginner 汉字  | [Coursera](https://www.coursera.org/learn/hanzi) | `Mandarin` | [certificate](https://coursera.org/share/3d49d98278ab22884bb5910120272c76) |
 | - | [Étudier en France: French Intermediate course B1-B2](https://www.coursera.org/learn/etudier-en-france) | `French` | audit |
@@ -215,7 +215,7 @@ Folder: `ART_DESIGN`
 #### 
 🎼 🎨 
 
-| **Subfolder** | **Title** | **Skills / Tools** | **Certificate** |
+| **Subfolder** | **Course** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|
 | `Guitar_Beginner` | [Guitar for Beginners](https://coursera.org/share/c83198bd639bda37fa8962439056c959) | `Tablature` `Music notation` `Guitar scales` `Guitar chords` `Guitar` | [certificate](https://coursera.org/share/c83198bd639bda37fa8962439056c959) |
 | `Drawing_Nature` | [Drawing Nature, Science and Culture: Natural History Illustration 101](https://www.edx.org/course/drawing-nature-science-and-culture-natural-history) | `Drawing` `Illustration` | audit |
