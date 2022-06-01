@@ -161,8 +161,8 @@ Folder: `SOCIAL SCIENCES`
 |---|---|---|---|---|
 | `Agile_Design_Thinking` | Agile Meets Design Thinking  | [Coursera](https://www.coursera.org/learn/uva-darden-getting-started-agile) | `Agile Software Development`, `agile user stories`, `Product Management` | [certificate](https://coursera.org/share/fbbe23f3360b1c8278a21165a7dd73ef) |
 | `Continuous_Delivery_DevOps` | Continuous Delivery & DevOps  | [Coursera](https://www.coursera.org/learn/introduction-digital-manufacturing-fusion-360) | `Devops`, `Continuous Delivery`  | [certificate](https://coursera.org/share/6d73c898a5089fc9751cf82e7c5442df) |
-| - | Project Management Principles and Practices (Specialization) :star:  | [Coursera](https://www.coursera.org/specializations/project-management) | `Project Management`, `Project Management`  | [certificate](https://coursera.org/share/22bc0b65574ed786d05b2051a4b070e9) |
-| - | The Power of Team Culture  | [Coursera](https://www.coursera.org/learn/team-culture) | `Organizational Culture`, `Leadership`  | [certificate](https://coursera.org/share/864ab36079cda1b2c00e3819f2d2b3d0) |
+| `PM_Principles_Practices` | Project Management Principles and Practices (Specialization) :star:  | [Coursera](https://www.coursera.org/specializations/project-management) | `Project Management`, `Project Management`  | [certificate](https://coursera.org/share/22bc0b65574ed786d05b2051a4b070e9) |
+| `Team_Culture` | The Power of Team Culture  | [Coursera](https://www.coursera.org/learn/team-culture) | `Organizational Culture`, `Leadership`  | [certificate](https://coursera.org/share/864ab36079cda1b2c00e3819f2d2b3d0) |
 
 #### Other
 
@@ -215,4 +215,4 @@ Folder: `ART_DESIGN`
 | **Subfolder** | **Title** | **Source** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|---|
 | `Guitar_Beginner` | Guitar for Beginners  | [Coursera](https://coursera.org/share/c83198bd639bda37fa8962439056c959) | `Tablature` `Music notation` `Guitar scales` `Guitar chords` `Guitar` | [certificate](https://coursera.org/share/c83198bd639bda37fa8962439056c959) |
-| - | Drawing Nature, Science and Culture: Natural History Illustration 101  | [edX](https://www.edx.org/course/drawing-nature-science-and-culture-natural-history) | `Drawing` `Illustration` | audit |
+| `Drawing_Nature` | Drawing Nature, Science and Culture: Natural History Illustration 101  | [edX](https://www.edx.org/course/drawing-nature-science-and-culture-natural-history) | `Drawing` `Illustration` | audit |

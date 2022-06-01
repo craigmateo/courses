@@ -4,6 +4,8 @@ https://www.coursera.org/learn/machine-learning-applied
 
 **Alberta Machine Intelligence Institute**
 
+![](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/bd/5ffa7dc5044d0faf48167516ba55f1/ML-Intro-to-Machine-Learning_1.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&q=25&fit=fill)
+
 ### About
 This course is for professionals who have heard the buzz around machine learning and want to apply machine learning to data analysis and automation. Whether finance, medicine, engineering, business or other domains, this course will introduce you to problem definition and data preparation in a machine learning project.By the end of the course, you will be able to clearly define a machine learning problem using two approaches. You will learn to survey available data resources and identify potential ML applications. You will learn to take a business need and turn it into a machine learning application. You will prepare data for effective machine learning applications.
 

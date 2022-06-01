@@ -2,6 +2,8 @@
 
 https://www.coursera.org/learn/chemistry-1#syllabus
 
+![](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/fa/6926005ea411e490ff8d4c5d4ff426/chemistry_logo.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25)
+
 ### About
 
 This course is designed to cover subjects in advanced high school chemistry courses, correlating to the standard topics as established by the American Chemical Society. This course is a precursor to the Advanced Chemistry Coursera course. Areas that are covered include atomic structure, periodic trends, compounds, reactions and stoichiometry, bonding, and thermochemistry.
