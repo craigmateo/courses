@@ -197,17 +197,17 @@ Folder: `HUMANITIES/PHILOSOPHY`
 
 #### Language & Linguistics 
 
-Folder: `HUMANITIES/COMMUNICATION`
+Folders: `HUMANITIES/COMMUNICATION`, `HUMANITIES/LANGUAGES`
 
 :speech_balloon: ✍️
 
 | **Subfolder** | **Course** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|
-| - | [Chinese Characters for beginner 汉字](https://www.coursera.org/learn/hanzi) | `Mandarin` | [certificate](https://coursera.org/share/3d49d98278ab22884bb5910120272c76) |
-| - | [Étudier en France: French Intermediate course B1-B2](https://www.coursera.org/learn/etudier-en-france) | `French` | audit |
+| `Chinese_Characters` | [Chinese Characters for beginner 汉字](https://www.coursera.org/learn/hanzi) | `Mandarin` | [certificate](https://coursera.org/share/3d49d98278ab22884bb5910120272c76) |
+| `French_Intermediate` | [Étudier en France: French Intermediate course B1-B2](https://www.coursera.org/learn/etudier-en-france) | `French` | audit |
 | `Communication_Science` | [Introduction to Communication Science](https://www.coursera.org/learn/communication) | `Human Communication` | [certificate](https://coursera.org/share/9d3a96f127b025ccf516095adb437d87) |
 | - | [Corpus Linguistics: Method, Analysis, Interpretation](https://www.futurelearn.com/courses/corpus-linguistics) | `Corpus Linguistics` | audit |
-| - | [Miracles of Human Language: An Introduction to Linguistics](https://www.coursera.org/learn/human-language) | `Linguistics` | audit |
+| `Linguistics_Intro` | [Miracles of Human Language: An Introduction to Linguistics](https://www.coursera.org/learn/human-language) | `Linguistics` | audit |
 
 ***
 
