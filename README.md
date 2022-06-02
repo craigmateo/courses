@@ -106,7 +106,7 @@ Folder: `SCIENCE AND ENGINEERING`
 :earth_americas: :compass: :mountain_snow:
 | **Subfolder** | **Course** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|
-| `Remote_Sensing_Images` | [Remote Sensing Image Acquisition, Analysis and Applications](https://www.coursera.org/learn/remote-sensing) | `Remote Sensing` | [certificate](https://coursera.org/share/4dbd98da9b8870bc2a7a152f1807f90d) |
+| `Remote_Sensing_Images` | [Remote Sensing Image Acquisition, Analysis and Applications](https://www.coursera.org/learn/remote-sensing) | `Remote Sensing` `Image Analysis` | [certificate](https://coursera.org/share/b2187f78888f022907ed733743e9b4e0) |
 | `Planet_Earth` | [Planet Earth...and You](https://www.coursera.org/learn/planet-earth) | `Geology` | [certificate](https://coursera.org/share/e06ec097fd706a71c58793f01c679a33) |
 
 <!--
