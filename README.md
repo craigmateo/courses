@@ -7,7 +7,7 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 **Domains**:
   * [Programming](#programming)
   * [Mathematics](#mathematics)
-  * [Physical Sciences](#physical-sciences-and-engineering)
+  * [Physical Sciences and Engineering](#physical-sciences-and-engineering)
   * [Social Sciences](#social-sciences)
   * [Humanities](#humanities)
   * [Arts & Design](#arts-and-design)
@@ -83,7 +83,7 @@ Folder: `MATHEMATICS`
 ***
 
 ## Physical Sciences and Engineering
-Folder: `PHYSICAL SCIENCES`
+Folder: `SCIENCE AND ENGINEERING`
 #### Chemistry & Biology 
 :dna: :test_tube:
 
@@ -98,7 +98,7 @@ Folder: `PHYSICAL SCIENCES`
 | **Subfolder** | **Course** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|
 | - | [Mastering Statics](https://www.coursera.org/learn/mastering-statics) | `Statics` | [certificate](https://coursera.org/share/4e9357756519c284f6cbd87425510eac) |
-| - | [Intro to Digital Manufacturing with Autodesk Fusion 360](https://www.coursera.org/learn/introduction-digital-manufacturing-fusion-360) | `Computer-Aided Design (CAD)` `Mechanical Design` |  [certificate](https://coursera.org/share/eb92d9fb9e7b38bc74af48867572f6a3) |
+| `Autodesk_Fusion_360` | [Intro to Digital Manufacturing with Autodesk Fusion 360](https://www.coursera.org/learn/introduction-digital-manufacturing-fusion-360) | `Computer-Aided Design (CAD)` `Mechanical Design` |  [certificate](https://coursera.org/share/eb92d9fb9e7b38bc74af48867572f6a3) |
 | `Materials Science` | [Materials Science: 10 Things Every Engineer Should Know](https://www.coursera.org/learn/materials-science) | `Materials` | [certificate](https://coursera.org/share/3e05d55215befe4e0be5331f13b516a6) |
 | `Digital_Manufacturing` | [Digital Manufacturing & Design Technology (Specialization)](https://www.coursera.org/specializations/digital-manufacturing-design-technology) :star: | `Digital Design` `Manufacturing` `Industry 4.0` | [certificate](https://coursera.org/share/b6cede525d5e8fa91c94c03235da722c) |
 
