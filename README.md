@@ -183,8 +183,6 @@ Folder: `HUMANITIES`
 
 #### Philosophy 
 
-Folder: `HUMANITIES/PHILOSOPHY`
-
 :book: :brain:
 
 | **Subfolder** | **Course** | **Skills / Tools** | **Certificate** |
@@ -196,8 +194,6 @@ Folder: `HUMANITIES/PHILOSOPHY`
 | `Mind_and_Machine` | [What is “the mind” and what is artificial intelligence?](https://www.coursera.org/learn/mind-machine-artificial-intelligence?) | `Philosophy of Mind` `AI`| [certificate](https://coursera.org/share/902196c572fbb3dddc612ffcf8ea034b) |
 
 #### Language & Linguistics 
-
-Folders: `HUMANITIES/COMMUNICATION`, `HUMANITIES/LANGUAGES`
 
 :speech_balloon: ✍️
 
