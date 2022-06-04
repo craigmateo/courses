@@ -1,5 +1,5 @@
 
-# Peer-graded Assignment: Design your own thought experiment
+# Assignment: Design your own thought experiment
 
 T​o show that you can use your imagination in the philosophical way, you have to write a Socratic dialogue in which, firstly, a philosophically relevant notion is conceptually analyzed, and subsequently, a thought experiment is described that functions as a counterexemple to that analysis.
 
@@ -12,23 +12,34 @@ T​he most important part of the dialogue is of course the content (60%): on th
 ## Dialogue
 ## *"Automaton (αὐτόματον)"*
 
-A statue designed by Ctesibius pours water as libation.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Vaso_di_Talos_particolare.JPG/220px-Vaso_di_Talos_particolare.JPG)  
+
+*Image: Talos depicted in 5th century BCE. In Greek mythology, Talos (Τάλως, Tálōs) was a giant automaton made of bronze to protect Europa in Crete from pirates and invaders*
+   
+***Setting***: circa 400 B.C. in the Athens marketplace during a visiting exhibition of the wonders of Alexandria.
+
+***Characters***: Socrates, Apollodorus (student), Hippias (sophist), Merchant
+
+*Enter Socrates, Apollodorus, Hippias in the the marketplace*
+
+|||
+|---|---|
+| *Merchant* | Behold the technological wonders from accross the sea! Just as Talos in the Greek myths, with this automaton stone has come to life! |
+|| *Socrates and the interloctutors look on as a stone statue automaton (robot) bends its arm and pours water as steam rises up* |
+| *Apollodorus* | Look friends! Have the gods made this inamimate stone statue come to life? |
+| *Hippias* | A neat trick indeed, but you exaggerate Apollodorus. It's merely the heating and cooling between water to steam that makes this statue lifelike. Hardly the work of gods; it is a mechanical device designed by a mortal -- the Greek inventor Ctesibius. |
+| *Apollodorus* | But this mechanical device is more intelligent being than inanimate object. |
+| *Hippias* | Just as we sophists used words and language to convince others of the truth, Ctesibius and his colleagues use tools and objects to pursuade onlookers that they have created life. It takes skill and technique to convince others through language, but this has little to do with truth. Likewise, it takes great skill to create a mechanical device, but it is not an intelligent being |
+| *Apollodorus* | A very good analogy Hippias. I can see why you are currently the highest paid sophist in Athens. Yes, I agree this is not an intelligent being. Perhaps it is more accurate to say it is a mere imitation of an intelligent being. |
+| *Hippias* | Precisely Apollodorus. No automaton can be intelligent. |
+| *Socrates* | I'm curious my interlocutos, what is it that makes a being intelligent? |
+| *Apollodorus* | The truely intelligent being in this case is the designer, Ctesibius. It is he who has the knowledge and skill. |
+| *Hippias* | Yes, clearly. An intelligent being posesses knowledge and skill. |       
+| *Socrates* | So having knowledge and skill is a sufficient condition for intelligence. In other words, if a being X posesses knowledge and skill then X is intelligent. |
+| *Hippias, Apollodorus* | Nodding in agreement. Yes, it seems so. Knowledge and skill are sufficient to guarantee intelligence |
+| *Socrates* | Would you also claim that having knowledge and skill is a necessary condition for intelligence. So a being cannot possess intelligence unless it possesses knowledge and skill. | 
 
 
-
-
-
-Int - just a toy, a game
-
-Soc. - is language not just a game?
-
-
-
-Aeolipile designed by Heron of Alexandria
-
-observer statue 
-
-interlocuters claim statue is not an intelligent being
 
 **sufficient condition:**
 
