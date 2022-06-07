@@ -1,0 +1,245 @@
+# Das liebe Geld - Finance im Alltag
+
+https://www.coursera.org/learn/finanzen
+
+**University of Zurich**
+
+![](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/9c/2400c0a29911e6b24f2b82c859ba67/MOOC_Finance_Alltag_Coursera_1200x1200.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25)
+
+### About
+Durch den MOOC „Das liebe Geld - Finance im Alltag“ erlangen Sie ein Basiswissen für bewusste und korrekte finanzielle Entscheidungen im Alltag. Sie eignen sich konkrete Werkzeuge an, die Ihnen helfen können, bessere Alltagsentscheidungen zu treffen und bekommen einen Einblick in verschiedene neueste Forschungserkenntnisse der Finance.Wir begleiten Sie in sechs Wochenmodulen zu soliden finanziellen Alltagsentscheidungen. Nach einer Einführung erlernen Sie den Zeitwert des Geldes als zentrales Konzept zur Entscheidungsfindung. Überlegungen zur persönlichen Finanzplanung folgt das Basiswissen zur Geldanlage. Danach halten Sie inne und reflektieren die Frage der Werte anhand konkreter Beispiele, insbesondere in Bezug auf Finanzprodukte wie Derivate und Strukturierte Produkte. In einem Exkurs erhalten Sie auch Einblick in Bitcoin und Blockchain. Das Thema Geldanlage wird anschliessend vertieft: Sie begegnen dem grössten Feind des Anlegers und betrachten die Interaktion der Finanzmarktteilnehmenden in biologischen Analogien. Am Ende reflektieren Sie das Gehörte und Erlernte kritisch und nehmen hoffentlich viele konkrete Hilfsmittel in den Alltag mit.
+
+Die Inhalte der einzelnen Module können auch einzeln bearbeitet werden. Der Kurs eignet sich also auch für jene Interessierte, die nicht Zeit oder Interesse am Gesamtkurs haben.
+
+Der Kurs wird in deutscher Sprache gehalten.SHOW ALL COURSE OUTLINESHOW ALL
+
+### Syllabus
+
+- Finance im Alltag?! Warum dieser Kurs für Sie interessant sein kann
+  - Willkommen!
+  - Der Kurs im Überblick
+  - Wie Sie diesen Kurs am besten bearbeiten
+  - Das Finanzsystem und seine Akteure
+  - Hinweis auf Exkurs Bitcoin und Blockchain
+  - Schriftliche Zusammenfassung für jedes Modul
+  - Das Finance im Alltag Sandwich
+  - Finden Sie heraus, wo Ihre Interessen liegen!
+  - Kursinformation
+  - Bearbeitung der Quizfragen
+  - Hinweise zu den Videos
+  - Finance im Alltag auf einen Blick - Formelblatt
+- Ist Zeit Geld? Was du heute kannst besorgen...
+  - Entscheidungsfindung, wenn nicht alles möglich ist
+  - Der Zeitwert des Geldes
+  - Gegenwartswert und Zinseszinseffekt
+  - Entscheiden mit dem Present Value Prinzip
+  - Praktische Hilfsmittel zur Anwendung des TVM
+  - Übungen zum TVM in Excel 2.5a
+  - Übungen zur ewigen Rente in Excel 2.5b
+  - Übungen zur Annuität in Excel 2.5c
+  - Übungen zur unterjährigen Verzinsung 2.5d
+  - Abschlussbeispiel Übungen TVM 2.5e
+  - Risikogerechte Diskontsätze
+  - Von nominellen zu realen Zinsen
+  - Das Zinsniveau
+  - Investitionsrechnung für Unternehmen
+  - Fazit und Zusammenfassung
+  - Lernziele
+  - Schlüsselbegriffe
+  - Der Zeitwert der Hasen
+  - Der Zeitwert der Jacke
+  - Übungen zum Time Value of Money in Excel
+  - Die Inflation der Gänseblümchen
+  - Schriftliche Zusammenfassung Modul 2
+  - Testen Sie Ihr Verständnis 2.1
+  - Testen Sie Ihr Verständnis 2.2
+  - Testen Sie Ihr Verständnis 2.3.1
+  - Testen Sie Ihr Verständnis 2.3.2
+  - Testen Sie Ihr Verständnis 2.3.3
+  - Testen Sie Ihr Verständnis 2.3.4
+  - Testen Sie Ihr Verständnis 2.3.5
+  - Testen Sie Ihr Verständnis 2.4.1
+  - Testen Sie Ihr Verständnis 2.4.2
+  - Testen Sie Ihr Verständnis 2.5.1
+  - Testen Sie Ihr Verständnis 2.5.2
+  - Testen Sie Ihr Verständnis 2.5.3
+  - Testen Sie Ihr Verständnis 2.5.4
+  - Testen Sie Ihr Verständnis 2.5.5
+  - Testen Sie Ihr Verständnis 2.6.1
+  - Testen Sie Ihr Verständnis 2.6.2
+  - Testen Sie Ihr Verständnis 2.6.3
+  - Testen Sie Ihr Verständnis 2.6.4
+  - Testen Sie Ihr Verständnis 2.6.5
+  - Testen Sie Ihr Verständnis 2.7.1
+  - Testen Sie Ihr Verständnis 2.7.2
+  - Testen Sie Ihr Verständnis 2.8
+  - Testen Sie Ihr Verständnis 2.9.1
+  - Testen Sie Ihr Verständnis 2.9.2
+  - Testen Sie Ihr Verständnis 2.9.3
+  - Testen Sie Ihr Verständnis 2.10
+  - Testen Sie Ihr Verständnis Modul 2
+- Geld ausgeben oder sparen? Das Basiswissen zur Geldanlage
+  - Einführung und Finanzplanung
+  - Das Anlageuniversum
+  - Vermögensbilanz Schweizer Haushalte
+  - Anlageprozess, Bedürfnisabklärung &amp; Risikoneigung
+  - Die Effizienz der Finanzmärkte
+  - Die Preisbildung auf Finanzmärkten
+  - Der Zusammenhang zwischen Risiko und Rendite
+  - Diversifikation und Portfoliotheorie
+  - Das Risiko von Aktien
+  - Zusammenfassung und Fazit
+  - Was ist Bitcoin?
+  - Wie funktioniert eine Blockchain?
+  - Bewertung von Bitcoin und anderen Kryptowährungen
+  - Die Kursdynamik von Bitcoin
+  - Was kann das "Internet of Finance"?
+  - Lernziele
+  - Schlüsselbegriffe
+  - Träume und Realität
+  - Leseauftrag
+  - Das Risiko- und Rendite-Aquarium
+  - Diversifikation im Anlagegarten
+  - Schriftliche Zusammenfassung Modul 3
+  - Einführung in den Exkurs Bitcoin und Blockchain
+  - Ergänzendes Video und wichtige Fragen zum Bitcoin Hype
+  - Artikel: Eine Chance für den Finanzplatz
+  - Testen Sie Ihr Verständnis 3.1.1
+  - Testen Sie Ihr Verständnis 3.1.2
+  - Testen Sie Ihr Verständnis 3.2.1
+  - Testen Sie Ihr Verständnis 3.2.2
+  - Testen Sie Ihr Verständnis 3.2.3
+  - Testen Sie Ihr Verständnis 3.3.1
+  - Testen Sie Ihr Verständnis 3.3.2
+  - Testen Sie Ihr Verständnis 3.4.1
+  - Testen Sie Ihr Verständnis 3.4.2
+  - Testen Sie Ihr Verständnis 3.4.3
+  - Testen Sie Ihr Verständnis 3.4.4
+  - Testen Sie Ihr Verständnis 3.4.5
+  - Testen Sie Ihr Verständnis 3.5.1
+  - Testen Sie Ihr Verständnis 3.5.2
+  - Testen Sie Ihr Verständnis 3.7.1
+  - Testen Sie Ihr Verständnis 3.7.2
+  - Testen Sie Ihr Verständnis 3.7.3
+  - Testen Sie Ihr Verständnis 3.8.1
+  - Testen Sie Ihr Verständnis 3.8.2
+  - Testen Sie Ihr Verständnis 3.8.3
+  - Testen Sie Ihr Verständnis 3.8.4
+  - Testen Sie Ihr Verständnis 3.8.5
+  - Testen Sie Ihr Verständnis 3.9.1
+  - Testen Sie Ihr Verständnis 3.9.2
+  - Testen Sie Ihr Verständnis Modul 3
+  - Testen Sie Ihr Verständnis 3.11a.1
+  - Testen Sie Ihr Verständnis 3.11a.2
+  - Testen Sie Ihr Verständnis 3.11a.3
+  - Testen Sie Ihr Verständnis 3.11b.1
+  - Testen Sie Ihr Verständnis 3.11b.2
+  - Testen Sie Ihr Verständnis 3.11c.1
+  - Testen Sie Ihr Verständnis 3.11c.2
+  - Testen Sie Ihr Verständnis 3.11c.3
+  - Testen Sie Ihr Verständnis 3.11d.1
+  - Testen Sie Ihr Verständnis 3.11e.1
+- Von Preisen zu Werten - Ein System ist nur so gut wie seine Akteure
+  - Von Preisen zu Werten
+  - Die Rolle von derivativen Finanzprodukten
+  - Einführung Derivate - Termingeschäfte
+  - Einführung Derivate - Nutzen und Einsatz
+  - Einführung Derivate - Bedingt &amp; Unbedingt
+  - Einführung Derivate - Einsatz für Private
+  - Finanzinnovation und Systemrisiken am Beispiel von Credit Default Swaps
+  - Werbung für Strukturierte Produkte am Beispiel von Barrier Reverse Convertibles
+  - Funktionsweise eines Reverse Convertibles
+  - Funktionsweise eines Barrier Reverse Convertibles
+  - Funktionsweise eines Multi Asset Barrier Reverse Convertibles
+  - Anreizprobleme bei der Management-Vergütung durch Optionen am Beispiel von Lehman Brothers
+  - Schlussfolgerungen &amp; Lösungsansätze
+  - Lernziele
+  - Schlüsselbegriffe
+  - Einführung in Derivate
+  - Einführung Strukturierte Produkte
+  - Die Geister, die wir riefen
+  - Laser oder Karotte?
+  - Schriftliche Zusammenfassung Modul 4
+  - Testen Sie Ihr Verständnis 4.2.1
+  - Testen Sie Ihr Verständnis 4.2.2
+  - Testen Sie Ihr Verständnis 4.2.3
+  - Testen Sie Ihr Verständnis 4.2.4
+  - Testen Sie Ihr Verständnis 4.2.5
+  - Testen Sie Ihr Verständnis 4.2.6
+  - Testen Sie Ihr Verständnis 4.2.7
+  - Testen Sie Ihr Verständnis 4.2.8
+  - Testen Sie Ihr Verständnis 4.2.9
+  - Testen Sie Ihr Verständnis 4.2.10
+  - Testen Sie Ihr Verständnis 4.2.11
+  - Testen Sie Ihr Verständnis 4.3.1
+  - Testen Sie Ihr Verständnis 4.3.2
+  - Testen Sie Ihr Verständnis 4.3.3
+  - Testen Sie Ihr Verständnis 4.4.1
+  - Testen Sie Ihr Verständnis 4.4.2
+  - Testen Sie Ihr Verständnis 4.4.3
+  - Testen Sie Ihr Verständnis 4.4.4
+  - Testen Sie Ihr Verständnis 4.4.5
+  - Testen Sie Ihr Verständnis 4.4.6
+  - Testen Sie Ihr Verständnis 4.4.7
+  - Testen Sie Ihr Verständnis 4.4.8
+  - Testen Sie Ihr Verständnis 4.4.9
+  - Testen Sie Ihr Verständnis 4.4.10
+  - Testen Sie Ihr Verständnis Modul 4
+- Der grösste Feind des Anlegers und die Biologie der Finanzmärkte
+  - Einführung Teil 1
+  - Können wir alles wahrnehmen?
+  - Sind wir bei der Informationssuche voreingenommen?
+  - Welche Rolle spielt unser Gedächtnis?
+  - Können wir irrelevante Informationen ausblenden?
+  - Was ist Zufall und was nicht?
+  - Welche Rolle spielen Emotionen?
+  - Erfolgreiches Finanzmanagement
+  - Das typische Anlageverhalten von Privatanlegern
+  - Welche professionellen Anlagestrategien gibt es?
+  - Wie interagieren Anlagestrategien am Markt?
+  - Vorbilder - grossartige Investoren
+  - Welche Strategie passt zu mir?
+  - Zusammenfassung und Fazit
+  - Lernziele
+  - Schlüsselbegriffe
+  - Das Ziel vor Augen
+  - Leseauftrag
+  - Kenne deine Schwächen
+  - Leseauftrag
+  - Katz oder Kauz?
+  - Ihr persönlicher Anlagekuchen
+  - Schriftliche Zusammenfassung Modul 5
+  - Testen Sie Ihr Verständnis 5.1
+  - Testen Sie Ihr Verständnis 5.2.1
+  - Testen Sie Ihr Verständnis 5.2.2
+  - Testen Sie Ihr Verständnis 5.3.1
+  - Testen Sie Ihr Verständnis 5.3.2
+  - Testen Sie Ihr Verständnis 5.4.1
+  - Testen Sie Ihr Verständnis 5.4.2
+  - Testen Sie Ihr Verständnis 5.4.3
+  - Testen  Sie Ihr Verständnis 5.5.1
+  - Testen  Sie Ihr Verständnis 5.5.2
+  - Testen  Sie Ihr Verständnis 5.5.3
+  - Testen Sie Ihr Verständnis 5.6.1
+  - Testen Sie Ihr Verständnis 5.6.2
+  - Testen Sie Ihr Verständnis 5.6.3
+  - Testen Sie Ihr Verständnis 5.7.1
+  - Testen Sie Ihr Verständnis 5.7.2
+  - Testen Sie Ihr Verständnis 5.8.1
+  - Testen Sie Ihr Verständnis 5.8.2
+  - Testen Sie Ihr Verständnis 5.8.3
+  - Testen Sie Ihr Verständnis 5.9.1
+  - Testen Sie Ihr Verständnis 5.9.2
+  - Testen Sie Ihr Verständnis 5.10.1
+  - Testen Sie Ihr Verständnis 5.10.2
+  - Testen Sie Ihr Verständnis 5.10.3
+  - Testen Sie Ihr Verständnis 5.10.4
+  - Testen Sie Ihr Verständnis 5.10.5
+  - Testen Sie Ihr Verständnis 5.11
+  - Testen Sie Ihr Verständnis 5.12
+  - Testen Sie Ihr Verständnis Modul 5
+- Zusammenfassung und Selbstkontrolle
+  - Zusammenfassung
+  - Sie haben das Ziel erreicht!
+  - Abschlussreflexion
+  - Abschlussprüfung
