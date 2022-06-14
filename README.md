@@ -166,7 +166,7 @@ Folder: `SOCIAL SCIENCES`
 | `Continuous_Delivery_DevOps` | [Continuous Delivery & DevOps](https://www.coursera.org/learn/introduction-digital-manufacturing-fusion-360) | `Devops`, `Continuous Delivery`  | [certificate](https://coursera.org/share/6d73c898a5089fc9751cf82e7c5442df) |
 | `PM_Principles_Practices` | [Project Management Principles and Practices (Specialization)](https://www.coursera.org/specializations/project-management) :star: | `Project Management`, `Project Management`  | [certificate](https://coursera.org/share/22bc0b65574ed786d05b2051a4b070e9) |
 | `Team_Culture` | [The Power of Team Culture](https://www.coursera.org/learn/team-culture) | `Organizational Culture`, `Leadership`  | [certificate](https://coursera.org/share/864ab36079cda1b2c00e3819f2d2b3d0) |
-| `Analysing_Complexity` | [Analysing Complexity](https://www.coursera.org/learn/analysing-complexity) | `Systems Thinking`, `Interdisciplinary`  | - |
+| `Analysing_Complexity` | [Analysing Complexity](https://www.coursera.org/learn/analysing-complexity) | `Systems Thinking`, `Interdisciplinary`  | [certificate](https://coursera.org/share/c99bdaeb4cce61414fc2e69ac03ba747) |
 
 
 #### Other
