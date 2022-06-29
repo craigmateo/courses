@@ -1,0 +1,55 @@
+<proof>
+    <step>
+        <number>1</number>
+        <sentence>~q</sentence>
+        <justification>Premise</justification>
+    </step>
+    <step>
+        <number>2</number>
+        <sentence>~p => (~q => ~r)</sentence>
+        <justification>Premise</justification>
+    </step>
+    <step>
+        <number>3</number>
+        <sentence>~q => (~p => ~q)</sentence>
+        <justification>Implication Creation</justification>
+    </step>
+    <step>
+        <number>4</number>
+        <sentence>~p => ~q</sentence>
+        <justification>Implication Elimination</justification>
+        <antecedent>3</antecedent>
+        <antecedent>1</antecedent>
+    </step>
+    <step>
+        <number>5</number>
+        <sentence>(~p => (~q => ~r)) => ((~p => ~q) => (~p => ~r))</sentence>
+        <justification>Implication Distribution</justification>
+    </step>
+    <step>
+        <number>6</number>
+        <sentence>(~p => ~q) => (~p => ~r)</sentence>
+        <justification>Implication Elimination</justification>
+        <antecedent>5</antecedent>
+        <antecedent>2</antecedent>
+    </step>
+    <step>
+        <number>7</number>
+        <sentence>~p => ~r</sentence>
+        <justification>Implication Elimination</justification>
+        <antecedent>6</antecedent>
+        <antecedent>4</antecedent>
+    </step>
+    <step>
+        <number>8</number>
+        <sentence>(~p => ~r) => (r => p)</sentence>
+        <justification>Implication Reversal</justification>
+    </step>
+    <step>
+        <number>9</number>
+        <sentence>r => p</sentence>
+        <justification>Implication Elimination</justification>
+        <antecedent>8</antecedent>
+        <antecedent>7</antecedent>
+    </step>
+</proof>
