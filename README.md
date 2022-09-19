@@ -66,6 +66,7 @@ Folder: `GUIDED_PROJECTS`
 | - | [Crime Zone Heatmaps with Python and Folium](https://www.coursera.org/projects/crime-zone-heatmaps-python-folium) | `Pandas` `Folium` | [certificate](https://coursera.org/share/e91e4a694f3cc2a8f7b4d21961ff6f6c) |
 | - | [Introduction to C++ Programming: Build a Calculator](https://www.coursera.org/projects/introduction-to-cpp-programming-build-a-calculator) | `C++ Basics` | [certificate](https://coursera.org/share/1def281df55bda6d73843dd760ca9533) |
 | - | [Build a film club web app on Google AppEngine](https://www.coursera.org/projects/introduction-to-cpp-programming-build-a-calculator) | `Google App Engine (GAE)` `Flask` | [certificate](https://coursera.org/share/7627dacacd7926b851fc273d4ae4393b) |
+| `weather-app` | [Build a Full-Stack Server for API Requests - NodeJS and Pug](https://www.coursera.org/projects/basic-server-nodejs) | `NodeJS` `Pug` | [certificate](https://www.coursera.org/account/accomplishments/verify/N66Y3WR39KCY) |
 
 ***
 
