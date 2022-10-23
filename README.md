@@ -55,11 +55,12 @@ Folder: `GUIDED_PROJECTS`
 | `climate-xarray` | [Climate Geospatial Analysis on Python with Xarray](https://www.coursera.org/projects/xarray) | `Python Xarray` | [certificate](https://coursera.org/share/0f623b6b0f20f1033ea1cbf78a92403c) |
 | `vueJS_app` | [Write a University Index Web App with VueJS](https://www.coursera.org/projects/university-index-vuejs) | `vuejs` | [certificate](https://coursera.org/share/849b516f043ab06555dbada71ac03669) |
 | - | [Getting Started with Spatial Analysis in GeoDa](https://www.coursera.org/projects/getting-started-spatial-analysis-geoda) | `Spatial Analysis` `GeoDa` | [certificate](https://coursera.org/share/bc9a14401c707246da2018986dba45ba) |
-| - | [Analysing Covid-19 Geospatial data with Python](https://www.coursera.org/projects/geospatial-covid19-python) | `Geopandas` `Geospatial` | [certificate](https://coursera.org/share/73d5822930c2821c1ea0892b54bc3477) |
+| `covid-geospatial` | [Analysing Covid-19 Geospatial data with Python](https://www.coursera.org/projects/geospatial-covid19-python) | `Geopandas` `Geospatial` | [certificate](https://coursera.org/share/73d5822930c2821c1ea0892b54bc3477) |
 | `geolocation-taxis-folium` | [Clustering Geolocation Data Intelligently in Python](https://www.coursera.org/projects/clustering-geolocation-data-intelligently-python) | `visualization` `Machine Learning` `clustering` `Data Analysis` `map building` | [certificate](https://coursera.org/share/034f0df2a9d5ac8e88a1c828d0a1b9ce) |
 | - | [Crime Zone Heatmaps with Python and Folium](https://www.coursera.org/projects/crime-zone-heatmaps-python-folium) | `Pandas` `Folium` | [certificate](https://coursera.org/share/e91e4a694f3cc2a8f7b4d21961ff6f6c) |
 | - | [Introduction to C++ Programming: Build a Calculator](https://www.coursera.org/projects/introduction-to-cpp-programming-build-a-calculator) | `C++ Basics` | [certificate](https://coursera.org/share/1def281df55bda6d73843dd760ca9533) |
 | - | [Build a film club web app on Google AppEngine](https://www.coursera.org/projects/introduction-to-cpp-programming-build-a-calculator) | `Google App Engine (GAE)` `Flask` | [certificate](https://coursera.org/share/7627dacacd7926b851fc273d4ae4393b) |
+| `weather-app` | [Build a Full-Stack Server for API Requests - NodeJS and Pug](https://www.coursera.org/projects/basic-server-nodejs) | `NodeJS` `Pug` | [certificate](https://www.coursera.org/account/accomplishments/verify/N66Y3WR39KCY) |
 
 ***
 

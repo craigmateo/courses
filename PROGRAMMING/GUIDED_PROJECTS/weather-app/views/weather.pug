@@ -1,0 +1,14 @@
+extends layout
+
+block content
+    div(class="container")
+      h1=title 
+      p The weather in #{city} is 
+        i #{weather}
+      p The temperature is 
+        i #{temp}#{unit}
+      p Date: 
+        i #{time}
+      p Time: 
+        i #{time}
+    class='button', href='/sendWeatherAPI') Get Weather
