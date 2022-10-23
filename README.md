@@ -23,6 +23,8 @@ Folder: `PROGRAMMING`
 | **Subfolder** | **Course** | **Skills / Tools** |**Certificate** |
 |---|---|---|---|
 | `Java_Software_Engineering` | [Java Programming Software Engineering (Specialization)](https://www.coursera.org/specializations/java-programming) :star: | `Java`, `Algorithms` | [certificate](https://coursera.org/share/67a4748b70919a0cec42aeabfaa34fbd) |
+| `how-to-code-simple-data` | [How to Code: Simple Data](https://www.edx.org/course/how-to-code-simple-data) | `Algorithms` | :warning: |
+| `python-for-everybody` | [Python for Everybody](https://www.py4e.com/lessons) | `Python` | N/A |
 
 #### Data Science & ML 
 :bar_chart: 📉
@@ -38,14 +40,6 @@ Folder: `PROGRAMMING`
 |---|---|---|---|
 | `WEB_DEVELOPMENT/CSS3/` | [Introduction to CSS3](https://www.coursera.org/learn/introcss) | `CSS`, `Web Design` | [certificate](https://coursera.org/share/b3e57d670043311ecf659b40941daf0a) |
 | `WEB_DEVELOPMENT/Full_Stack_Dev` | [Full Stack Development with React](https://www.coursera.org/specializations/full-stack-react) | `Bootstrap`, `Node.js`, `jQuery`, `SASS`, `Express.js` | :warning: |
-
-#### OSSU Comp. Sci. 
-*[curriculum](https://github.com/ossu/computer-science)*
-
-| **Subfolder** | **Course** | **Skills / Tools**  | **Certificate** |
-|---|---|---|---|
-| `OSSU/how-to-code-simple-data` | [How to Code: Simple Data](https://www.edx.org/course/how-to-code-simple-data) | `Algorithms` | :warning: |
-| `OSSU/python-for-everybody` | [Python for Everybody](https://www.py4e.com/lessons) | `Python` | N/A |
 
 #### Guided Projects 
 
@@ -202,7 +196,7 @@ Folder: `HUMANITIES`
 | **Subfolder** | **Course** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|
 | `Chinese_Characters` | [Chinese Characters for beginner 汉字](https://www.coursera.org/learn/hanzi) | `Mandarin` | [certificate](https://coursera.org/share/3d49d98278ab22884bb5910120272c76) |
-| `French_Intermediate` | [Étudier en France: French Intermediate course B1-B2](https://www.coursera.org/learn/etudier-en-france) | `French` | [certificate](https://coursera.org/share/97af53fa70e933da8d7c83bc6529460d) |
+| `French_Intermediate` | [French Intermediate course B1-B2](https://www.coursera.org/learn/etudier-en-france) | `French` | [certificate](https://coursera.org/share/97af53fa70e933da8d7c83bc6529460d) |
 | `Communication_Science` | [Introduction to Communication Science](https://www.coursera.org/learn/communication) | `Human Communication` | [certificate](https://coursera.org/share/9d3a96f127b025ccf516095adb437d87) |
 | `Corpus_Linguistics` | [Corpus Linguistics: Method, Analysis, Interpretation](https://www.futurelearn.com/courses/corpus-linguistics) | `Corpus Linguistics` | audit |
 | `Linguistics_Intro` | [Miracles of Human Language: An Introduction to Linguistics](https://www.coursera.org/learn/human-language) | `Linguistics` | audit |
