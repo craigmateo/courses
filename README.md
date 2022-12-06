@@ -61,6 +61,7 @@ Folder: `GUIDED_PROJECTS`
 | - | [Introduction to C++ Programming: Build a Calculator](https://www.coursera.org/projects/introduction-to-cpp-programming-build-a-calculator) | `C++ Basics` | [certificate](https://coursera.org/share/1def281df55bda6d73843dd760ca9533) |
 | - | [Build a film club web app on Google AppEngine](https://www.coursera.org/projects/introduction-to-cpp-programming-build-a-calculator) | `Google App Engine (GAE)` `Flask` | [certificate](https://coursera.org/share/7627dacacd7926b851fc273d4ae4393b) |
 | `weather-app` | [Build a Full-Stack Server for API Requests - NodeJS and Pug](https://www.coursera.org/projects/basic-server-nodejs) | `NodeJS` `Pug` | [certificate](https://www.coursera.org/account/accomplishments/verify/N66Y3WR39KCY) |
+| - | [School Registry using Object Oriented Programming in Java](https://www.coursera.org/projects/school-registry-using-object-oriented-programming-in-java) | `Java` `Swing` | [certificate](https://coursera.org/share/523022137509350dab3d4ab524dee75a) |
 
 ***
 
