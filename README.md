@@ -24,8 +24,8 @@ Folder: `PROGRAMMING`
 |---|---|---|---|
 | `Java_Software_Engineering` | [Java Programming Software Engineering (Specialization)](https://www.coursera.org/specializations/java-programming) :star: | `Java`, `Algorithms` | [certificate](https://coursera.org/share/67a4748b70919a0cec42aeabfaa34fbd) |
 | `how-to-code-simple-data` | [How to Code: Simple Data](https://www.edx.org/course/how-to-code-simple-data) | `Algorithms` | :warning: |
-| `python-for-everybody` | [Python for Everybody](https://www.py4e.com/lessons) | `Python` | N/A |
-| `-` | [Programming Languages Part A](https://www.coursera.org/learn/programming-languages) | `SML`, `Functional Programming` | [certificate](https://coursera.org/share/2bd21c10f04b11b7b281e247532d947e) |
+| `python-for-everybody` | [Python for Everybody](https://www.py4e.com/lessons) | `Python` | - |
+| - | [Programming Languages Part A](https://www.coursera.org/learn/programming-languages) | `SML`, `Functional Programming` | [certificate](https://coursera.org/share/2bd21c10f04b11b7b281e247532d947e) |
 
 
 #### Data Science & ML 
