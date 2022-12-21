@@ -64,6 +64,7 @@ Folder: `GUIDED_PROJECTS`
 | - | [Build a film club web app on Google AppEngine](https://www.coursera.org/projects/introduction-to-cpp-programming-build-a-calculator) | `Google App Engine (GAE)` `Flask` | [certificate](https://coursera.org/share/7627dacacd7926b851fc273d4ae4393b) |
 | `weather-app` | [Build a Full-Stack Server for API Requests - NodeJS and Pug](https://www.coursera.org/projects/basic-server-nodejs) | `NodeJS` `Pug` | [certificate](https://www.coursera.org/account/accomplishments/verify/N66Y3WR39KCY) |
 | - | [School Registry using Object Oriented Programming in Java](https://www.coursera.org/projects/school-registry-using-object-oriented-programming-in-java) | `Java` `Swing` | [certificate](https://coursera.org/share/523022137509350dab3d4ab524dee75a) |
+| - | [Beginners Overview of Swagger Editor](https://www.coursera.org/projects/beginners-overview-of-swagger-editor-oas) | `APIs` `Documentation` `Swagger` | [certificate](https://coursera.org/share/1ba4b247e3141048e6b542fe637aca72) |
 
 ***
 
