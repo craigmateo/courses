@@ -66,6 +66,7 @@ Folder: `GUIDED_PROJECTS`
 | - | [School Registry using Object Oriented Programming in Java](https://www.coursera.org/projects/school-registry-using-object-oriented-programming-in-java) | `Java` `Swing` | [certificate](https://coursera.org/share/523022137509350dab3d4ab524dee75a) |
 | - | [Beginners Overview of Swagger Editor](https://www.coursera.org/projects/beginners-overview-of-swagger-editor-oas) | `APIs` `Documentation` `Swagger` | [certificate](https://coursera.org/share/1ba4b247e3141048e6b542fe637aca72) |
 | - | [Generate API Documentation from Postman](https://www.coursera.org/projects/generate-api-documentation-postman) | `APIs` `Documentation` `Postman` | [certificate](https://coursera.org/share/28cbea0ecb4cec04b95ba7407ef0537a) |
+| - | [Postman - Intro to APIs](https://www.coursera.org/projects/laura-gemmell-intro-postman-apis) | `APIs` `Postman` | [certificate](https://coursera.org/share/0daa3a5b8995cdb33abe6ec4f06f88a8) |
 
 ***
 
