@@ -15,7 +15,7 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 :star: = _specialization (multi course)_
 :warning: = _incomplete_
 
-## Programming
+## Programming & CS
 Folder: `PROGRAMMING`
 :abacus: :computer:
 
