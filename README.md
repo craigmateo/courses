@@ -22,22 +22,14 @@ Folder: `PROGRAMMING`
 
 | **Subfolder** | **Course** | **Skills / Tools** |**Certificate** |
 |---|---|---|---|
-| `Java_Software_Engineering` | [Java Programming Software Engineering (Specialization)](https://www.coursera.org/specializations/java-programming) :star: | `Java`, `Algorithms` | [certificate](https://coursera.org/share/67a4748b70919a0cec42aeabfaa34fbd) |
+|**Core Programming**  ||||
 | `how-to-code-simple-data` | [How to Code: Simple Data](https://www.edx.org/course/how-to-code-simple-data) | `Algorithms` | :warning: |
 | `python-for-everybody` | [Python for Everybody](https://www.py4e.com/lessons) | `Python` | - |
 | - | [Programming Languages Part A](https://www.coursera.org/learn/programming-languages) | `SML`, `Functional Programming` | [certificate](https://coursera.org/share/2bd21c10f04b11b7b281e247532d947e) |
-
-
-#### Data Science & ML 
-:bar_chart: 📉
-
-| **Subfolder** | **Course** | **Skills / Tools** | **Certificate** |
-|---|---|---|---|
+| `Java_Software_Engineering` | [Java Programming Software Engineering (Specialization)](https://www.coursera.org/specializations/java-programming) :star: | `Java`, `Algorithms` | [certificate](https://coursera.org/share/67a4748b70919a0cec42aeabfaa34fbd) |
+|**Data Science & ML**  ||||
 | `Intro_Applied_ML` | [Introduction to Applied Machine Learning](https://www.coursera.org/learn/machine-learning-applied) | `Machine Learning` | [certificate](https://coursera.org/share/a1047e69d7d1c1ee3f2c5d175ef0526e) |
-
-#### Web Development 
-:globe_with_meridians: :iphone:
-
+|**Web Development**  ||||
 | **Subfolder** | **Course** | **Skills / Tools** | **Certificate** |
 |---|---|---|---|
 | `WEB_DEVELOPMENT/CSS3/` | [Introduction to CSS3](https://www.coursera.org/learn/introcss) | `CSS`, `Web Design` | [certificate](https://coursera.org/share/b3e57d670043311ecf659b40941daf0a) |
