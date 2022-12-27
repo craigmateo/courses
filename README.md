@@ -17,6 +17,7 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
 
 ## Programming & CS
 Folder: `PROGRAMMING`
+
 :abacus: :computer:
 
 **Course** | **Skills / Tools** |**Certificate** |
@@ -63,7 +64,6 @@ Folder: `GUIDED_PROJECTS`
 Folder: `MATHEMATICS`
 #### 
 :triangular_ruler: :infinity:
-[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 
 |  **Course** | **Skills / Tools** | **Certificate** |
 |---|---|---|
