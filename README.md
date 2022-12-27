@@ -51,7 +51,7 @@ Folder: `GUIDED_PROJECTS`
 | [Crime Zone Heatmaps with Python and Folium](https://www.coursera.org/projects/crime-zone-heatmaps-python-folium) | `Pandas` `Folium` | [certificate](https://coursera.org/share/e91e4a694f3cc2a8f7b4d21961ff6f6c) |
 | [Introduction to C++ Programming: Build a Calculator](https://www.coursera.org/projects/introduction-to-cpp-programming-build-a-calculator) | `C++ Basics` | [certificate](https://coursera.org/share/1def281df55bda6d73843dd760ca9533) |
 | [Build a film club web app on Google AppEngine](https://www.coursera.org/projects/introduction-to-cpp-programming-build-a-calculator) | `Google App Engine (GAE)` `Flask` | [certificate](https://coursera.org/share/7627dacacd7926b851fc273d4ae4393b) |
-| `weather-app` | [Build a Full-Stack Server for API Requests - NodeJS and Pug](https://www.coursera.org/projects/basic-server-nodejs) | `NodeJS` `Pug` | [certificate](https://www.coursera.org/account/accomplishments/verify/N66Y3WR39KCY) |
+| [Build a Full-Stack Server for API Requests - NodeJS and Pug](https://www.coursera.org/projects/basic-server-nodejs) | `NodeJS` `Pug` | [certificate](https://www.coursera.org/account/accomplishments/verify/N66Y3WR39KCY) |
 | [School Registry using Object Oriented Programming in Java](https://www.coursera.org/projects/school-registry-using-object-oriented-programming-in-java) | `Java` `Swing` | [certificate](https://coursera.org/share/523022137509350dab3d4ab524dee75a) |
 | [Beginners Overview of Swagger Editor](https://www.coursera.org/projects/beginners-overview-of-swagger-editor-oas) | `APIs` `Documentation` `Swagger` | [certificate](https://coursera.org/share/1ba4b247e3141048e6b542fe637aca72) |
 | [Generate API Documentation from Postman](https://www.coursera.org/projects/generate-api-documentation-postman) | `APIs` `Documentation` `Postman` | [certificate](https://coursera.org/share/28cbea0ecb4cec04b95ba7407ef0537a) |
@@ -72,9 +72,9 @@ Folder: `MATHEMATICS`
 
 ***
 
-## Physical Sciences and Engineering
+## Physical Sciences & Engineering
 Folder: `SCIENCE AND ENGINEERING`
-#### Chemistry & Biology 
+
 :dna: :test_tube:
 
 | **Course** | **Skills / Tools** | **Certificate** |
@@ -87,7 +87,7 @@ Folder: `SCIENCE AND ENGINEERING`
 | [Intro to Digital Manufacturing with Autodesk Fusion 360](https://www.coursera.org/learn/introduction-digital-manufacturing-fusion-360) | `Computer-Aided Design (CAD)` `Mechanical Design` |  [certificate](https://coursera.org/share/eb92d9fb9e7b38bc74af48867572f6a3) |
 | [Materials Science: 10 Things Every Engineer Should Know](https://www.coursera.org/learn/materials-science) | `Materials` | [certificate](https://coursera.org/share/3e05d55215befe4e0be5331f13b516a6) |
 | [Digital Manufacturing & Design Technology (Specialization)](https://www.coursera.org/specializations/digital-manufacturing-design-technology) :star: | `Digital Design` `Manufacturing` `Industry 4.0` | [certificate](https://coursera.org/share/b6cede525d5e8fa91c94c03235da722c) |
-|**Geography & Geomatics **|||
+|**Geography & Geomatics**|||
 | [Remote Sensing Image Acquisition, Analysis and Applications](https://www.coursera.org/learn/remote-sensing) | `Remote Sensing` `Image Analysis` | [certificate](https://coursera.org/share/b2187f78888f022907ed733743e9b4e0) |
 | [Planet Earth...and You](https://www.coursera.org/learn/planet-earth) | `Geology` | [certificate](https://coursera.org/share/e06ec097fd706a71c58793f01c679a33) |
 
@@ -163,7 +163,7 @@ Folder: `SOCIAL SCIENCES`
 | [Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences](https://www.coursera.org/learn/philosophy-physical-sciences) | `Critical Thinking` `Conceptual Thinking` | [certificate](https://coursera.org/share/3b1a1ef06c23755e584d1bc9c1bf66c7) |
 | [Thought Experiments](https://www.coursera.org/learn/thought-experiments) | `Critical Thinking`, `Argumentation` | [certificate](https://coursera.org/share/2e179fffa69eba0161767c9efa6dab02) |
 | [What is “the mind” and what is artificial intelligence?](https://www.coursera.org/learn/mind-machine-artificial-intelligence?) | `Philosophy of Mind` `AI`| [certificate](https://coursera.org/share/902196c572fbb3dddc612ffcf8ea034b) |
-|**Language & Linguistics **|||
+|**Language & Linguistics**|||
 | [Chinese Characters for beginner 汉字](https://www.coursera.org/learn/hanzi) | `Mandarin` | [certificate](https://coursera.org/share/3d49d98278ab22884bb5910120272c76) |
 | [French Intermediate course B1-B2](https://www.coursera.org/learn/etudier-en-france) | `French` | [certificate](https://coursera.org/share/97af53fa70e933da8d7c83bc6529460d) |
 | [Introduction to Communication Science](https://www.coursera.org/learn/communication) | `Human Communication` | [certificate](https://coursera.org/share/9d3a96f127b025ccf516095adb437d87) |
@@ -175,6 +175,6 @@ Folder: `SOCIAL SCIENCES`
 Folder: `ART_DESIGN`
 
 | **Course** | **Skills / Tools** | **Certificate** |
-|---|---|---|---|
+|---|---|---|
 | [Guitar for Beginners](https://coursera.org/share/c83198bd639bda37fa8962439056c959) | `Tablature` `Music notation` `Guitar scales` `Guitar chords` `Guitar` | [certificate](https://coursera.org/share/c83198bd639bda37fa8962439056c959) |
 | [Drawing Nature, Science and Culture: Natural History Illustration 101](https://www.edx.org/course/drawing-nature-science-and-culture-natural-history) | `Drawing` `Illustration` | audit |
