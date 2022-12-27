@@ -151,6 +151,8 @@ Folder: `SOCIAL SCIENCES`
 |**Other**|||
 | [Animal Behaviour and Welfare](https://www.coursera.org/learn/animal-welfare) | `Animal` `Animal Behavior` `Veterinary` `Dog` | [certificate](https://coursera.org/share/b149daffa6a1cef44649daebb2fa9d23) |
 
+***
+
 ## Humanities
 Folder: `HUMANITIES`
 
@@ -169,6 +171,7 @@ Folder: `HUMANITIES`
 | [Corpus Linguistics: Method, Analysis, Interpretation](https://www.futurelearn.com/courses/corpus-linguistics) | `Corpus Linguistics` | audit |
 | [Miracles of Human Language: An Introduction to Linguistics](https://www.coursera.org/learn/human-language) | `Linguistics` | audit |
 
+***
 
 ## Arts and Design
 Folder: `ART_DESIGN`
