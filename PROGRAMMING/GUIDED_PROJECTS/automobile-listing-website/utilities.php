@@ -24,13 +24,17 @@ function calculateMonthlyPayment($principal, $numMonth, $rate) {
 // it calls calculateMonthlyPayment
 // and then multiply it by number of months
 // then returns the value
-
+function calculateTotalPayment($principal, $numMonth, $rate) {
+    return $numMonth*calculateMonthlyPayment($principal, $numMonth, $rate);
+}
 
 // define a function called calculateTotalInterest
 // it takes the same arguments as the one from above
 // it calls calculateTotalPayment
 // and then subtract the principal from it
 // then returns the value
-
+function calculateTotalInterest($principal, $numMonth, $rate) {
+    return calculateTotalPayment($principal, $numMonth, $rate) - $principal;
+}
 
 ?>
