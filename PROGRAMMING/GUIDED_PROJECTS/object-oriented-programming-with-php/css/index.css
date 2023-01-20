@@ -56,6 +56,13 @@
     text-align: center;
   }
   
+  .vehicle-engine {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3rem;
+    font-weight: bold;
+  }
+
   .vehicle-hr {
     margin-bottom: 0.3rem;
     margin-top: 0;
@@ -87,6 +94,13 @@
     margin-bottom: 0.3rem;
     margin-top: 0.1rem;
     padding-left: 5rem;
+  }
+  
+  .vehicle-options {
+    color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
   }
   
   .vehicle-price {
