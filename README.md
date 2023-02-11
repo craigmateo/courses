@@ -5,12 +5,15 @@ Code and files from coursework, tutorials, and MOOCs.
 The purpose of this is to keep a record of topics I've covered, to review code/concepts, etc.
 
 **Domains**:
-  * [Programming](#programming)
-  * [Mathematics](#mathematics)
-  * [Physical Sciences and Engineering](#physical-sciences-and-engineering)
-  * [Social Sciences](#social-sciences)
-  * [Humanities](#humanities)
-  * [Arts & Design](#arts-and-design)
+- [Courses](#courses)
+  - [Programming \& CS](#programming--cs)
+      - [Guided Projects](#guided-projects)
+  - [Mathematics](#mathematics)
+      - [](#)
+  - [Physical Sciences \& Engineering](#physical-sciences--engineering)
+  - [Social Sciences](#social-sciences)
+  - [Humanities](#humanities)
+  - [Arts and Design](#arts-and-design)
 
 :star: = _specialization (multi course)_
 :warning: = _incomplete_
@@ -23,8 +26,9 @@ Folder: `PROGRAMMING`
 **Course** | **Skills / Tools** |**Certificate** |
 |---|---|---|
 | **Core Programming**  |||
-| [How to Code: Simple Data](https://www.edx.org/course/how-to-code-simple-data) | `Algorithms` | :warning: |
 | [Python for Everybody](https://www.py4e.com/lessons) | `Python` | - |
+| [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/syllabus/) | `Python` | - |
+| [How to Code: Simple Data](https://www.edx.org/course/how-to-code-simple-data) | `Algorithms` | :warning: |
 | [Programming Languages Part A](https://www.coursera.org/learn/programming-languages) | `SML`, `Functional Programming` | [certificate](https://coursera.org/share/2bd21c10f04b11b7b281e247532d947e) |
 | [Java Programming Software Engineering (Specialization)](https://www.coursera.org/specializations/java-programming) :star: | `Java`, `Algorithms` | [certificate](https://coursera.org/share/67a4748b70919a0cec42aeabfaa34fbd) |
 |**Data Science & ML**  ||||
