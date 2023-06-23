@@ -33,6 +33,7 @@ Folder: `PROGRAMMING`
 | [Java Programming Software Engineering (Specialization)](https://www.coursera.org/specializations/java-programming) :star: | `Java`, `Algorithms` | [certificate](https://coursera.org/share/67a4748b70919a0cec42aeabfaa34fbd) |
 |**Data Science & ML**  ||||
 | [Introduction to Applied Machine Learning](https://www.coursera.org/learn/machine-learning-applied) | `Machine Learning` | [certificate](https://coursera.org/share/a1047e69d7d1c1ee3f2c5d175ef0526e) |
+| [Oracle Database Foundations](https://www.coursera.org/learn/introduction-to-oracle-sql?) | `Database` `SQL` | [certificate](https://coursera.org/share/0c18b23d0a594f9a5acdd62a3b1b8225) |
 |**Web Development**  ||||
 | [Introduction to CSS3](https://www.coursera.org/learn/introcss) | `CSS`, `Web Design` | [certificate](https://coursera.org/share/b3e57d670043311ecf659b40941daf0a) |
 | [Full Stack Development with React](https://www.coursera.org/specializations/full-stack-react) | `Bootstrap`, `Node.js`, `jQuery`, `SASS`, `Express.js` | :warning: |
