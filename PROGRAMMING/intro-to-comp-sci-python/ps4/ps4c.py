@@ -4,6 +4,7 @@
 # Time Spent: x:xx
 
 import string
+import random
 from ps4a import get_permutations
 
 ### HELPER CODE ###
@@ -18,14 +19,12 @@ def load_words(file_name):
     take a while to finish.
     '''
     
-    print("Loading word list from file...")
     # inFile: file
     inFile = open(file_name, 'r')
     # wordlist: list of strings
     wordlist = []
     for line in inFile:
         wordlist.extend([word.lower() for word in line.split(' ')])
-    print("  ", len(wordlist), "words loaded.")
     return wordlist
 
 def is_word(word_list, word):
@@ -123,13 +122,11 @@ class SubMessage(object):
         '''
         new = ''
         for i in self.message_text:
-            if i in string.ascii_letters:
+            if i in transpose_dict:
                 i = transpose_dict[i]
             new += i
         return new
-        
-        
-        
+               
 class EncryptedSubMessage(SubMessage):
     def __init__(self, text):
         '''
@@ -141,7 +138,7 @@ class EncryptedSubMessage(SubMessage):
             self.message_text (string, determined by input text)
             self.valid_words (list, determined using helper function load_words)
         '''
-        pass #delete this line and replace with your code here
+        SubMessage.__init__(self, text)
 
     def decrypt_message(self):
         '''
@@ -161,7 +158,39 @@ class EncryptedSubMessage(SubMessage):
         
         Hint: use your function from Part 4A
         '''
-        pass #delete this line and replace with your code here
+        words = self.get_valid_words()
+        msg = self.message_text.split()
+        max = 0
+        found_words = []
+        for word in msg:
+            v_inds = []
+            for letter in word:
+                if letter in VOWELS_LOWER:
+                    ind = word.index(letter)
+                    v_inds.append(ind)
+
+            word_new = [char for char in word.lower() if char in string.ascii_lowercase]
+            word_new = ''.join(word_new)
+
+
+            while word_new not in words:
+                randoms = random.sample([*VOWELS_LOWER], len(v_inds))
+                w = word_new
+                for i in range(len(randoms)):
+                    w = w.replace(word_new[v_inds[i]],randoms[i])
+                if w in words:
+                    found_words.append(w)
+                    break
+        for word_index in range(len(found_words)):
+            for char in found_words[word_index]:
+                if char in VOWELS_LOWER:
+                    ind = found_words[word_index].index(char)
+                    msg[word_index] = msg[word_index].replace(msg[word_index][ind], char)
+        return " ".join(msg)                    
+
+
+        
+        
     
 
 if __name__ == '__main__':
