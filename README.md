@@ -39,6 +39,8 @@ Folder: `PROGRAMMING`
 | [Networking](https://www.coursera.org/learn/computer-networking?specialization=google-it-support) | `Networking` | [certificate](https://coursera.org/share/d7254d1d1cfa15974ada0b7475662fb4) |
 | [Introduction to CSS3](https://www.coursera.org/learn/introcss) | `CSS`, `Web Design` | [certificate](https://coursera.org/share/d7254d1d1cfa15974ada0b7475662fb4) |
 | [Full Stack Development with React](https://www.coursera.org/specializations/full-stack-react) | `Bootstrap`, `Node.js`, `jQuery`, `SASS`, `Express.js` | :warning: |
+|**Security**  ||||
+| [Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity) | `Security` | [certificate](https://coursera.org/share/90c6059b85789bfb446f2581d34110a1) |
 
 
 
