@@ -42,6 +42,8 @@ Folder: `PROGRAMMING`
 | [Full Stack Development with React](https://www.coursera.org/specializations/full-stack-react) | `Bootstrap`, `Node.js`, `jQuery`, `SASS`, `Express.js` | :warning: |
 |**Security**  ||||
 | [Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity) | `Security` | [certificate](https://coursera.org/share/90c6059b85789bfb446f2581d34110a1) |
+|**Tools**  ||||
+| [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) | `Git` | - |
 
 
 
