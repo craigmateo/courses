@@ -9,7 +9,6 @@ The purpose of this is to keep a record of topics I've covered, to review code/c
   - [Programming \& CS](#programming--cs)
       - [Guided Projects](#guided-projects)
   - [Mathematics](#mathematics)
-      - [](#)
   - [Physical Sciences \& Engineering](#physical-sciences--engineering)
   - [Social Sciences](#social-sciences)
   - [Humanities](#humanities)
