@@ -76,15 +76,15 @@ Folder: `GUIDED_PROJECTS`
 
 ***
 
-## Mathematics 
+## Mathematics
 Folder: `MATHEMATICS`
-#### 
+####
 :triangular_ruler: :infinity:
 
 |  **Course** | **Skills / Tools** | **Certificate** |
 |---|---|---|
 | [Fibonacci Numbers and the Golden Ratio](https://www.coursera.org/learn/fibonacci) | `Mathematics`, `Proofs` | [certificate](https://coursera.org/share/a224649746a076d604afad9372acf9ab) |
-| [An Introduction to Mathematical Thinking ](https://www.coursera.org/learn/mathematical-thinking) | `Number Theory`, `Real Analysis`, `Logic` | audit |
+| [An Introduction to Mathematical Thinking ](https://www.coursera.org/learn/mathematical-thinking) | `Number Theory`, `Real Analysis`, `Logic` | [certificate](https://coursera.org/share/91de6b12f7baa17cca38684ea78778f3) |
 
 ***
 
@@ -100,6 +100,8 @@ Folder: `SCIENCE AND ENGINEERING`
 |  [Understanding Plants - Part I: What a Plant Knows](https://www.coursera.org/learn/plantknows) | `Plant Biology` `Genetics` `Cell Biology` `Plant` | [certificate](https://coursera.org/share/8f3302eeae23105deee85570e78446a2) |
 |**Engineering & Applied Sciences**|||
 | [Mastering Statics](https://www.coursera.org/learn/mastering-statics) | `Statics` | [certificate](https://coursera.org/share/4e9357756519c284f6cbd87425510eac) |
+| [Introduction to Engineering Mechanics](https://www.coursera.org/learn/engineering-mechanics-statics) | `Statics`, `Mechanics` | [certificate](https://coursera.org/share/731ce9e0de6c74c725a3d096e805f76a) |
+| [Applications in Engineering Mechanics](https://www.coursera.org/learn/engineering-mechanics-statics-2) | `Statics`, `Mechanics` | [certificate](https://coursera.org/share/6bd11bb775d80e87a72a2c6e46503298) |
 | [Intro to Digital Manufacturing with Autodesk Fusion 360](https://www.coursera.org/learn/introduction-digital-manufacturing-fusion-360) | `Computer-Aided Design (CAD)` `Mechanical Design` |  [certificate](https://coursera.org/share/eb92d9fb9e7b38bc74af48867572f6a3) |
 | [Materials Science: 10 Things Every Engineer Should Know](https://www.coursera.org/learn/materials-science) | `Materials` | [certificate](https://coursera.org/share/3e05d55215befe4e0be5331f13b516a6) |
 | [Digital Manufacturing & Design Technology (Specialization)](https://www.coursera.org/specializations/digital-manufacturing-design-technology) :star: | `Digital Design` `Manufacturing` `Industry 4.0` | [certificate](https://coursera.org/share/b6cede525d5e8fa91c94c03235da722c) |
