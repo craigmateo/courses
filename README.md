@@ -199,7 +199,7 @@ A consolidated record of online coursework and professional training.
 | Oracle Database Foundations | SQL, DB | [certificate](https://coursera.org/share/0c18b23d0a594f9a5acdd62a3b1b8225) |
 | AI Infrastructure & Operations Fundamentals | AI, GPU | [certificate](https://coursera.org/share/2bfde9b3a30e1f9196baf540348a5f86) |
 | AI Programming with Python | AI, Python | [certificate](www.udacity.com/certificate/e/82853e00-06ed-11f1-93f8-4fbb981bc8d2) |
-| Introduction to Machine Learning with Pytorch | AI, Python | - |
+| Introduction to Machine Learning with Pytorch | AI, Python | [certificate](www.udacity.com/certificate/e/48d51a66-0f87-11f1-b7f8-0b5c6d415104) |
 
 ### Web & Networking
 | Course | Skills | Certificate |
