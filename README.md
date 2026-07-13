@@ -235,7 +235,7 @@ A consolidated record of online coursework and professional training.
 |--------|--------|-------------|
 | Chemistry | Chemistry | audit |
 | Plant Biology | Biology | [certificate](https://coursera.org/share/8f3302eeae23105deee85570e78446a2) |
-| Introduction to Biology | Ecology, Evolution | [certificate 1](https://coursera.org/share/f1b987f1fa8dcf7ed45b0d911ab1824d), [certificate 2](https://coursera.org/share/80bd11f21a2a8580122b47dcae4a07bb) |
+| Introduction to Biology: Ecology, Evolution, & Biodiversity *Specialization* | Biology, Life Sciences | [certificate](https://coursera.org/share/940007d13e4e32a79cbaae693f132256) |
 
 ### Natural Sciences
 
