@@ -293,6 +293,7 @@ A consolidated record of online coursework and professional training.
 
 | Course | Skills | Certificate |
 |--------|--------|-------------|
+| Building a Bash Command-Line Tool | Unix Shell, Shell Script | [certificate](https://coursera.org/share/5a10738cc02ee2de3f77a45b40b9e8a9) |
 | Introduction to Docker | Docker, Containerization | [certificate](https://coursera.org/share/44e769adae6017598a3a2cdf712e3bff) |
 | KeplerGL Geospatial Viz | KeplerGL, GIS | [certificate](https://coursera.org/share/7dc60ed9659e9ac1572a88716d5c981b) |
 | K-Means (Happiness Data) | ML | [certificate](https://coursera.org/share/2d9d6f4c5b46ce52a13203e9c0aaa25b) |
